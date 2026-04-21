@@ -1,0 +1,6 @@
+{
+  "graphs": {
+    "collector": "./graph.py:graph"
+  },
+  "env": ".env"
+}

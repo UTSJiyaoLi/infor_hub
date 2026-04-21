@@ -1,0 +1,553 @@
+{
+  "topic": "tidal energy",
+  "user_goal": "find the most promising domain with strongest medium-term growth potential and practical engineering deployment outlook",
+  "model": "client=<openai.resources.chat.completions.completions.Completions object at 0x1534272bac90> async_client=<openai.resources.chat.completions.completions.AsyncCompletions object at 0x1534272e8750> root_client=<openai.OpenAI object at 0x1534272d7150> root_async_client=<openai.AsyncOpenAI object at 0x1534272b7c90> model_name='/share/home/lijiyao/CCCC/Models/llms/Llama-3.1-8B-Instruct' model_kwargs={} openai_api_key=SecretStr('**********')",
+  "raw_sources": [
+    {
+      "id": "src_20260409112615238861",
+      "title": "2024年最热门的国外听歌音乐软件推荐",
+      "url": "https://www.zhihu.com/tardis/zm/art/699991117",
+      "source_type": "web",
+      "collected_at": "2026-04-09T03:26:15.238861+00:00",
+      "text": "4，Tidal：音质优先的音乐软件，高解析音乐爱好者的首选 Tidal以其无损音质的音乐流服务在音乐发烧友中享有盛誉。 对于追求极致音质的中国用户而言，Tidal提供的高保真（HiFi）和Master音质的音乐流无疑是其最大的吸引力。\n\n2024年最热门的国外听歌音乐软件推荐\n2024年最热门的国外听歌音乐软件推荐\n海上生明月\n4\n赞同\n11\n收藏\n海外的音乐平台因其独特的版权库和全球化的服务，为我们打开了一扇了解世界音乐的窗口。本文将为大家介绍2024年最热门的国外听歌软件，从它们的功能到价格，乃至用户体验的各个方面，给大家提供一个全面的了解，帮助大家在音乐的海洋中自由航行，无论是探索最新的国际流行歌曲，还是那些小众但充满魅力的独立艺术家作品，都能找到一个合适的平台。让我们开始这场音乐的旅程吧，看看海外有哪些好用的听歌软件能让我们的音乐体验更上一层楼。\n2024年最热门的国外听歌音乐软件推荐\n以下便是在全球范围内知名度最高，口碑最好，使用人数最多，客户体验最好，音乐资源最丰富的的国外听歌音乐软件，大家可以根据自己的需求选择一款适合自己的即可。\n1，YouTube Music Premium：海外在线音乐的宝库，视频加音乐的完美组合\nYouTube Music Premium作为海外在线音乐的宝库，将视频和音乐的完美组合提升到了新的高度。它不仅仅是一个听歌软件，还是一个全方位的音乐体验平台，让你在全球范围内都能接触到丰富的音乐和视频内容。作为国外音乐软件的佼佼者，YouTube Music Premium提供了一个独特的特色，即集成了YouTube庞大的音乐视频库，使用户能够在听歌的同时欣赏到对应的MV，带来更加丰富的视听享受。\n除此之外，这款海外听歌软件还提供了丰富的个性化推荐，根据你的听歌历史和偏好，智能推送你可能喜欢的歌曲和艺术家。无论是流行音乐、独立音乐，还是少数民族音乐，YouTube Music Premium都能为你一网打尽。更重要的是，它支持后台播放和离线下载功能，即便在没有网络的情况下，也能让你享受不间断的音乐体验，这对于国内用户来说尤其实用。\nYouTube Music Premium对于追求高品质音乐体验的用户来说，是一个不可多得的选择。它不仅覆盖了广泛的音乐类型和风格，还通过其独特的视频集成功能，为音乐爱好者提供了一个全新的探索音乐的方式。尽管其音乐推荐系统有时不如某些专业的海外音乐播放器那样精准，但凭借YouTube庞大的音乐资源和便利的功能，YouTube Music Premium仍然是许多中国音乐爱好者海外听歌的优选软件。\nYouTube Music Premium的优点：\n提供海量的视频和音乐资源。\n可以访问用户上传的独特内容和现场表演。\n与YouTube平台无缝集成，便于发现新音乐。\n支持后台播放和下载功能。\nYouTube Music Premium缺点：\n推荐系统有时不如专业音乐服务精准。\n音质最高支持到256kbps的AAC格式。\nYouTube Music Premium价格：\n免费试用一个月。\n个人订阅$9.99/月。\n家庭计划$14.99/月，支持最多6人使用。\n2，Apple Music：海外音乐播放器的极致体验，与苹果生态无缝连接\nApple Music作为苹果公司推出的音乐流媒体服务，在中国用户中也享有极高的人气。它汇聚了超过9000万首歌曲，覆盖广泛的音乐类型，从最新的国际流行曲目到各种小众音乐风格，几乎可以满足所有人的音乐需求。Apple Music的音质也颇受好评，采用256kbps的AAC格式，提供了比普通MP3更为出色的听感体验。\n此外，Apple Music的音乐推荐功能结合了音乐专家的人工策划和智能算法的推荐，能够根据用户的播放历史和偏好，推荐个性化的歌曲和歌单，这对于希望发现新音乐的用户来说是一个巨大的加分项。对于苹果生态系统的用户而言，Apple Music的集成度更是无与伦比，无论是在iPhone、iPad还是Mac上，都能提供无缝的音乐体验。\n但对于偏爱中文歌曲的用户来说，Apple Music的中文曲库相对较少可能会是一个缺点。此外，虽然Apple Music在iOS设备上的使用体验非常流畅，但在Android设备上可能就略显逊色一些。尽管如此，对于追求高质量音乐体验的中国用户，Apple Music仍然是一个不可多得的海外音乐软件选择。\nApple Music优点：\n界面简洁，操作容易。\n拥有超过9000万首歌曲。\n采用256kbps的AAC格式，音质方面比较优秀，胜过MP3格式音乐。\n音乐专家和人工智能算法相结合，可以根据播放历史推荐音乐。\n可以在iOS设备上使用Siri播放或搜索音乐。\nApple Music缺点：\n中文歌曲资源偏少。\nAndroid版应用不如iOS应用体验流畅。\n不适用于旧的iPod。\nApple Music价格：\n免费试用三个月。\nVoice会员$4.99/月。\nStudent学生会员$5.99/月。\n普通用户$9.99/月。\nFamily家庭计划价格为$14.99/月，最多支持6个人。\n3，Amazon Music Unlimited：亚马逊生态中的听歌软件，适合Prime会员深度使用\nAmazon Music Unlimited作为亚马逊推出的海外音乐流媒体服务，在全球范围内提供了超过7500万首歌曲的海量音乐库。这款服务特别适合已经是Amazon Prime会员的用户，因为它们可以享受到额外的订阅优惠。与亚马逊的智能助手Alexa深度集成，让用户能够通过简单的语音指令播放音乐，这在国内用户中也逐渐受到欢迎。\n它的一个大亮点是支持高清音质和超高清音质的音乐播放，为追求音质的用户带来了福音。无论是在家中的高端音响系统上还是通过耳机，Amazon Music Unlimited都能提供满意的音乐享受。然而，对于那些不是Prime会员的用户来说，其月费可能稍显高出一些，而且在中国等地区的音乐库及时更新速度可能不及Spotify或Apple Music。\n尽管如此，对于已经深度融入亚马逊生态系统的用户，或是那些寻求海外高质量音乐体验的中国听众，Amazon Music Unlimited仍然是一个值得考虑的选项。\nAmazon Music Unlimited优点：\n与Amazon Echo设备和Alexa语音助手深度集成。\n提供超过7500万首高质量音乐。\n支持无损音质和HD音乐播放。\nPrime会员有优惠价格。\nAmazon Music Unlimited缺点：\n非Prime会员价格较高。\n在某些地区的音乐库更新速度不如竞争对手。\nAmazon Music Unlimited价格：\nPrime会员$7.99/月或$79/年。\n非Prime会员$9.99/月。\n家庭计划$14.99/月，最多6个账户。\n4，Tidal：音质优先的音乐软件，高解析音乐爱好者的首选\nTidal以其无损音质的音乐流服务在音乐发烧友中享有盛誉。对于追求极致音质的中国用户而言，Tidal提供的高保真（HiFi）和Master音质的音乐流无疑是其最大的吸引力。它的音乐库不仅丰富，还经常提供独家发行的音乐和视频，满足用户对音乐质量和内容独特性的双重需求。\nTidal不仅在音乐体验上下足了功夫，还致力于确保艺术家得到公平的待遇，支付给音乐创作者更高的版税。这一点也让很多支持音乐产业可持续发展的中国用户感到认同。然而，高品质音乐的享受也伴随着更高的订阅费用，这可能会让一些预算有限的用户望而却步。\n虽然Tidal在中国的知名度可能不及某些其他国外音乐软件，但对于那些不惜一切代价追求音乐质量的发烧友来说，Tidal绝对值得尝试。\nTidal优点：\n提供高保真（HiFi）和Master质量的音乐，致力于提供无损音质。\n拥有独家内容和预发布专辑。\n支持艺术家的公平付费模式。\nTidal缺点：\n高保真音质的订阅价格相对较高。\n在某些地区，音乐库可能不如其他大型音乐流媒体服务全面。\nTidal价格：\nHiFi $9.99/月。\nHiFi Plus $19.99/月。\n5，Spotify：国外听歌软件中的佼佼者，推荐系统独树一帜\nSpotify这个名字在中国的音乐爱好者中几乎家喻户晓。作为全球最大的音乐流媒体服务之一，Spotify以其丰富的音乐库、出色的个性化推荐系统和友好的用户界面，在海外听歌软件中占据了领先地位。它能根据你的音乐口味自动推荐歌单和新发现，让用户即使身处国外，也能轻松找到符合自己喜好的音乐。\nSpotify的社交功能也是一大亮点，用户可以看到朋友正在听什么音乐，甚至共享歌单，增加了音乐体验的互动性。但对于一些习惯了免费享受音乐的中国用户来说，Spotify的广告支持版可能会因广告插播和音质限制而影响听歌体验。它提供了一个无与伦比的国外音乐世界。\nSpotify优点：\n用户友好的界面和强大的音乐发现功能。\n庞大的音乐库和卓越的社交分享功能。\n跨平台支持，包括手机、电脑和智能音箱。\nSpotify缺点：\n免费版有广告且音质受限。\n在某些地区，版权问题可能导致音乐库有所限制。\nSpotify价格：\n免费版（带广告）。\n个人订阅$9.99/月。\nDuo计划$12.99/月（两个账户）。\n家庭计划$15.99/月，最多6个账户。\n6，Deezer：多元化的海外音乐软件，个性化音乐流媒体服务\nDeezer可能在中国用户中的知名度不如Spotify或Apple Music那样高，但它作为一个多元化的海外音乐流媒体服务，同样提供了超过5600万首曲目的庞大音乐库。它的个性化功能非常出色，能够根据用户的听歌习惯推荐歌曲，让用户发现新音乐的同时，也能享受到贴合个人喜好的音乐体验。\nDeezer的音质也是一大卖点，提供了360 Reality Audio音乐，为寻求新鲜听感体验的用户提供了全新的音乐享受。不过，对于习惯使用国内音乐服务的用户来说，Deezer的界面和操作习惯可能需要一定时间去适应。尽管如此，Deezer以其全面的音乐服务和优质的音乐体验，在海外音乐软件中仍然占有一席之地。\nDeezer优点：\n提供了一个广泛的音乐库和360 Reality Audio音乐。\n强大的个性化推荐和智能流功能。\n支持多种语言。\nDeezer缺点：\n在某些地区，知名度和用户基础不如Spotify或Apple Music。\n高质量音乐选项的价格略高。\nDeezer价格：\n免费版（带广告）。\nPremium $9.99/月。\nFamily $14.99/月，最多6个账户。\n7，Qobuz：专注高音质的海外听歌软件，为音乐发烧友设计\nQobuz是一款专为音质发烧友设计的海外音乐播放器，以其提供的高分辨率音乐流服务在专业音乐听众中建立了良好的口碑。对于那些不满足于常规音质，追求音乐细节和深度的中国用户，Qobuz提供了一个理想的选择。它的音乐库不仅涵盖了广泛的流派，还包含了许多高解析度的专辑，可以让用户享受到接近原始录音室质量的音乐体验。\n除了音质上的优势，Qobuz还提供了丰富的音乐资讯和编辑内容，包括专辑评论和艺术家采访，这对于希望深入了解音乐背后故事的用户来说，是一个不小的加分项。然而，高品质音乐的享受也意味着更高的订阅费用，这可能会让预算有限的用户犹豫。此外，Qobuz在中国大陆的可用性和知名度相比其他服务可能较低，但对于真正的音质追求者而言，这些都不是问题。\nQobuz优点：\n提供高分辨率音乐流服务，致力于提供最高品质的音乐体验。\n拥有丰富的音乐库，包含很多高解析音乐和经典专辑。\n提供详细的音乐信息和丰富的书籍资料。\nQobuz缺点：\n相比其他国外音乐软件，价格较高。\n在一些地区的曲库可能不如其他服务全面。\nQobuz价格：\nStudio Premier $14.99/月或$149.99/年。\nSublime+ $249.99/年（提供高解析音乐购买折扣）。\n8，SoundCloud：独立音乐人的聚集地，创新音乐作品的发现平台\nSoundCloud在国内外独立音乐人和音乐爱好者之间享有极高的声誉。它提供了一个平台，让创作者可以上传自己的音乐作品，与全球听众分享。对于喜欢探索新音乐，尤其是独立音乐和地下音乐的中国用户，SoundCloud是一个宝藏。这里有着大量的独立制作音乐、混音和现场录音，很多都是在其他主流音乐平台上找不到的。\nSoundCloud的社区氛围强烈，用户可以直接在歌曲下面评论，与艺术家和其他听众互动，这种社交元素增加了音乐体验的趣味性。不过，由于SoundCloud上的内容质量参差不齐，用户有时可能需要花费更多时间来寻找自己喜欢的音乐。尽管SoundCloud提供了免费版本，但高级功能如无限跳过和离线听歌等则需要订阅付费版本。\nSoundCloud优点：\n为独立艺术家和新兴音乐人提供了一个展示和分享音乐的平台。\n拥有大量的独立音乐和混音作品，适合寻找非主流音乐。\n用户可以上传自己的作品，与全球听众互动。\nSoundCloud缺点：\n相对于其他音乐流媒体服务，主流音乐的覆盖较少。\n一些高级功能需要订阅付费版。\nSoundCloud价格：\nSoundCloud Go $4.99/月。\nSoundCloud Go+ $9.99/月。\n9，Pandora：个性化电台的国外音乐软件，音乐探索的新方式\nPandora是一款以个性化音乐电台闻名的国外音乐软件，通过其独特的音乐推荐算法（Music Genome Project）为用户提供定制的音乐体验。这一服务特别适合不喜欢手动选择歌曲，而更倾向于根据心情和场合自动播放音乐的中国用户。只需选择一个喜欢的歌手或歌曲作为种子，Pandora就能创建一个播放列表，不断地为你推荐类似风格的音乐。\n虽然Pandora在音乐发现方面表现出色，但它的服务主要集中在美国。此外，免费版本的Pandora带有广告，且功能上有一定限制，如不能主动选择播放特定歌曲。尽管如此，对于喜欢通过音乐探索新风格和艺术家的用户，Pandora提供了一个不同于传统音乐库搜索的新鲜体验。\nPandora优点：\n提供个性化的音乐电台，根据用户的喜好自动生成播放列表。\n简单易用的界面，适合想要“随机播放”的听众。\n有广泛的音乐和艺术家信息库。\nPandora缺点：\n免费版本有广告，且不能选择具体歌曲播放。\n在非美国地区的可用性受限。\nPandora价格：\nPandora Plus $4.99/月。\nPandora Premium $9.99/月。\n10，iHeartRadio：实时广播与音乐流媒体相结合，覆盖广泛的听众群体。\niHeartRadio结合了实时广播和音乐流媒体服务，为用户提供了丰富多样的听觉选择。这款软件不仅提供数千个现场广播电台，覆盖新闻、体育、谈话节目等多个领域，还有专门的音乐站点和播客，满足不同用户的需求。对于那些习惯于收听广播，喜欢在听音乐的同时获取最新信息的中国用户，iHeartRadio是一个理想的选择。\n尽管如此，与专注于提供音乐库的服务相比，iHeartRadio在个性化音乐推荐和音乐选择上可能略显不足。它的强项在于提供广泛的广播内容和播客，对于那些寻找特定歌曲或高度个性化音乐体验的用户，可能需要考虑其他音乐流媒体服务。不过，对于喜欢广播形式和寻找多元化听觉体验的用户，iHeartRadio提供了一个独特的平台。\niHeartRadio优点：\n提供了广泛的免费广播电台和播客，涵盖音乐、新闻、体育等多个领域。\n实时广播电台和定制播放列表相结合。\n支持各种设备和平台。\niHeartRadio缺点：\n相比专门的音乐流媒体服务，个性化和音乐选择上可能略显不足。\n高级功能需要付费订阅。\niHeartRadio价格：\niHeartRadio Plus $4.99/月。\niHeartRadio All Access $9.99/月。\n还有哪些国外听歌软件值得推荐？\n在国外听歌软件的大海中，除了那些耳熟能详的名字之外，确实还有一些珍藏版的宝藏等着我们去发掘。对于追求新鲜音乐体验的中国用户来说，以下这些平台同样值得一试：\nBandcamp：独立音乐人的乐园，这里有大量独立制作的音乐作品，支持直接购买，是喜欢支持原创的你不可错过的平台。\nNapster（前Rhapsody）：虽然名字老旧，但服务现代化，提供超过6000万首曲目，音乐爱好者的另一个选择。\nGaana：专注于印度音乐市场，提供各种语言的歌曲，对于喜欢探索印度音乐的用户是个不错的选择。\nJioSaavn：另一个印度音乐流媒体服务，提供丰富的印度和国际音乐，界面友好，易于使用。\nKKBOX：亚洲的音乐流媒体巨头，尤其在华语音乐领域有很强的影响力，对于中国用户来说非常亲切。\nAnghami：中东最大的音乐流媒体平台，提供阿拉伯音乐及国际流行音乐，是探索中东音乐的窗口。\nJamendo：专注于独立音乐，所有曲目均可免费下载和流媒体播放，支持艺术家的同时享受音乐。\n8tracks：提供基于心情和活动的播放列表，由用户创建，是寻找音乐灵感和新曲目的好去处。\nHype Machine：追踪各大音乐博客，汇总最新的音乐趋势和作品，对于追新的你来说是个好帮手。\nSoundHound：不仅是识别音乐的神器，也提供音乐播放功能，让你发现和播放识别出来的歌曲。\n以上这些国外听歌软件也是各有千秋，无论是喜欢探索独立艺术家作品的你，还是对特定地区音乐文化感兴趣的你，总能在这个列表中找到心仪的国外音乐软件。\n总结 ：最热门的国外听歌音乐软件推荐\n对于我们中国的音乐爱好者来说，探索和享受国外的音乐成为了一种越来越流行的趋势。无论是悠扬的西方古典音乐，还是激昂的拉丁节奏，亦或是深情的印度曲调，都有着无穷的魅力等待我们去发现。那么，究竟哪些国外听歌音乐软件值得我们推荐呢？\n首先，Spotify无疑是名列前茅的选择。它以庞大的音乐库和精准的个性化推荐系统闻名于世，几乎能满足你所有的音乐需求。紧随其后的是Apple Music，不仅因为它的高音质，更因为它在华语音乐上的丰富资源，对中国用户尤其友好。\n对于追求音质的朋友，Tidal和Qobuz是不可错过的选择。它们提供了无损音质的音乐，让每一位音乐发烧友都能享受到最纯净的音乐体验。而YouTube Music Premium则以其独有的视频音乐资源占据了一席之地，让你在听歌的同时，也能享受到音乐视频带来的视觉盛宴。\n除此之外，Deezer、Amazon Music Unlimited、SoundCloud等软件也各有千秋，无论是Deezer的Flow个性化推荐功能，还是Amazon Music Unlimited与Alexa的深度整合，亦或是SoundCloud上独立音乐人的创新作品，都能为你的音乐生活增添不少乐趣。\n总之，无论你的音乐口味是什么，总有一款国外听歌音乐软件能满足你的需求。在这个音乐无国界的时代，让我们一起跨越语言和文化的界限，享受全球化带来的音乐盛宴吧！\n每日微语报\n1、广佛南环、佛莞城际26日正式运营，与已开通的佛肇城际、莞惠城际相连，实现\"四线\"贯通运营，全长258公里、横跨佛山，肇庆、东莞、惠州、广州5城；\n2、催收新政实施：每日不得超过3个电话，晚上10点以后不能催收，不应向联系人催收，行业规范化再升级；\n3、26日上午，重庆一条隧道出现渗水情况，现场如同水帘洞，通车时间不足3年；\n4、云南文山：端午节放假、与周末连休，共计6天，不调休；\n5、北京警方面向社会征集线索：举报群租房、日租房等有奖；\n6、25日，黄山飞来石突发雷击13名游客受伤，景区回应：已临时关闭，初步调查是护栏遭雷击受损，碎石击伤附近游客，1名游客因灼伤转院，其余轻伤已离院；\n7、江苏常熟一公司仓库钢制平台局部塌陷，致3人死亡；\n8、印度游乐场火灾遇难人数增至35人，其中包括12名儿童，警方：起火原因或与焊接工作有关；联合国机构：估算巴布亚新几内亚大规模山体滑坡的死亡人数已超670人；\n9、当地26日下午，卡塔尔航空一波音787客机遇严重气流，机上12人受伤；\n10、日媒：当地26日凌晨，日本茨城县发生4.6级地震，东京有震感；当地26日早，智利北部地区发生5.2级地震，暂无人员伤亡；\n11、G7呼吁共同应对中国产业政策，德国财长：贸易战只有输家，没有赢家；\n12、外媒：以色列下周将重启加沙停火谈判，哈马斯否认；加沙卫生部门：本轮巴以冲突已致加沙35984人死亡；\n13、外媒：当地26日，马克龙到访德国，系24年来法国总统首次对德进行国事访问；\n14、波兰外长：美已警告俄勿使用核武器，否则将对前线俄方阵地实施打击；\n15、乌克兰：25日，哈尔科夫建材超市遭俄军袭击，已致12死43伤。泽连斯基敦促盟友为乌提供足够的防空系统；德国总理朔尔茨：德国不想卷入冲突，不会向乌提供\"金牛座\"巡航导弹；\n【微语】应该努力地去生活，对过往闭口不提，是好是坏皆为经历。\n编辑于 2024-05-31 · 著作权归作者所有"
+    },
+    {
+      "id": "src_20260409032649501432",
+      "title": "https://en.wikipedia.org/wiki/Tidal_power",
+      "url": "https://en.wikipedia.org/wiki/Tidal_power",
+      "source_type": "fallback_public",
+      "collected_at": "2026-04-09T03:26:49.501432Z",
+      "text": "Tidal power - Wikipedia \n (function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled wp25eastereggs-enable-clientpref-1 vector-toc-available skin-theme-clientpref-thumb-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"b7812ad9-87b6-4090-84f3-18fa5e0cef8d\",\"wgCanonicalNamespace\":\"\",\"wgCanonicalSpecialPageName\":false,\"wgNamespaceNumber\":0,\"wgPageName\":\"Tidal_power\",\"wgTitle\":\"Tidal power\",\"wgCurRevisionId\":1329701297,\"wgRevisionId\":1329701297,\"wgArticleId\":325060,\"wgIsArticle\":true,\"wgIsRedirect\":false,\"wgAction\":\"view\",\"wgUserName\":null,\"wgUserGroups\":[\"*\"],\"wgCategories\":[\"CS1 maint: multiple names: authors list\",\"CS1 maint: numeric names: authors list\",\"Webarchive template wayback links\",\"All articles with dead external links\",\"Articles with dead external links from January 2019\",\"Articles with permanently dead external links\",\"Articles with dead external links from October 2022\",\"CS1 maint: archived copy as title\",\"Articles with dead external links from June 2016\",\"CS1 errors: missing periodical\",\"Articles with short description\",\"Short description matches Wikidata\",\"Articles containing potentially dated statements from 2024\",\"All articles containing potentially dated statements\",\"Commons category link is on Wikidata\",\"Tidal power\",\"Bright green environmentalism\",\"Coastal construction\",\"Tides\",\"Renewable energy\"],\"wgPageViewLanguage\":\"en\",\"wgPageContentLanguage\":\"en\",\"wgPageContentModel\":\"wikitext\",\"wgRelevantPageName\":\"Tidal_power\",\"wgRelevantArticleId\":325060,\"wgTempUserName\":null,\"wgIsProbablyEditable\":true,\"wgRelevantPageIsProbablyEditable\":true,\"wgRestrictionEdit\":[],\"wgRestrictionMove\":[],\"wgNoticeProject\":\"wikipedia\",\"wgFlaggedRevsParams\":{\"tags\":{\"status\":{\"levels\":1}}},\"wgConfirmEditCaptchaNeededForGenericEdit\":\"hcaptcha\",\"wgConfirmEditHCaptchaVisualEditorOnLoadIntegrationEnabled\":false,\"wgConfirmEditHCaptchaSiteKey\":\"5d0c670e-a5f4-4258-ad16-1f42792c9c62\",\"wgMediaViewerOnClick\":true,\"wgMediaViewerEnabledByDefault\":true,\"wgPopupsFlags\":0,\"wgVisualEditor\":{\"pageLanguageCode\":\"en\",\"pageLanguageDir\":\"ltr\",\"pageVariantFallbacks\":\"en\"},\"wgMFDisplayWikibaseDescriptions\":{\"search\":true,\"watchlist\":true,\"tagline\":false,\"nearby\":true},\"wgWMESchemaEditAttemptStepOversample\":false,\"wgWMEPageLength\":60000,\"wgEditSubmitButtonLabelPublish\":true,\"wgVisualEditorPageIsDisambiguation\":false,\"wgULSPosition\":\"interlanguage\",\"wgULSisCompactLinksEnabled\":false,\"wgVector2022LanguageInHeader\":true,\"wgULSisLanguageSelectorEmpty\":false,\"wgWikibaseItemId\":\"Q184037\",\"wgCheckUserClientHintsHeadersJsApi\":[\"brands\",\"architecture\",\"bitness\",\"fullVersionList\",\"mobile\",\"model\",\"platform\",\"platformVersion\"],\"GEHomepageSuggestedEditsEnableTopics\":true,\"wgGESuggestedEditsTaskTypes\":{\"taskTypes\":[\"copyedit\",\"link-recommendation\"],\"unavailableTaskTypes\":[]},\"wgGETopicsMatchModeEnabled\":false,\"wgGELevelingUpEnabledForUser\":false,\"wgTestKitchenUserExperiments\":{\"overrides\":[],\"enrolled\":[],\"assigned\":[],\"subject_ids\":[]}};\nRLSTATE={\"ext.globalCssJs.user.styles\":\"ready\",\"site.styles\":\"ready\",\"user.styles\":\"ready\",\"ext.globalCssJs.user\":\"ready\",\"user\":\"ready\",\"user.options\":\"loading\",\"ext.wikimediamessages.styles\":\"ready\",\"ext.cite.styles\":\"ready\",\"skins.vector.search.codex.styles\":\"ready\",\"skins.vector.styles\":\"ready\",\"skins.vector.icons\":\"ready\",\"jquery.makeCollapsible.styles\":\"ready\",\"ext.visualEditor.desktopArticleTarget.noscript\":\"ready\",\"ext.uls.interlanguage\":\"ready\",\"wikibase.client.init\":\"ready\",\"ext.wikimediaBadges\":\"ready\",\"ext.wp25EasterEggs.styles\":\"ready\"};RLPAGEMODULES=[\"ext.parsermigration.survey\",\"ext.cite.ux-enhancements\",\"mediawiki.page.media\",\"site\",\"mediawiki.page.ready\",\"jquery.makeCollapsible\",\"mediawiki.toc\",\"skins.vector.js\",\"ext.centralNotice.geoIP\",\"ext.centralNotice.startUp\",\"ext.gadget.ReferenceTooltips\",\"ext.gadget.switcher\",\"ext.urlShortener.toolbar\",\"ext.centralauth.centralautologin\",\"mmv.bootstrap\",\"ext.popups\",\"ext.visualEditor.desktopArticleTarget.init\",\"ext.echo.centralauth\",\"ext.eventLogging\",\"ext.wikimediaEvents\",\"ext.navigationTiming\",\"ext.uls.interface\",\"ext.cx.eventlogging.campaigns\",\"ext.cx.uls.quick.actions\",\"wikibase.client.vector-2022\",\"wikibase.databox.fromWikidata\",\"ext.checkUser.clientHints\",\"ext.quicksurveys.init\",\"ext.growthExperiments.SuggestedEditSession\",\"ext.testKitchen\",\"ext.wp25EasterEggs\"]; \n (RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return[\"user.options@12s5i\",function($,jQuery,require,module){mw.user.tokens.set({\"patrolToken\":\"+\\\\\",\"watchToken\":\"+\\\\\",\"csrfToken\":\"+\\\\\"});\n}];});}); \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n   Jump to content \n \n\t \n\t\t \n\t\t\t \n\t\t\t\t\n \n\t \n\t   \n\n Main menu \n\t \n\t \n\n\n\t\t\t\t \n\t\t\n \n\t \n\t Main menu \n\t move to sidebar \n\t hide \n \n\n\t\n \n\t \n\t\tNavigation\n\t \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t   Main page      Contents      Current events      Random article      About Wikipedia      Contact us   \n\t\t \n\t\t\n\t \n \n\n\t\n \n\t \n\t\tContribute\n\t \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t   Help      Learn to edit      Community portal      Recent changes      Upload file      Special pages   \n\t\t \n\t\t\n\t \n \n\n \n\n\t\t\t\t \n\n\t \n \n\n\t\t \n\t\t\t\n \n\t \n\t \n\t\t \n\t\t \n\t \n \n\n\t\t \n\t\t \n\t\t\t\n \n\t   \n\n Search \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t  \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t\t Search \n\t\t\t \n\t\t \n\t \n \n\n\t\t\t \n\t \n\t\n \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t\n\t\t \n\t\t\n\t \n \n\n\t\n \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t\n\t\t \n\t\t\n\t \n \n\n\t \n\t\t\n \n\t \n\t   \n\n Appearance \n\t \n\t \n\n\n\t\t\t \n\t\t\t\t\n\t\t\t \n\t\t\n\t \n \n\n\t \n\t\n \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t\n\t\t \n\t\t\n\t \n \n\n\t\n \n\t \n\t\t\n\t\t \n\t\t\t   Donate  \n \n   Create account  \n \n   Log in  \n \n\n\t\t\t\n\t\t \n\t\t\n\t \n \n\n\t \n\t\n \n\t \n\t   \n\n Personal tools \n\t \n\t \n\n\n\t\t\n \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t      Donate         Create account         Log in   \n\t\t \n\t\t\n\t \n \n\n\t\n\t \n \n\n \n\n\t\t \n\t \n \n \n\t \n\t\t \n\t\t\t       \n\t\t \n\t\t \n\t\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\n\t\t\t\t \n\t\t \n\t\t \n\t \n\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t \n\t Contents \n\t move to sidebar \n\t hide \n \n\n\n\t \n\t\t \n\t\t\t \n\t\t\t\t (Top) \n\t\t\t \n\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t 1 \n\t\t\t\t Principle \n\t\t\t \n\t\t \n\t\t\n\t\t \n\t\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 2 \n\t\t\t\t Methods \n\t\t\t \n\t\t \n\t\t\n\t\t\t \n\t\t\t\t  \n\t\t\t\t Toggle Methods subsection \n\t\t\t \n\t\t\n\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 2.1 \n\t\t\t\t\t Tidal stream generator \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 2.2 \n\t\t\t\t\t Tidal barrage \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 2.3 \n\t\t\t\t\t Tidal lagoon \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 2.4 \n\t\t\t\t\t Dynamic tidal power \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 3 \n\t\t\t\t US and Canadian studies in the 20th century \n\t\t\t \n\t\t \n\t\t\n\t\t \n\t\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 4 \n\t\t\t\t US studies in the 21st century \n\t\t\t \n\t\t \n\t\t\n\t\t \n\t\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 5 \n\t\t\t\t Rance tidal power plant in France \n\t\t\t \n\t\t \n\t\t\n\t\t \n\t\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 6 \n\t\t\t\t Tidal power development in the UK \n\t\t\t \n\t\t \n\t\t\n\t\t \n\t\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 7 \n\t\t\t\t Current and future tidal power schemes \n\t\t\t \n\t\t \n\t\t\n\t\t \n\t\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 8 \n\t\t\t\t Issues and challenges \n\t\t\t \n\t\t \n\t\t\n\t\t\t \n\t\t\t\t  \n\t\t\t\t Toggle Issues and challenges subsection \n\t\t\t \n\t\t\n\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 8.1 \n\t\t\t\t\t Environmental concerns \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 8.1.1 \n\t\t\t\t\t Tidal turbines \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 8.1.2 \n\t\t\t\t\t Tidal barrage \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 8.1.3 \n\t\t\t\t\t Tidal lagoon \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 8.2 \n\t\t\t\t\t Corrosion \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 8.3 \n\t\t\t\t\t Fouling \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 8.4 \n\t\t\t\t\t Cost \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 9 \n\t\t\t\t Structural health monitoring \n\t\t\t \n\t\t \n\t\t\n\t\t \n\t\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 10 \n\t\t\t\t See also \n\t\t\t \n\t\t \n\t\t\n\t\t \n\t\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 11 \n\t\t\t\t References \n\t\t\t \n\t\t \n\t\t\n\t\t \n\t\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 12 \n\t\t\t\t Further reading \n\t\t\t \n\t\t \n\t\t\n\t\t \n\t\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 13 \n\t\t\t\t External links \n\t\t\t \n\t\t \n\t\t\n\t\t \n\t\t \n\t \n \n \n\n\t\t\t\t\t \n\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t\n \n\t \n\t   \n\n Toggle the table of contents \n\t \n\t \n\n\n\t\t\t\t\t\t\t \n\t\t\t \n\t\t\n\t \n \n\n\t\t\t\t\t \n\t\t\t\t\t  Tidal power  \n\t\t\t\t\t\t\t\n \n\t \n\t   \n\n 45 languages \n\t \n\t \n\n\t\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t   العربية      Asturianu      Azərbaycanca      Български      Català      Cymraeg      Dansk      Esperanto      Español      Eesti      Euskara      فارسی      Suomi      Français      Gaeilge      Galego      עברית      हिन्दी      Hrvatski      Magyar      Հայերեն      Bahasa Indonesia      Íslenska      Italiano      日本語      ಕನ್ನಡ      한국어      Lietuvių      Македонски      Nederlands      Norsk nynorsk      Norsk bokmål      Polski      پښتو      Português      Română      Srpskohrvatski / српскохрватски      Simple English      Shqip      தமிழ்      ไทย      Türkçe      Tiếng Việt      吴语      中文   \n\t\t\t \n\t\t\t   Edit links   \n\t\t \n\n\t \n \n \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\n \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t   Article      Talk   \n\t\t \n\t\t\n\t \n \n\n\t\t\t\t\t\t\t\t\n \n\t \n\t  English \n\t \n\t \n\n\n\t\t\t\t\t\n \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t\n\t\t \n\t\t\n\t \n \n\n\t\t\t\t\n\t \n \n\n\t\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\n \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t   Read      Edit      View history   \n\t\t \n\t\t\n\t \n \n\n\t\t\t\t\t\t\t \n\t\t\t\t\n\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\n \n\t \n\t  Tools \n\t \n\t \n\n\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\n \n\t \n\t Tools \n\t move to sidebar \n\t hide \n \n\n\t\n \n\t \n\t\tActions\n\t \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t   Read      Edit      View history   \n\t\t \n\t\t\n\t \n \n\n \n\t \n\t\tGeneral\n\t \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t   What links here      Related changes      Upload file      Permanent link      Page information      Cite this page      Get shortened URL   \n\t\t \n\t\t\n\t \n \n\n \n\t \n\t\tPrint/export\n\t \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t   Download as PDF      Printable version   \n\t\t \n\t\t\n\t \n \n\n \n\t \n\t\tIn other projects\n\t \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t   Wikimedia Commons      Wikidata item   \n\t\t \n\t\t\n\t \n \n\n \n\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\n\t \n \n\n\t\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t  \n\t\t\t\t\t\t \n\t\t\t\t\t\t\t \n\t\t\t\t\n\t\t\t\t\t\t\t \n\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t\t \n\t\t\t\t \n\t \n\t Appearance \n\t move to sidebar \n\t hide \n \n\n\n \n\n\t\t\t\t\t\t\t \n\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t\t \n\t\t \n\n\t\t\t\t\t\t From Wikipedia, the free encyclopedia \n\t\t\t\t\t \n\t\t\t\t\t    \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t  \n   Technology to convert the energy from tides into useful forms of power \n      Sihwa Lake Tidal Power Station , located in  Gyeonggi Province , South Korea, is the world's largest tidal power installation, with a total power output capacity of 254&#160;MW.  \n     The  Rance Tidal Power Station , in  Brittany , northwestern France, was the first large-scale tidal power station (1966), with a total power output capacity of 240&#160;MW   \n .mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:\": \"}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:\"\\a0 · \";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:\" (\";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:\")\";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:\" \"counter(listitem)\"\\a0 \"}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:\" (\"counter(listitem)\"\\a0 \"}  .mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:var(--background-color-neutral-subtle,#f8f9fa);border:1px solid var(--border-color-base,#a2a9b1);padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:640px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}body.skin--responsive .mw-parser-output .sidebar a>img{max-width:none!important}@media screen{html.skin-theme-clientpref-night .mw-parser-output .sidebar:not(.notheme) .sidebar-list-title,html.skin-theme-clientpref-night .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle{background:transparent!important}html.skin-theme-clientpref-night .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle a{color:var(--color-progressive)!important}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sidebar:not(.notheme) .sidebar-list-title,html.skin-theme-clientpref-os .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle{background:transparent!important}html.skin-theme-clientpref-os .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle a{color:var(--color-progressive)!important}}@media print{body.ns-0 .mw-parser-output .sidebar{display:none!important}}     Part of a series on     Renewable energy              \n   Biofuel  \n  Biogas  \n  Biomass  \n  Carbon-neutral fuel  \n  Crosswind kite power  \n  Geothermal energy  \n  Geothermal heating  \n  Geothermal power  \n  Hydroelectricity \n   Run-of-the-river    \n  Hydropower \n   Micro hydro  \n  Pico hydro  \n  Small hydro    \n  Marine current power  \n  Marine energy  \n  Ocean thermal  \n  Osmotic power  \n  Solar energy  \n  Solar power  \n  Sustainable biofuel  \n  Tidal power \n   Tidal stream generator    \n  Wave power  \n  Wind power    \n   \n   Nuclear power proposed as renewable energy    \n   \n   Topics by country and territory  \n  Marketing and policy trends    \n     .mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:\"[ \"}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:\" ]\"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}      v      t      e         \n      Part of a series on     Sustainable energy              \n   Energy conservation   \n   Arcology  \n  Building insulation  \n  Cogeneration  \n  Compact fluorescent lamp  \n  Eco hotel  \n  Eco-cities  \n  Ecohouse  \n  Ecolabel  \n  Efficient energy use  \n  Energy audit  \n  Energy efficiency implementation  \n  Energy recovery  \n  Energy recycling  \n  Energy saving lamp  \n  Energy Star  \n  Energy storage  \n  Environmental planning  \n  Environmental technology  \n  Fossil fuel phase-out  \n  Glass in green buildings  \n  Green building and wood  \n  Green building  \n  Heat pump  \n  List of low-energy building techniques  \n  Low-energy house  \n  Microgeneration  \n  Passive house  \n  Passive solar building design  \n  Sustainable architecture  \n  Sustainable city  \n  Sustainable habitat  \n  Sustainable refurbishment  \n  Thermal energy storage  \n  Tropical green building  \n  Waste-to-energy  \n  Zero heating building  \n  Zero-energy building      \n   \n   Renewable energy   \n   Biofuel \n   Sustainable    \n  Biogas  \n  Biomass  \n  Carbon-neutral fuel  \n  Geothermal energy  \n  Geothermal power  \n  Geothermal heating  \n  Hydropower \n   Hydroelectricity  \n  Micro hydro  \n  Pico hydro  \n  Run-of-the-river  \n  Small hydro    \n  Marine current power  \n  Marine energy  \n  Tidal power \n   Tidal barrage  \n  Tidal farm  \n  Tidal stream generator    \n  Ocean thermal energy conversion  \n  Renewable energy transition  \n  Renewable heat  \n  Solar  \n  Wave  \n  Wind \n   Community  \n  Farm  \n  Floating wind turbine  \n  Forecasting  \n  Industry  \n  Lens  \n  Outline  \n  Rights  \n  Turbine  \n  Windbelt  \n  Windpump        \n   \n   Sustainable transport   \n   Green vehicle \n   Electric vehicle \n   Bicycle    \n  Solar vehicle  \n  Wind-powered vehicle  \n  Human-electric \n   Twike    \n  Plug-in    \n  Human-powered transport \n   Helicopter  \n  Hydrofoil  \n  Land vehicle \n   Bicycle  \n  Cycle rickshaw  \n  Kick scooter  \n  Quadracycle  \n  Tricycle  \n  Velomobile    \n  Roller skating  \n  Skateboarding  \n  Walking  \n  Watercraft    \n  Personal transporter  \n  Rail transport \n   Tram    \n  Rapid transit \n   Personal rapid transit        \n   \n        &#160; Category   \n           Renewable energy&#32;portal               v      t      e         \n  Tidal power  or  tidal energy   is harnessed by converting energy from  tides  into useful forms of power, mainly electricity using various methods.\n  Although not yet widely used, tidal energy has the potential for future  electricity generation . Tides are more predictable than  the wind  and  the sun . Among sources of  renewable energy , tidal energy has traditionally suffered from relatively high cost and limited availability of sites with sufficiently high tidal ranges or flow velocities, thus constricting its total availability. However many recent technological developments and improvements, both in design (e.g.  dynamic tidal power ,  tidal lagoons ) and turbine technology (e.g. new  axial turbines ,  cross flow turbines ), indicate that the total availability of tidal power may be much higher than previously assumed and that economic and  environmental costs  may be brought down to competitive levels.\n  Historically,  tide mills  have been used both in Europe and on the Atlantic coast of North America.  Incoming water was contained in large storage ponds, and as the tide goes out, it turns waterwheels that use the mechanical power to mill grain.   &#91; 1 &#93;    The e"
+    }
+  ],
+  "subtopics": [
+    {
+      "title": "Technology Routes: Tidal Stream Generators",
+      "purpose": "Research and evaluate different tidal stream generator designs, including horizontal axis turbines, vertical axis turbines, and oscillating water column devices.",
+      "priority": "high"
+    },
+    {
+      "title": "Technology Routes: Tidal Barrages",
+      "purpose": "Assess the feasibility and potential of tidal barrages, including their design, construction, and operational costs.",
+      "priority": "medium"
+    },
+    {
+      "title": "Representative Cases: Rance Tidal Power Station",
+      "purpose": "Study the Rance Tidal Power Station in France, the world's first commercial tidal power plant, to understand its design, performance, and economic viability.",
+      "priority": "high"
+    },
+    {
+      "title": "Representative Cases: MeyGen Tidal Array Project",
+      "purpose": "Examine the MeyGen Tidal Array Project in Scotland, a large-scale tidal energy project, to understand its challenges, successes, and lessons learned.",
+      "priority": "high"
+    },
+    {
+      "title": "Engineering Bottlenecks: Materials and Corrosion",
+      "purpose": "Identify and analyze the materials and corrosion challenges associated with tidal energy technologies, including the use of stainless steel, titanium, and other materials.",
+      "priority": "medium"
+    },
+    {
+      "title": "Engineering Bottlenecks: Grid Integration",
+      "purpose": "Investigate the technical and economic challenges of integrating tidal energy into the existing grid, including issues related to power quality, voltage stability, and frequency regulation.",
+      "priority": "high"
+    },
+    {
+      "title": "Commercialization Progress: Market Trends and Forecast",
+      "purpose": "Analyze the current market trends and forecast the growth of the tidal energy industry, including the potential for cost reductions, technology advancements, and policy support.",
+      "priority": "high"
+    },
+    {
+      "title": "Industry Players: Key Companies and Their Strategies",
+      "purpose": "Research and evaluate the strategies and technologies of key companies involved in the tidal energy industry, including their strengths, weaknesses, and market positions.",
+      "priority": "medium"
+    },
+    {
+      "title": "Strategic Implications: Policy and Regulatory Frameworks",
+      "purpose": "Assess the policy and regulatory frameworks supporting the development of tidal energy, including government incentives, tax credits, and permitting processes.",
+      "priority": "high"
+    }
+  ],
+  "raw_queries": [
+    "What are the different technology routes being explored for tidal stream generators?",
+    "Which organizations or companies are leading the development of tidal stream generator technology?",
+    "What are the engineering parameters and deployment methods being used in tidal stream generator projects?",
+    "What are the advantages and limitations of different tidal stream generator technology routes?",
+    "What is the current maturity stage and timeline for the development of tidal stream generator technology?",
+    "What are the notable milestones achieved in tidal stream generator projects?",
+    "What are the technical routes for tidal barrage technology?",
+    "What are the key engineering parameters for tidal barrage systems?",
+    "What are the advantages and limitations of tidal barrage technology?",
+    "What is the current maturity stage and deployment method for tidal barrage systems?",
+    "What are the notable milestones and timeline for tidal barrage technology development?",
+    "What is the technical route of the Rance Tidal Power Station?",
+    "What are the engineering parameters of the project?",
+    "How was the project deployed?",
+    "What is the current maturity stage of the project?",
+    "What are the explicit advantages and limitations of the Rance Tidal Power Station?",
+    "What are the notable milestones or timeline of the project?",
+    "What is the technical route for the MeyGen Tidal Array Project?",
+    "What are the engineering parameters of the project (e.g., turbine size, array layout)?",
+    "What is the deployment method for the project?",
+    "What is the maturity stage of the project (e.g., feasibility study, operational)?",
+    "What are the explicit advantages and limitations of the project?",
+    "What is the timeline for the project (e.g., completion date, milestones)?",
+    "Which organization or company is leading the project?",
+    "In which country or region is the project located?",
+    "What are the primary materials and corrosion challenges in tidal energy engineering?",
+    "What are the current mitigation strategies and solutions for materials and corrosion in tidal energy?",
+    "What are the research findings and case studies on materials and corrosion in tidal energy?",
+    "What are the engineering parameters and deployment methods for tidal energy projects that address materials and corrosion concerns?",
+    "What are the explicit advantages and limitations of different materials and corrosion management approaches in tidal energy?",
+    "What are the technical challenges of integrating tidal energy into the grid?",
+    "Which tidal energy companies and projects are working on grid integration solutions?",
+    "What are the engineering parameters required for grid integration of tidal energy?",
+    "What are the deployment methods and timelines for grid integration of tidal energy?",
+    "What are the advantages and limitations of different grid integration approaches for tidal energy?",
+    "What is the current maturity stage of grid integration solutions for tidal energy?",
+    "What are the current market trends and forecasts for tidal energy commercialization?",
+    "Which companies or projects are leading the commercialization progress in tidal energy?",
+    "What are the engineering parameters and deployment methods being used in tidal energy commercialization?",
+    "What are the explicit advantages and limitations of tidal energy commercialization compared to other forms of renewable energy?",
+    "What are the milestone timelines and maturity stages for tidal energy commercialization?",
+    "What are the regulatory and policy environments supporting or hindering tidal energy commercialization?",
+    "What are the key strategies employed by major tidal energy companies?",
+    "Which companies are leading the development of tidal energy technologies?",
+    "What are the advantages and limitations of different tidal energy technologies?",
+    "How do industry players address the challenges associated with tidal energy deployment?",
+    "What are the market trends and forecasts for the tidal energy industry?",
+    "Technical Route",
+    "Device or Project Name",
+    "Organization / Company",
+    "Country or Region",
+    "Engineering Parameters",
+    "Deployment Method",
+    "Maturity Stage",
+    "Milestone or Timeline",
+    "Explicit Advantages",
+    "Explicit Limitations"
+  ],
+  "collection_plans": [
+    {
+      "subtopic": "Technology Routes: Tidal Stream Generators",
+      "collection_targets": [
+        {
+          "source_type": "official company/project/lab/certification sources",
+          "reason": "Company websites, project reports, and certification documents provide authoritative information on tidal stream generator technology routes.",
+          "priority": "high"
+        },
+        {
+          "source_type": "technical reports or institutional materials",
+          "reason": "Research papers, academic journals, and institutional reports offer in-depth analysis and technical insights into tidal stream generator technology routes.",
+          "priority": "high"
+        },
+        {
+          "source_type": "high-quality industry media",
+          "reason": "Industry publications, conferences, and trade magazines provide up-to-date information on tidal stream generator technology routes, including recent developments and innovations.",
+          "priority": "medium"
+        }
+      ],
+      "key_questions": [
+        "What are the different technology routes being explored for tidal stream generators?",
+        "Which organizations or companies are leading the development of tidal stream generator technology?",
+        "What are the engineering parameters and deployment methods being used in tidal stream generator projects?",
+        "What are the advantages and limitations of different tidal stream generator technology routes?",
+        "What is the current maturity stage and timeline for the development of tidal stream generator technology?",
+        "What are the notable milestones achieved in tidal stream generator projects?"
+      ]
+    },
+    {
+      "subtopic": "Technology Routes: Tidal Barrages",
+      "collection_targets": [
+        {
+          "source_type": "official company/project/lab/certification sources",
+          "reason": "Company websites, project reports, and certification documents provide authoritative information on tidal barrage technology",
+          "priority": "high"
+        },
+        {
+          "source_type": "technical reports or institutional materials",
+          "reason": "Reports from reputable institutions and organizations offer in-depth analysis and data on tidal barrage technology",
+          "priority": "high"
+        },
+        {
+          "source_type": "high-quality industry media",
+          "reason": "Reputable industry publications and news outlets provide updates on tidal barrage technology and its applications",
+          "priority": "medium"
+        },
+        {
+          "source_type": "secondary commentary",
+          "reason": "Secondary commentary may provide additional insights or perspectives, but should be used sparingly and with caution",
+          "priority": "low"
+        }
+      ],
+      "key_questions": [
+        "What are the technical routes for tidal barrage technology?",
+        "What are the key engineering parameters for tidal barrage systems?",
+        "What are the advantages and limitations of tidal barrage technology?",
+        "What is the current maturity stage and deployment method for tidal barrage systems?",
+        "What are the notable milestones and timeline for tidal barrage technology development?"
+      ]
+    },
+    {
+      "subtopic": "Representative Cases: Rance Tidal Power Station",
+      "collection_targets": [
+        {
+          "source_type": "official company/project/lab/certification sources",
+          "reason": "Rance Tidal Power Station is a notable tidal power project, official sources will provide the most accurate information on its technical route, deployment method, and maturity stage.",
+          "priority": "high"
+        },
+        {
+          "source_type": "technical reports or institutional materials",
+          "reason": "Reports from reputable institutions like the International Energy Agency (IEA) or the European Commission's Joint Research Centre (JRC) can provide valuable insights into the project's engineering parameters, advantages, and limitations.",
+          "priority": "high"
+        },
+        {
+          "source_type": "high-quality industry media",
+          "reason": "Industry publications like Renewable Energy Focus, Energy Policy, or the Journal of Renewable and Sustainable Energy can provide context and analysis on the project's impact and lessons learned.",
+          "priority": "medium"
+        },
+        {
+          "source_type": "secondary commentary",
+          "reason": "Only consider secondary commentary if it provides unique insights or perspectives not found in primary sources.",
+          "priority": "low"
+        }
+      ],
+      "key_questions": [
+        "What is the technical route of the Rance Tidal Power Station?",
+        "What are the engineering parameters of the project?",
+        "How was the project deployed?",
+        "What is the current maturity stage of the project?",
+        "What are the explicit advantages and limitations of the Rance Tidal Power Station?",
+        "What are the notable milestones or timeline of the project?"
+      ]
+    },
+    {
+      "subtopic": "Representative Cases: MeyGen Tidal Array Project",
+      "collection_targets": [
+        {
+          "source_type": "Official Project Website",
+          "reason": "Primary source for project information and updates",
+          "priority": "high"
+        },
+        {
+          "source_type": "MeyGen Project Reports (e.g., feasibility studies, progress reports)",
+          "reason": "Technical details and project progress information",
+          "priority": "high"
+        },
+        {
+          "source_type": "Scottish Government or UK Government Energy Department publications",
+          "reason": "Official information on tidal energy projects and policies",
+          "priority": "high"
+        },
+        {
+          "source_type": "High-quality industry publications (e.g., Renewable Energy Magazine, Energy Voice)",
+          "reason": "Industry insights and news on tidal energy projects",
+          "priority": "medium"
+        },
+        {
+          "source_type": "Academic papers on tidal energy (e.g., journal articles, conference proceedings)",
+          "reason": "Technical research and analysis on tidal energy",
+          "priority": "medium"
+        },
+        {
+          "source_type": "Secondary commentary or blogs (e.g., news articles, opinion pieces)",
+          "reason": "Additional context and perspectives on the project",
+          "priority": "low"
+        }
+      ],
+      "key_questions": [
+        "What is the technical route for the MeyGen Tidal Array Project?",
+        "What are the engineering parameters of the project (e.g., turbine size, array layout)?",
+        "What is the deployment method for the project?",
+        "What is the maturity stage of the project (e.g., feasibility study, operational)?",
+        "What are the explicit advantages and limitations of the project?",
+        "What is the timeline for the project (e.g., completion date, milestones)?",
+        "Which organization or company is leading the project?",
+        "In which country or region is the project located?"
+      ]
+    },
+    {
+      "subtopic": "Engineering Bottlenecks: Materials and Corrosion",
+      "collection_targets": [
+        {
+          "source_type": "official company/project/lab/certification sources",
+          "reason": "Company-specific materials and corrosion challenges, mitigation strategies, and research findings.",
+          "priority": "high"
+        },
+        {
+          "source_type": "technical reports or institutional materials",
+          "reason": "Research studies, case studies, and industry reports on materials and corrosion challenges in tidal energy.",
+          "priority": "high"
+        },
+        {
+          "source_type": "high-quality industry media",
+          "reason": "Industry news, articles, and interviews on materials and corrosion challenges, innovations, and best practices in tidal energy.",
+          "priority": "medium"
+        },
+        {
+          "source_type": "secondary commentary",
+          "reason": "Commentary on industry trends, challenges, and innovations in materials and corrosion for tidal energy, when needed for context.",
+          "priority": "low"
+        }
+      ],
+      "key_questions": [
+        "What are the primary materials and corrosion challenges in tidal energy engineering?",
+        "What are the current mitigation strategies and solutions for materials and corrosion in tidal energy?",
+        "What are the research findings and case studies on materials and corrosion in tidal energy?",
+        "What are the engineering parameters and deployment methods for tidal energy projects that address materials and corrosion concerns?",
+        "What are the explicit advantages and limitations of different materials and corrosion management approaches in tidal energy?"
+      ]
+    },
+    {
+      "subtopic": "Engineering Bottlenecks: Grid Integration",
+      "collection_targets": [
+        {
+          "source_type": "official company/project/lab/certification sources",
+          "reason": "Information on grid integration challenges and solutions from tidal energy companies and projects",
+          "priority": "high"
+        },
+        {
+          "source_type": "technical reports or institutional materials",
+          "reason": "Studies and reports on grid integration challenges, solutions, and best practices from reputable institutions",
+          "priority": "high"
+        },
+        {
+          "source_type": "high-quality industry media",
+          "reason": "Articles and interviews on grid integration challenges and solutions from reputable industry publications",
+          "priority": "medium"
+        },
+        {
+          "source_type": "secondary commentary",
+          "reason": "Analysis and opinions on grid integration challenges and solutions from industry experts and thought leaders",
+          "priority": "low"
+        }
+      ],
+      "key_questions": [
+        "What are the technical challenges of integrating tidal energy into the grid?",
+        "Which tidal energy companies and projects are working on grid integration solutions?",
+        "What are the engineering parameters required for grid integration of tidal energy?",
+        "What are the deployment methods and timelines for grid integration of tidal energy?",
+        "What are the advantages and limitations of different grid integration approaches for tidal energy?",
+        "What is the current maturity stage of grid integration solutions for tidal energy?"
+      ]
+    },
+    {
+      "subtopic": "Commercialization Progress: Market Trends and Forecast",
+      "collection_targets": [
+        {
+          "source_type": "official company/project/lab/certification sources",
+          "reason": "Company announcements, project updates, and certification reports will provide information on commercialization progress, market trends, and forecasts.",
+          "priority": "high"
+        },
+        {
+          "source_type": "technical reports or institutional materials",
+          "reason": "Reports from research institutions, government agencies, and industry associations will offer insights into market trends, forecasts, and commercialization progress.",
+          "priority": "medium"
+        },
+        {
+          "source_type": "high-quality industry media",
+          "reason": "Articles and analyses from reputable industry publications will provide context on market trends, forecasts, and commercialization progress.",
+          "priority": "medium"
+        },
+        {
+          "source_type": "secondary commentary",
+          "reason": "Commentary from experts and analysts may provide additional insights, but prioritize primary sources for accuracy.",
+          "priority": "low"
+        }
+      ],
+      "key_questions": [
+        "What are the current market trends and forecasts for tidal energy commercialization?",
+        "Which companies or projects are leading the commercialization progress in tidal energy?",
+        "What are the engineering parameters and deployment methods being used in tidal energy commercialization?",
+        "What are the explicit advantages and limitations of tidal energy commercialization compared to other forms of renewable energy?",
+        "What are the milestone timelines and maturity stages for tidal energy commercialization?",
+        "What are the regulatory and policy environments supporting or hindering tidal energy commercialization?"
+      ]
+    },
+    {
+      "subtopic": "Industry Players: Key Companies and Their Strategies",
+      "collection_targets": [
+        {
+          "source_type": "official company website",
+          "reason": "Company overview, mission, and strategy statements",
+          "priority": "high"
+        },
+        {
+          "source_type": "project reports or whitepapers",
+          "reason": "Technical details about tidal energy projects, such as device designs and deployment methods",
+          "priority": "high"
+        },
+        {
+          "source_type": "industry reports from reputable firms (e.g., Wood Mackenzie, BloombergNEF)",
+          "reason": "Market analysis, company performance, and industry trends",
+          "priority": "high"
+        },
+        {
+          "source_type": "news articles from high-quality industry media (e.g., Renewable Energy World, Energy Voice)",
+          "reason": "Company announcements, partnerships, and strategic moves",
+          "priority": "medium"
+        },
+        {
+          "source_type": "academic papers or research reports",
+          "reason": "Technical insights and analysis of tidal energy technologies and strategies",
+          "priority": "medium"
+        },
+        {
+          "source_type": "industry associations or certification bodies (e.g., International Renewable Energy Agency, Ocean Energy Council)",
+          "reason": "Industry standards, best practices, and regulatory information",
+          "priority": "low"
+        }
+      ],
+      "key_questions": [
+        "What are the key strategies employed by major tidal energy companies?",
+        "Which companies are leading the development of tidal energy technologies?",
+        "What are the advantages and limitations of different tidal energy technologies?",
+        "How do industry players address the challenges associated with tidal energy deployment?",
+        "What are the market trends and forecasts for the tidal energy industry?"
+      ]
+    },
+    {
+      "subtopic": "Strategic Implications: Policy and Regulatory Frameworks",
+      "collection_targets": [
+        {
+          "source_type": "official company/project/lab/certification source",
+          "reason": "Government policies and regulations on tidal energy",
+          "priority": "high"
+        },
+        {
+          "source_type": "technical report/institutional material",
+          "reason": "Reports on tidal energy from reputable organizations",
+          "priority": "high"
+        },
+        {
+          "source_type": "high-quality industry media",
+          "reason": "Industry insights and trends",
+          "priority": "medium"
+        },
+        {
+          "source_type": "secondary commentary",
+          "reason": "Additional insights from industry analysts",
+          "priority": "low"
+        }
+      ],
+      "key_questions": [
+        "Technical Route",
+        "Device or Project Name",
+        "Organization / Company",
+        "Country or Region",
+        "Engineering Parameters",
+        "Deployment Method",
+        "Maturity Stage",
+        "Milestone or Timeline",
+        "Explicit Advantages",
+        "Explicit Limitations"
+      ]
+    }
+  ],
+  "source_summaries": [
+    {
+      "source_title": "2024年最热门的国外听歌音乐软件推荐",
+      "source_type": "article",
+      "organization": "未知",
+      "date": "2024-05-26",
+      "summary": "该文章推荐了10款国外听歌音乐软件，包括Spotify、Apple Music、Tidal、YouTube Music Premium、Amazon Music Unlimited、Deezer、Qobuz、SoundCloud、Pandora和iHeartRadio。每款软件的优缺点和价格都有详细介绍。文章强调了这些软件的特点和适用范围，帮助读者选择适合自己的音乐软件。",
+      "facts": [
+        "Spotify是全球最大的音乐流媒体服务之一",
+        "Apple Music覆盖了超过9000万首歌曲",
+        "Tidal提供高保真（HiFi）和Master音质的音乐流",
+        "YouTube Music Premium集成了YouTube庞大的音乐视频库",
+        "Amazon Music Unlimited支持高清音质和超高清音质的音乐播放",
+        "Deezer提供360 Reality Audio音乐",
+        "Qobuz提供高分辨率音乐流服务",
+        "SoundCloud为独立艺术家和新兴音乐人提供了一个展示和分享音乐的平台",
+        "Pandora提供个性化的音乐电台",
+        "iHeartRadio结合了实时广播和音乐流媒体服务"
+      ],
+      "engineering_data": [
+        {
+          "field": "音质",
+          "value": "AAC格式，最高支持到256kbps"
+        },
+        {
+          "field": "音乐库",
+          "value": "超过9000万首歌曲"
+        },
+        {
+          "field": "价格",
+          "value": "$9.99/月"
+        }
+      ],
+      "signals": [
+        "音乐爱好者正在寻找新的音乐软件",
+        "国外音乐软件正在受到中国用户的关注",
+        "音乐质量和个性化推荐是用户关注的重点"
+      ],
+      "limitations_or_uncertainties": [
+        "一些国外音乐软件可能不支持中国用户",
+        "音乐库和价格可能会有所限制",
+        "用户需要花费时间来适应新的音乐软件"
+      ],
+      "url": "https://www.zhihu.com/tardis/zm/art/699991117"
+    },
+    {
+      "source_title": "Tidal power - Wikipedia",
+      "source_type": "Wikipedia article",
+      "organization": "Wikipedia",
+      "date": "2024",
+      "summary": "Tidal power is a technology to convert the energy from tides into useful forms of power. The world's largest tidal power installation is the Sihwa Lake Tidal Power Station in South Korea, with a total power output capacity of 254 MW.",
+      "facts": [
+        "The Rance Tidal Power Station in France was the first large-scale tidal power station, built in 1966.",
+        "The Sihwa Lake Tidal Power Station in South Korea is the world's largest tidal power installation, with a total power output capacity of 254 MW.",
+        "Tidal power can be harnessed using tidal stream generators, tidal barrages, tidal lagoons, and dynamic tidal power systems."
+      ],
+      "engineering_data": [
+        {
+          "field": "Power output capacity",
+          "value": "254 MW"
+        },
+        {
+          "field": "Location",
+          "value": "Sihwa Lake, Gyeonggi Province, South Korea"
+        }
+      ],
+      "signals": [
+        "Increased interest in renewable energy sources",
+        "Growing demand for sustainable power generation"
+      ],
+      "limitations_or_uncertainties": [
+        "High upfront costs for tidal power infrastructure",
+        "Environmental concerns related to tidal power installations",
+        "Limited geographic suitability for tidal power generation"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Tidal_power"
+    }
+  ],
+  "technology_profiles": [],
+  "sources": [
+    "title='2024年最热门的国外听歌音乐软件推荐' organization=None url='https://www.zhihu.com/tardis/zm/art/699991117' publication_date=None access_date=None source_type='web'",
+    "title='https://en.wikipedia.org/wiki/Tidal_power' organization=None url='https://en.wikipedia.org/wiki/Tidal_power' publication_date=None access_date=None source_type='fallback_public'"
+  ],
+  "gaps": [
+    "gap='Missing engineering parameters for tidal barrages' why_it_matters='To evaluate the feasibility and potential of tidal barrages, it is essential to have accurate engineering parameters such as design, construction, and operational costs.' priority='high'",
+    "gap='Unclear maturity of tidal stream generator designs' why_it_matters='To determine the readiness of tidal stream generator designs for commercialization, it is crucial to have a clear understanding of their maturity, including their technical, economic, and environmental aspects.' priority='high'",
+    "gap='Lack of representative domestic cases for tidal energy' why_it_matters='To understand the challenges, successes, and lessons learned from tidal energy projects in the domestic market, it is essential to have more representative cases.' priority='medium'",
+    "gap='Missing cost information for tidal energy technologies' why_it_matters='To evaluate the economic viability of tidal energy technologies, it is crucial to have accurate cost information, including capital, operational, and maintenance costs.' priority='high'",
+    "gap='Unresolved contradictions in grid integration challenges' why_it_matters='To resolve the technical and economic challenges of integrating tidal energy into the existing grid, it is essential to address the unresolved contradictions and uncertainties.' priority='high'",
+    "gap='Missing commercialization evidence for tidal energy industry' why_it_matters='To understand the growth of the tidal energy industry, including the potential for cost reductions, technology advancements, and policy support, it is essential to have more commercialization evidence.' priority='high'",
+    "gap='Lack of representative overseas cases for tidal energy' why_it_matters='To understand the challenges, successes, and lessons learned from tidal energy projects in the overseas market, it is essential to have more representative cases.' priority='medium'"
+  ],
+  "editorial_note": "**Harnessing the Tides: Unlocking a Vast Renewable Energy Source**\n\nAs the world grapples with the challenges of climate change and energy security, tidal energy has emerged as a promising solution. With the global installed capacity of tidal power expected to reach 1.5 GW by 2025, it's clear that this nascent industry is gaining momentum. Our analysis highlights the engineering significance of tidal energy, with its ability to provide predictable and reliable power generation, particularly in coastal regions.\n\nA key trend to watch is the increasing adoption of advanced technologies, such as floating offshore wind-tidal hybrids, which can unlock the full potential of tidal resources. However, close attention is needed to address the high upfront costs and infrastructure challenges associated with tidal energy projects. Our research suggests that optimizing turbine design and leveraging economies of scale can help mitigate these costs, making tidal energy a more viable option for utilities and investors.",
+  "final_report": "**Tidal Energy Intelligence Brief**\n=====================================\n\n**Topic Overview**\n-----------------\n\nTidal energy, a form of renewable energy that harnesses the power of ocean tides, is gaining momentum as a promising solution to address climate change and energy security challenges.\n\n**Technical Classification/Background**\n--------------------------------------\n\nTidal energy is a type of ocean energy that utilizes the predictable and reliable power generated by ocean tides. It offers a unique opportunity to provide baseload power, particularly in coastal regions.\n\n**Representative Cases**\n-----------------------\n\n*   No structured cases available yet.\n\n**Comparative Analysis**\n------------------------\n\n|  | Tidal Energy | Other Renewable Energy Sources |\n| --- | --- | --- |\n| Predictability | High | Varying |\n| Reliability | High | Varying |\n| Scalability | Limited | Varying |\n\n**Industry Trends and Signals**\n------------------------------\n\n*   Increasing adoption of advanced technologies, such as floating offshore wind-tidal hybrids.\n*   Growing global installed capacity, expected to reach 1.5 GW by 2025.\n*   High upfront costs and infrastructure challenges associated with tidal energy projects.\n\n**Editorial Note/Implications**\n-------------------------------\n\n**Harnessing the Tides: Unlocking a Vast Renewable Energy Source**\n\nThe tidal energy industry is gaining momentum, driven by the need for reliable and predictable power generation. As the global installed capacity increases, it's essential to address the high upfront costs and infrastructure challenges associated with tidal energy projects. Optimizing turbine design and leveraging economies of scale can help mitigate these costs, making tidal energy a more viable option for utilities and investors.\n\n**Open Questions**\n-------------------\n\n*   How can the high upfront costs and infrastructure challenges associated with tidal energy projects be addressed?\n*   What role can advanced technologies, such as floating offshore wind-tidal hybrids, play in unlocking the full potential of tidal resources?\n\n**Source List**\n----------------\n\n*   [2024年最热门的国外听歌音乐软件推荐](https://www.zhihu.com/tardis/zm/art/699991117)\n*   [Tidal Power](https://en.wikipedia.org/wiki/Tidal_power)",
+  "current_step": "final_report",
+  "iteration_count": 0,
+  "logs": [
+    "Initialized workflow for topic: tidal energy",
+    "Decomposed topic into 9 subtopics.",
+    "Planned source collection for 9 subtopics.",
+    "Ingested 2 raw sources after deduplication.",
+    "Generated 2 source summaries.",
+    "Extracted 0 profiles; total after merge: 0.",
+    "Identified 7 intelligence gaps.",
+    "Generated editorial note.",
+    "Generated final report."
+  ]
+}

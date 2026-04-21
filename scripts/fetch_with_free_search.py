@@ -1,0 +1,279 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
+import argparse
+import json
+import re
+import sys
+import xml.etree.ElementTree as ET
+from datetime import datetime, timezone
+from pathlib import Path
+from typing import Any, Dict, Iterable, List, Optional
+from urllib.parse import urlparse
+
+import requests
+
+
+DEFAULT_INCLUDE_DOMAINS = [
+    "arxiv.org",
+    "iea.org",
+    "nrel.gov",
+    "irena.org",
+    "iea-oes.org",
+    "emec.org.uk",
+    "energy.gov",
+]
+
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/124.0.0.0 Safari/537.36"
+)
+
+
+def utc_now_iso() -> str:
+    return datetime.now(timezone.utc).isoformat()
+
+
+def compact_ws(text: str) -> str:
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def parse_domains(raw: str) -> List[str]:
+    if not raw.strip():
+        return []
+    return [d.strip().lower() for d in raw.split(",") if d.strip()]
+
+
+def detect_source_type(url: str) -> str:
+    host = (urlparse(url).netloc or "").lower()
+    if "arxiv.org" in host:
+        return "paper"
+    if host.endswith(".gov") or host.endswith(".edu"):
+        return "official"
+    if any(x in host for x in ["iea.org", "irena.org", "iea-oes.org", "emec.org.uk"]):
+        return "official"
+    return "web"
+
+
+def host_matches(url: str, include_domains: List[str]) -> bool:
+    if not include_domains:
+        return True
+    host = (urlparse(url).netloc or "").lower()
+    return any(host == d or host.endswith("." + d) for d in include_domains)
+
+
+def fetch_webpage_text(url: str, timeout: float = 20.0, max_chars: int = 22000) -> str:
+    headers = {"User-Agent": USER_AGENT}
+    resp = requests.get(url, headers=headers, timeout=timeout)
+    resp.raise_for_status()
+
+    content_type = (resp.headers.get("content-type") or "").lower()
+    if "text/html" in content_type:
+        try:
+            from bs4 import BeautifulSoup  # type: ignore
+
+            soup = BeautifulSoup(resp.text, "html.parser")
+            for tag in soup(["script", "style", "noscript"]):
+                tag.decompose()
+            text = "\n".join(line.strip() for line in soup.get_text("\n").splitlines() if line.strip())
+        except Exception:
+            text = compact_ws(re.sub(r"<[^>]+>", " ", resp.text))
+    else:
+        text = resp.text
+
+    return text[:max_chars]
+
+
+def search_with_ddgs(query: str, max_results: int) -> List[Dict[str, Any]]:
+    try:
+        # New package import path
+        from ddgs import DDGS  # type: ignore
+    except Exception:
+        # Old package import path
+        from duckduckgo_search import DDGS  # type: ignore
+
+    out: List[Dict[str, Any]] = []
+    with DDGS() as ddgs:
+        for r in ddgs.text(query, max_results=max_results):
+            out.append(
+                {
+                    "title": r.get("title") or "",
+                    "url": r.get("href") or r.get("url") or "",
+                    "content": r.get("body") or r.get("snippet") or "",
+                }
+            )
+    return out
+
+
+def search_with_searxng(
+    query: str,
+    max_results: int,
+    searxng_url: str,
+    engines: Optional[str],
+) -> List[Dict[str, Any]]:
+    params: Dict[str, Any] = {
+        "q": query,
+        "format": "json",
+        "language": "zh-CN",
+        "safesearch": 0,
+    }
+    if engines:
+        params["engines"] = engines
+
+    resp = requests.get(
+        searxng_url.rstrip("/") + "/search",
+        params=params,
+        headers={"User-Agent": USER_AGENT},
+        timeout=20,
+    )
+    resp.raise_for_status()
+    payload = resp.json()
+    rows = payload.get("results", [])[:max_results]
+    return [
+        {
+            "title": r.get("title") or "",
+            "url": r.get("url") or "",
+            "content": r.get("content") or "",
+        }
+        for r in rows
+    ]
+
+
+def search_with_bing_rss(query: str, max_results: int) -> List[Dict[str, Any]]:
+    url = "https://www.bing.com/search"
+    params = {"q": query, "format": "rss", "setlang": "en-US"}
+    resp = requests.get(url, params=params, headers={"User-Agent": USER_AGENT}, timeout=20)
+    resp.raise_for_status()
+
+    root = ET.fromstring(resp.text)
+    rows: List[Dict[str, Any]] = []
+    for item in root.findall(".//item"):
+        title = (item.findtext("title") or "").strip()
+        link = (item.findtext("link") or "").strip()
+        desc = (item.findtext("description") or "").strip()
+        if not link:
+            continue
+        rows.append({"title": title, "url": link, "content": desc})
+        if len(rows) >= max_results:
+            break
+    return rows
+
+
+def unique_by_url(rows: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    seen = set()
+    out = []
+    for r in rows:
+        u = (r.get("url") or "").strip()
+        if not u or u in seen:
+            continue
+        seen.add(u)
+        out.append(r)
+    return out
+
+
+def normalize_result(result: Dict[str, Any], fetched_text: str, fallback_query: str) -> Dict[str, Any]:
+    url = (result.get("url") or "").strip()
+    title = result.get("title") or url or fallback_query
+    snippet = result.get("content") or ""
+    text = "\n\n".join(x for x in [snippet.strip(), fetched_text.strip()] if x)
+
+    return {
+        "id": f"src_{datetime.now().strftime('%Y%m%d%H%M%S%f')}",
+        "title": title,
+        "url": url,
+        "source_type": detect_source_type(url),
+        "collected_at": utc_now_iso(),
+        "text": text,
+    }
+
+
+def write_jsonl(path: Path, rows: Iterable[Dict[str, Any]]) -> None:
+    with path.open("w", encoding="utf-8") as f:
+        for row in rows:
+            f.write(json.dumps(row, ensure_ascii=False) + "\n")
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(
+        description=(
+            "Free web source collector: search with ddgs or SearxNG, "
+            "fetch full text, output raw_sources for run_collector."
+        )
+    )
+    parser.add_argument("--query", required=True, help="Research query")
+    parser.add_argument("--backend", choices=["ddgs", "searxng", "bingrss"], default="ddgs")
+    parser.add_argument("--searxng-url", default="http://127.0.0.1:8080")
+    parser.add_argument("--searxng-engines", default="", help="Optional SearxNG engines list")
+    parser.add_argument("--max-results", type=int, default=8)
+    parser.add_argument(
+        "--include-domains",
+        default="",
+        help="Comma-separated domain whitelist",
+    )
+    parser.add_argument("--timeout", type=float, default=20.0)
+    parser.add_argument("--min-text-chars", type=int, default=300)
+    parser.add_argument("--output", default="data/raw_sources_free.jsonl")
+    parser.add_argument("--output-json", default="data/raw_sources_free.json")
+    args = parser.parse_args()
+
+    include_domains = parse_domains(args.include_domains)
+
+    try:
+        if args.backend == "ddgs":
+            search_rows = search_with_ddgs(args.query, max_results=args.max_results)
+        elif args.backend == "bingrss":
+            search_rows = search_with_bing_rss(args.query, max_results=args.max_results)
+        else:
+            search_rows = search_with_searxng(
+                query=args.query,
+                max_results=args.max_results,
+                searxng_url=args.searxng_url,
+                engines=args.searxng_engines.strip() or None,
+            )
+    except Exception as exc:
+        print(f"ERROR: search failed ({args.backend}): {exc}", file=sys.stderr)
+        return 2
+
+    search_rows = unique_by_url(search_rows)
+    if include_domains:
+        search_rows = [r for r in search_rows if host_matches(r.get("url", ""), include_domains)]
+
+    out_rows: List[Dict[str, Any]] = []
+    for idx, r in enumerate(search_rows):
+        url = (r.get("url") or "").strip()
+        if not url:
+            continue
+        try:
+            fetched_text = fetch_webpage_text(url=url, timeout=args.timeout)
+            row = normalize_result(r, fetched_text, fallback_query=args.query)
+            if len(row["text"]) < args.min_text_chars:
+                continue
+            out_rows.append(row)
+            print(f"[{idx+1}/{len(search_rows)}] OK {url}")
+        except Exception as exc:
+            print(f"[{idx+1}/{len(search_rows)}] FAIL {url} :: {exc}", file=sys.stderr)
+
+    out_path = Path(args.output)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    write_jsonl(out_path, out_rows)
+
+    out_json = Path(args.output_json)
+    out_json.parent.mkdir(parents=True, exist_ok=True)
+    out_json.write_text(json.dumps(out_rows, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    summary = {
+        "query": args.query,
+        "backend": args.backend,
+        "requested": args.max_results,
+        "collected": len(out_rows),
+        "output_jsonl": str(out_path),
+        "output_json": str(out_json),
+        "include_domains": include_domains,
+    }
+    print(json.dumps(summary, ensure_ascii=False, indent=2))
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

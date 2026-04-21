@@ -1,0 +1,7 @@
+[
+  {"domain": "offshore wind", "sources_file": "/mnt/c/Infor_hub/data/five_domains_20260409_110224/offshore_wind.json"},
+  {"domain": "floating solar", "sources_file": "/mnt/c/Infor_hub/data/five_domains_20260409_110224/floating_solar.json"},
+  {"domain": "wave energy", "sources_file": "/mnt/c/Infor_hub/data/five_domains_20260409_110224/wave_energy.json"},
+  {"domain": "tidal energy", "sources_file": "/mnt/c/Infor_hub/data/five_domains_20260409_110224/tidal_energy.json"},
+  {"domain": "offshore hydrogen", "sources_file": "/mnt/c/Infor_hub/data/five_domains_20260409_110224/offshore_hydrogen.json"}
+]

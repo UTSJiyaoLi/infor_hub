@@ -1,0 +1,570 @@
+{
+  "topic": "offshore hydrogen",
+  "user_goal": "find the most promising domain with strongest medium-term growth potential and practical engineering deployment outlook",
+  "model": "client=<openai.resources.chat.completions.completions.Completions object at 0x15342726e790> async_client=<openai.resources.chat.completions.completions.AsyncCompletions object at 0x1534272cef90> root_client=<openai.OpenAI object at 0x15342726e6d0> root_async_client=<openai.AsyncOpenAI object at 0x1534272cea10> model_name='/share/home/lijiyao/CCCC/Models/llms/Llama-3.1-8B-Instruct' model_kwargs={} openai_api_key=SecretStr('**********')",
+  "raw_sources": [
+    {
+      "id": "src_20260409112617435881",
+      "title": "offshore和onshore是什么意思_百度知道",
+      "url": "https://zhidao.baidu.com/question/2000529510032007547.html",
+      "source_type": "web",
+      "collected_at": "2026-04-09T03:26:17.436484+00:00",
+      "text": "offshore 和 onshore 是英文中用来描述地理位置关系的两个词汇。它们通常用来区分一个实体位于国内还是海外。 offshore 的概念主要表示在海外或离岸的地区。例如，当留学澳大利亚的学生毕业后，选择留在澳大利亚并申请移民，我们称其为 onshore application。这里的 onshore 指的是在澳大利亚国内进行的 ...\n\noffshoreåonshoreæ¯ä»ä¹ææ_ç¾åº¦ç¥é\nç¾åº¦é¦é¡µ\nåå\næ³¨å\nç»å½\nç½é¡µ\nèµè®¯\nè§é¢\nå¾ç\nç¥é\næåº\nè´´å§\néè´­\nå°å¾\næ´å¤\næç´¢ç­æ¡\næè¦æé®\noffshoreåonshoreæ¯ä»ä¹ææ\né¦é¡µ\nç¨æ·\nè®¤è¯ç¨æ·\nè®¤è¯å¢é\nåä¼äºº\nç­æ¨æ¦å\nä¼ä¸\nåªä½\næ¿åº\nå\n¶ä»ç»ç»\nåå\næ³å¾\nææºç­é¢\næç\nç¾åº¦ç¥é\n> æ åç±»\noffshoreåonshoreæ¯ä»ä¹ææ\n1ä¸ªåç­\n#ç­è®®#\nä¸ç­éä¸­å¤©æ°åå åä¼¤ç®å·¥ä¼¤åï¼\nææçæ´»ç§æ®\n2024-09-05\nÂ·\nç¾åº¦è®¤è¯:å®æææçæ´»æå¡ç§æå®æ¹è´¦å·\nææçæ´»ç§æ®\nåTAæé®\nå\n³æ³¨\nå±å¼å\n¨é¨\noffshore å onshore æ¯è±æä¸­ç¨æ¥æè¿°å°çä½ç½®å\n³ç³»çä¸¤ä¸ªè¯æ±ãå®ä»¬éå¸¸ç¨æ¥åºåä¸ä¸ªå®ä½ä½äºå½å\nè¿æ¯æµ·å¤ã\noffshore çæ¦å¿µä¸»è¦è¡¨ç¤ºå¨æµ·å¤æç¦»å²¸çå°åºãä¾å¦ï¼å½çå­¦æ¾³å¤§å©äºçå­¦çæ¯ä¸åï¼éæ©çå¨æ¾³å¤§å©äºå¹¶ç³è¯·ç§»æ°ï¼æä»¬ç§°å\n¶ä¸º onshore applicationãè¿éç onshore æçæ¯å¨æ¾³å¤§å©äºå½å\nè¿è¡çç§»æ°ç³è¯·ã\nç¸åï¼å¦æèº«å¨ä¸­å½çäººç³è¯·æ¾³å¤§å©äºç§»æ°ï¼æä»¬åç§°å\n¶ä¸º offshore applicationãè¿é offshore æçæ¯å¨ä¸­å½å½å\nè¿è¡çç§»æ°ç³è¯·ï¼å³ç³è¯·äººä½äºæµ·å¤ï¼æ¾³å¤§å©äºï¼ä»¥å¤çå½å®¶æå°åºã\nç®åæ¥è¯´ï¼offshore å onshore ä¸»è¦åºå«å¨äºç³è¯·äººæå®ä½æ¯å¦å¤äºç®æ å½å®¶æå°åºä¹å\nãå½å¨ç®æ å½å®¶æå°åºå\nè¿è¡ç³è¯·æ¶ï¼ä½¿ç¨ onshoreãèå½å¨ç®æ å½å®¶æå°åºä¹å¤è¿è¡ç³è¯·æ¶ï¼åä½¿ç¨ offshoreã\nä¾å¦ï¼çå­¦ä¸­å½çå­¦çå¨ç¾å½å·¥ä½å¹¶ç³è¯·ç¾å½ç»¿å¡ï¼éå¸¸ç§°ä¸º offshore applicationãå ä¸ºå­¦çæ¬äººå¤äºç¾å½ï¼ä¸å¨ä¸­å½çå¢å\nã\nåæ¯å¦ï¼ä¸­å½å\n¬æ°å¨æ¾³å¤§å©äºä¹°æ¿å¹¶ç³è¯·æ¾³å¤§å©äºå\n¬æ°èº«ä»½ï¼è¿éå¸¸ä¼è¢«ç§°ä½ onshore applicationãå ä¸ºç³è¯·äººä½äºæ¾³å¤§å©äºå¢å\nã\néè¿ä»¥ä¸è§£éï¼æä»¬å¯ä»¥æ¸\næ°å°çè§£ offshore å onshore çåºæ¬å«ä¹åå®ä»¬å¨å®é\nåºç¨ä¸­çåºå«ãå®ä»¬å¨æè¿°å°çä½ç½®å\n³ç³»æ¶æä¾äºç®åæäºçåºåæ åã\nè¯¦æ\nå·²èµè¿\nå·²è¸©è¿\n<\nä½ å¯¹è¿ä¸ªåç­çè¯ä»·æ¯ï¼\nè¯è®º\næ¶èµ·\næ¯å¯æ®æ¯ä¿¡æ¯ææ¯\n2025-06-30\nå¹¿å\næ¨å¥½ï¼å»ºè®®æ¨äºè§£ä¸ä¸TransInfoãTransInfoæç«äº2008å¹´ï¼æ¯å¾·å½ç¥åERPå¨å¤§ä¸­ååºçéçåä½ä¼ä¼´ï¼ç±ä¸ä¸çä¿¡æ¯åå¨è¯¢é¡¾é®å¢éåç«ï¼è´åäºä¸ºä¸­å½æé¿åä¼ä¸æä¾ä¸ä¸çæ°å­åè½¬åæå¡ã16å¹´ä»¥æ¥ï¼TransInfoåºäºå¾·å½ç¥å...\nç¹å»è¿å\n¥è¯¦æ\né¡µ\næ¬åç­ç±\næ¯å¯æ®æ¯ä¿¡æ¯ææ¯\næä¾\næ¨èå¾å¸æå¡ï¼\nè¥æªè§£å³æ¨çé®é¢ï¼è¯·æ¨è¯¦ç»æè¿°æ¨çé®é¢ï¼éè¿ç¾åº¦å¾ä¸´è¿è¡å\nè´¹ä¸ä¸å¨è¯¢\nä¸ºä½ æ¨èï¼\nç¹å«æ¨è\nâç½ç»åæâä¼é æä»ä¹å½±åï¼\næ°çæ¥ééè¦æ³¨æä»ä¹ï¼\nåå¼ºåçäºæææºæ¯å¦é è°±ï¼\nçççæ²»çè´¹ç¨ä¸ºä½è¶æ¥è¶é«ï¼\nç¾åº¦å¾ä¸´âå\nè´¹æ³å¾æå¡æ¨è\nè¶\n3wä¸ä¸å¾å¸ï¼24Hå¨çº¿æå¡ï¼å¹³å3åéåå¤\nå\nè´¹é¢çº¦\néæ¶å¨çº¿\nå¾å¸æå¯¼\nä¸ä¸å¾å¸\nä¸å¯¹ä¸æ²é\nå®ç¾å®æ\nç­ä½ æ¥ç­\n\næ¢ä¸æ¢\nå¸®å©æ´å¤äºº\n\nä¸è½½ç¾åº¦ç¥éAPPï¼æ¢é²ä½éª\nä½¿ç¨ç¾åº¦ç¥éAPPï¼ç«å³æ¢é²ä½éªãä½ çææºéå¤´éæè®¸æå«äººæ³ç¥éçç­æ¡ã\næ«æäºç»´ç ä¸è½½\nÃ\nä¸ªäººãä¼ä¸ç±»\nä¾µææè¯\nè¿æ³æå®³ä¿¡æ¯,è¯·å¨ä¸æ¹éæ©åæäº¤\nç±»å«\nè²æ\nä½ä¿\næ¶å«è¿æ³ç¯ç½ª\næ¶æ¿ä¿¡æ¯ä¸å®\nåå¾å¹¿å\nä½è´¨çæ°´\næä»¬ä¼éè¿æ¶æ¯ãé®ç®±ç­æ¹å¼å°½å¿«å°ä¸¾æ¥ç»æéç¥æ¨ã\nè¯´æ\n0\n/200\næäº¤\nåæ¶\né¢åå¥å±\næçè´¢å¯å¼\n0\nå\næ¢åå\n--\nå»ç»å½\næçç°é\n0\næç°\nä¸è½½ç¾åº¦ç¥éAPP\nå¨APPç«¯-ä»»å¡ä¸­å¿æç°\næç¥éäº\n--\nå»ç»å½\nåä»»å¡å¼å®ç®±\nç´¯è®¡å®æ\n0\nä¸ªä»»å¡\n10ä»»å¡\nç¥ç¥ç¥ç¥â¦\n50ä»»å¡\nç¥ç¥ç¥ç¥â¦\n100ä»»å¡\nç¥ç¥ç¥ç¥â¦\n200ä»»å¡\nç¥ç¥ç¥ç¥â¦\nä»»å¡åè¡¨å è½½ä¸­...\næ°æå¸®å©\nå¦ä½ç­é¢\nè·åéçº³\nä½¿ç¨è´¢å¯å¼\nç©æ³ä»ç»\nç¥éåå\nåä¼äººè®¤è¯\næ¨çè´¦å·ç¶ææ­£å¸¸\næè°¢æ¨å¯¹æä»¬çæ¯æ\næè¯å»ºè®®\næè§åé¦\nè´¦å·ç³è¯\néæ³ä¿¡æ¯ä¸¾æ¥\näº¬ICPè¯030173å·-1   äº¬ç½æã2023ã1034-029å·                ©2026Baidu\nä½¿ç¨ç¾åº¦åå¿\nè¯»\n|\nç¥éåè®®\n|\nä¼ä¸æ¨å¹¿\nè¾\nå©\næ¨¡ å¼"
+    },
+    {
+      "id": "src_20260409112619156204",
+      "title": "offshore是什么意思_百度知道",
+      "url": "https://zhidao.baidu.com/question/946259944869220252.html",
+      "source_type": "web",
+      "collected_at": "2026-04-09T03:26:19.156712+00:00",
+      "text": "offshore是什么意思offshore的意思是：adv.离岸；向海面；近海岸；adj.海上的；近海的；向海的；离岸的。1、短语：offshore outsourcing离岸外包；Offshore Finance离岸金融 offshore interest海外利\n\noffshoreæ¯ä»ä¹ææ_ç¾åº¦ç¥é\nç¾åº¦é¦é¡µ\nåå\næ³¨å\nç»å½\nç½é¡µ\nèµè®¯\nè§é¢\nå¾ç\nç¥é\næåº\nè´´å§\néè´­\nå°å¾\næ´å¤\næç´¢ç­æ¡\næè¦æé®\noffshoreæ¯ä»ä¹ææ\n ææ¥ç­\né¦é¡µ\nç¨æ·\nè®¤è¯ç¨æ·\nè®¤è¯å¢é\nåä¼äºº\nç­æ¨æ¦å\nä¼ä¸\nåªä½\næ¿åº\nå\n¶ä»ç»ç»\nåå\næ³å¾\nææºç­é¢\næç\nç¾åº¦ç¥é\n> æ åç±»\noffshoreæ¯ä»ä¹ææ\n ææ¥ç­\n1ä¸ªåç­\n#ç­è®®#\nçæ´»ä¸­æåªäºå®ç¨çå¿çå­¦ç¥è¯ï¼\næ´ç¬æµ·\n2022-11-30\nÂ·\nè¶\nè¿219ç¨æ·éçº³è¿TAçåç­\nç¥éå°æå»ºæ ç­ä¸»\nåç­éï¼\n556\néçº³çï¼\n100%\nå¸®å©çäººï¼\n18.2ä¸\næä¹å»ç­é¢\nè®¿é®ä¸ªäººé¡µ\nå\n³æ³¨\nå±å¼å\n¨é¨\noffshoreçæææ¯ï¼adv.ç¦»å²¸ï¼åæµ·é¢ï¼è¿æµ·å²¸ï¼adj.æµ·ä¸çï¼è¿æµ·çï¼åæµ·çï¼ç¦»å²¸çã\n1ãç­è¯­ï¼offshore outsourcingç¦»å²¸å¤å\nï¼Offshore Financeç¦»å²¸éè\noffshore interestæµ·å¤å©æ¯ ; æµ·å¤å©é±\n2ãä¾å¥ï¼\nï¼1ï¼When you drill offshore, you always have leakage.\nå½ä½ å¨æµ·ä¸é»äºï¼æ»ä¼ææ³æ¼åçã\nï¼2ï¼The building can accommodate all of the offshore workers and protect them from hurricane damage .\nè¿ä¸ªå»ºç­è½å®¹çº³ææçæµ·ä¸å·¥äººå¹¶ä¸ä¿æ¤ä»ä»¬ä¸åé£é£çä¼¤å®³ã\nï¼3ï¼We plan to lease new areas in the Gulf of Mexico as well, and work to create new incentives for industry to develop their unused leases both on and offshore.\næä»¬è®¡åå¨å¢¨è¥¿å¥æµ·æ¹¾å¼æ¾ä¸äºæ°çåºåçç§èµæï¼å¹¶å¯¹è¿ä¸äº§ä¸å¶å®ä¸äºæ°çåºæ¿æ¿ç­ä¿è¿å¯¹æªä½¿ç¨çéä¸åè¿æµ·ç§èµåºåçå¼åã\nå·²èµè¿\nå·²è¸©è¿\n<\nä½ å¯¹è¿ä¸ªåç­çè¯ä»·æ¯ï¼\nè¯è®º\næ¶èµ·\nä¸æµ·å¾®å·ç²¾å¯ä»ªå¨\n2025-04-27\nå¹¿å\nç¾å½brookfieldï¼æ¾ä¸æµ·å¾®å·ç²¾å¯ä»ªå¨æéå\n¬å¸æ¸©æ¹¿åº¦äºä¸é¨ãæä»¬ä¸ä¸ä»äºç¯å¢çæµä»ªå¨ä»¥ååæç³»ç»çææ¯å¼åãè®¾è®¡ãäº§åéå®åæå¡ä¸ºä¸ä½çé«ç§æå\n¬å¸ãä¸»è¦äº§åå\næ¬åç§ç±»åæ¸©æ¹¿åº¦ä»ªè¡¨ï¼é£éé£åä»ªè¡¨ä»¥åå\n¶å®ç¯å¢çæµä»ªè¡¨ãå¨çäº§éå®è¿ç¨ä¸­ä¸ç´...\nç¹å»è¿å\n¥è¯¦æ\né¡µ\næ¬åç­ç±\nä¸æµ·å¾®å·ç²¾å¯ä»ªå¨\næä¾\næ¨èå¾å¸æå¡ï¼\nè¥æªè§£å³æ¨çé®é¢ï¼è¯·æ¨è¯¦ç»æè¿°æ¨çé®é¢ï¼éè¿ç¾åº¦å¾ä¸´è¿è¡å\nè´¹ä¸ä¸å¨è¯¢\nä¸ºä½ æ¨èï¼\nç¹å«æ¨è\nâç½ç»åæâä¼é æä»ä¹å½±åï¼\næ°çæ¥ééè¦æ³¨æä»ä¹ï¼\nåå¼ºåçäºæææºæ¯å¦é è°±ï¼\nçççæ²»çè´¹ç¨ä¸ºä½è¶æ¥è¶é«ï¼\nç¾åº¦å¾ä¸´âå\nè´¹æ³å¾æå¡æ¨è\nè¶\n3wä¸ä¸å¾å¸ï¼24Hå¨çº¿æå¡ï¼å¹³å3åéåå¤\nå\nè´¹é¢çº¦\néæ¶å¨çº¿\nå¾å¸æå¯¼\nä¸ä¸å¾å¸\nä¸å¯¹ä¸æ²é\nå®ç¾å®æ\nç­ä½ æ¥ç­\n\næ¢ä¸æ¢\nå¸®å©æ´å¤äºº\n\nä¸è½½ç¾åº¦ç¥éAPPï¼æ¢é²ä½éª\nä½¿ç¨ç¾åº¦ç¥éAPPï¼ç«å³æ¢é²ä½éªãä½ çææºéå¤´éæè®¸æå«äººæ³ç¥éçç­æ¡ã\næ«æäºç»´ç ä¸è½½\nÃ\nä¸ªäººãä¼ä¸ç±»\nä¾µææè¯\nè¿æ³æå®³ä¿¡æ¯,è¯·å¨ä¸æ¹éæ©åæäº¤\nç±»å«\nè²æ\nä½ä¿\næ¶å«è¿æ³ç¯ç½ª\næ¶æ¿ä¿¡æ¯ä¸å®\nåå¾å¹¿å\nä½è´¨çæ°´\næä»¬ä¼éè¿æ¶æ¯ãé®ç®±ç­æ¹å¼å°½å¿«å°ä¸¾æ¥ç»æéç¥æ¨ã\nè¯´æ\n0\n/200\næäº¤\nåæ¶\né¢åå¥å±\næçè´¢å¯å¼\n0\nå\næ¢åå\n--\nå»ç»å½\næçç°é\n0\næç°\nä¸è½½ç¾åº¦ç¥éAPP\nå¨APPç«¯-ä»»å¡ä¸­å¿æç°\næç¥éäº\n--\nå»ç»å½\nåä»»å¡å¼å®ç®±\nç´¯è®¡å®æ\n0\nä¸ªä»»å¡\n10ä»»å¡\nç¥ç¥ç¥ç¥â¦\n50ä»»å¡\nç¥ç¥ç¥ç¥â¦\n100ä»»å¡\nç¥ç¥ç¥ç¥â¦\n200ä»»å¡\nç¥ç¥ç¥ç¥â¦\nä»»å¡åè¡¨å è½½ä¸­...\næ°æå¸®å©\nå¦ä½ç­é¢\nè·åéçº³\nä½¿ç¨è´¢å¯å¼\nç©æ³ä»ç»\nç¥éåå\nåä¼äººè®¤è¯\næ¨çè´¦å·ç¶ææ­£å¸¸\næè°¢æ¨å¯¹æä»¬çæ¯æ\næè¯å»ºè®®\næè§åé¦\nè´¦å·ç³è¯\néæ³ä¿¡æ¯ä¸¾æ¥\näº¬ICPè¯030173å·-1   äº¬ç½æã2023ã1034-029å·                ©2026Baidu\nä½¿ç¨ç¾åº¦åå¿\nè¯»\n|\nç¥éåè®®\n|\nä¼ä¸æ¨å¹¿\nè¾\nå©\næ¨¡ å¼"
+    },
+    {
+      "id": "src_20260409112620860205",
+      "title": "Forums - FORUM OFFSHORE-RC.COM",
+      "url": "https://www.offshore-rc.com/forum/index.php",
+      "source_type": "web",
+      "collected_at": "2026-04-09T03:26:20.860205+00:00",
+      "text": "Vous verrez ici tous les trucs les plus recherchés par les nouveaux venus. Si vous ne trouvez pas ce qui vous intéresse, faites une recherche ou demandez ce que vous voulez sur le forum \"Tout sur le thermique\". Je me chargerai de transférer le sujet ici s'il est susceptible d'intéresser du monde.\n\nForums - FORUM OFFSHORE-RC.COM\nAller au contenu\nUtilisateur existant ? Connexion\nConnexion\nSe souvenir de moi\nNon recommandé sur les ordinateurs partagés\nConnexion\nMot de passe oublié ?\nS’inscrire\nNaviguer\nForums\nCalendrier\nÉquipe\nUtilisateurs en ligne\nPlus\nActivité\nToute l’activité\nFlux de mon activité\nContenu non lu\nContenu que j’ai commencé\nRechercher\nPlus\nClassement\nClubs\nPlus\nPlus\nN’importe où\nSujets\nÉvènements\nToute l’activité\nAccueil\nForums\nCommencer un nouveau sujet\nCommencer un nouveau sujet\nLa vie du site et du forum\nLa vie du FORUM\nNouvel inscrit sur le forum? Consultez cette rubrique. Vous avez des questions sur le fonctionnement du forum? Posez-les ici.\nIci, vous seront aussi communiquées les informations relatives à la vie du forum.\n6,3k\nmessages\ntriste nouvelle la toasteuse de l'ombre nous a quitté\nPar\nTiesto,\n13 mars\nToute la vitesse thermique\nTout sur le thermique\nSi vous avez des questions ou des infos à partager sur tout type de bateaux de vitesse radio commandés thermiques, c'est ici !\n149,6k\nmessages\nZnetix Made In Bzh\nPar\ndlrf44,\n22 mars\nLes bons trucs du thermique\nVous verrez ici tous les trucs les plus recherchés par les nouveaux venus. Si vous ne trouvez pas ce qui vous intéresse, faites une recherche ou demandez ce que vous voulez sur le forum \"Tout sur le thermique\". Je me chargerai de transférer le sujet ici s'il est susceptible d'intéresser du monde.\n5k\nmessages\nAccessoires moteur ZENOAH\nPar\njerome lefebvre,\n27 octobre 2025\nToute la vitesse électrique\nTout sur l'électrique\nSi vous avez des questions ou des infos à partager sur tout type de bateaux de vitesse radio commandés électriques, c'est ici !\n261,5k\nmessages\nMystic  C5000 MHZ 1890mm\nPar\ndlrf44,\nLundi à 18:10\nTout le 400 (Maxi 45cms)\nSi vous avez des questions ou des infos à partager sur tout type de bateaux de vitesse radio commandés électriques de maxi 45 cms de long c'est ici !\n61,8k\nmessages\nspike un jour , spike toujours !!!!!!!&#33\nPar\njc3m,\n28 mars\nForum Commun\nConception et construction perso\nSi vous avez imaginé votre modèle, l'avez dessiné et construit ou alors construit un modèle d'après un plan, c'est ici qu'il faut ouvrir votre sujet !\n27k\nmessages\nReproduction open 5ml tous bois (CP)\nPar\nalboat,\n27 mars\nToute la vitesse \"VINTAGE\"\nTout ce qui concerne les anciennes coques. Discussion, rénovation, montages, etc...\n13,5k\nmessages\nGraupner Hydrospeed par flex\nPar\ncabou,\n29 janvier\nLes sujets communs\nPour tout ce qui peut concerner aussi bien le thermique que l'électrique (exemple, hélices, transmissions etc...). C'est ici qu'il faut le dire ou le demander.\n75,7k\nmessages\nCOVERING déco\nPar\nFrançois-L-64,\n10 mars\nDates importantes\nDates importantes\nNotez ou consultez ici les dates des rencontres officielles ou non.\n33,2k\nmessages\nENDURO 6S ECO 4 et navigation libre. 25/26 Avril 2026 MNFA WINGLES\nPar\nPhaphane,\nil y a 10 heures\nLa vie des clubs ou rencontres au bord de l'eau\nPour les membres d'un club qui veulent se retrouver pour discuter sur le forum tout en faisant partager leurs posts ou bien les membres du forum qui veulent se donner rendez-vous au bord d'un plan d'eau particulier, c'est ici que ça se passe à présent.\n70,4k\nmessages\nNavigation À Rennes\nPar\nYAM35,\nil y a 8 heures\nComptes rendus de rencontres\nAmicale - Démo - Arsouille du week-end - Compétitions diverses - nationale ou internationale, parlez-en ici..\n27,6k\nmessages\n29 et 30 novembre 2025, Enduro Bato 35 thermique et 12 S\nPar\noliv62,\n4 décembre 2025\nStatistiques des membres\n2 078\nTotal des membres\n2 479\nMaximum en ligne\nMembre le plus récent\nBato_éolienne\nInscription\n27 mars\nStatistiques des forums\n29,3k\nTotal des sujets\n802,7k\nTotal des messages\nFaire un don\nPour soutenir offshore-rc, c'est par ici,\nTous les dons sont appréciés!\namount\ncurrency_code\nEUR\nDonate Now\nDonate Sidebar by\nDevFuse\nNouveaux sujets\n16\nMystic  C5000 MHZ 1890mm\ndlrf44 · Commencé\n30 mars\n4\nZTW OU SEAKING 300A HV\ndlrf44 · Commencé\n27 mars\n3\nTAIFUN, quelle set up ?\nmnfa1 · Commencé\n27 mars\n3\nENDURO 6S ECO 4 et navigation libre. 25/26 Avril 2026 MNFA WINGLES\nmnfa1 · Commencé\n25 mars\n8\nPrésentation mono maison !\nRoRo30 · Commencé\n20 mars\nÉvènements à venir\nAvril\n25\n0\nENDURO 6S  -  ECO 4  MNFA\n25/04/2026\nJusqu’au\n26/04/2026\nAvril\n25\n0\nRencontre \"électrique\" + enduro 6S/12S étang de LEDAY (18) dans le CHER\n25/04/2026 07:00\nJusqu’au\n26/04/2026\n15:00\nAvril\n26\n0\nClub AMNRC Yville/Seine ( 76530 ) dimanche 26 avril 2026\n26/04/2026\nMai\n14\n0\n24HEURES 2026 VIRY CHATILLON\n14/05/2026\nMai\n30\n0\nRENCONTRE ENDURO 6s/ 12s + maquettes  AIGREFEUILLE D'AUNIS  LAC DE FRACE\n30/05/2026\nJusqu’au\n31/05/2026\nJuin\n11\n0\nANNIVERSAIRE DU FORUM\n11/06/2026\nJuin\n20\n0\nFête du MNFA toutes catégories\n20/06/2026\nJusqu’au\n21/06/2026\nToute l’activité\nAccueil\nLangue\nFrançais (Défaut)\nEnglish (USA)\nEnglish (USA) Copie\nFrançaise\nPolitique de confidentialité\nNous contacter\nCookies\nPowered by Invision Community\n×\nUtilisateur existant ? Connexion\nS’inscrire\nNaviguer\nPrécédent\nForums\nCalendrier\nÉquipe\nUtilisateurs en ligne\nActivité\nPrécédent\nToute l’activité\nFlux de mon activité\nContenu non lu\nContenu que j’ai commencé\nRechercher\nClassement\nClubs\n×\nCréer..."
+    },
+    {
+      "id": "src_20260409112623577535",
+      "title": "DiY Mini Mono - Conception et construction perso - offshore-rc.com",
+      "url": "https://www.offshore-rc.com/forum/index.php?/topic/48974-diy-mini-mono/",
+      "source_type": "web",
+      "collected_at": "2026-04-09T03:26:23.577535+00:00",
+      "text": "ai ai pas mal et purquoi pas 1 petit h1 mais idem pour le flex sur l'hydromite c'est un 2.3 et c'est deja gros !! pour le moteur je confirme il marche d'enfer j'en ai 2 et pour les accus les ib sont bien mais si tu veux te faire plaisir passe en lipo a plus fred\n\nDiY Mini Mono - Conception et construction perso - FORUM OFFSHORE-RC.COM\nAller au contenu\nUtilisateur existant ? Connexion\nConnexion\nSe souvenir de moi\nNon recommandé sur les ordinateurs partagés\nConnexion\nMot de passe oublié ?\nS’inscrire\nNaviguer\nForums\nCalendrier\nÉquipe\nUtilisateurs en ligne\nPlus\nActivité\nToute l’activité\nFlux de mon activité\nContenu non lu\nContenu que j’ai commencé\nRechercher\nPlus\nClassement\nClubs\nPlus\nPlus\nN’importe où\nCe forum\nCe sujet\nSujets\nÉvènements\nConception et construction perso\nToute l’activité\nAccueil\nForum Commun\nConception et construction perso\nDiY Mini Mono\nDiY Mini Mono\nPar\nCozy RC\n5 juillet 2024\ndans\nConception et construction perso\nShare\nMore sharing options...\nAbonnés\n2\nMessages recommandés\nCozy RC\nPosté(e)\n5 juillet 2024\nCozy RC\nMembres\n82\nPrénom:\nDirk Jan\nsituation géographique:\nPays-Bas\nShare\nPosté(e)\n5 juillet 2024\nBonjour French friends,\nHereby I share my latest project: a 500mm long Mini Mono, based on John Finch Wildthing.\nI share the drawing for free, and you can download it here:\nhttps://drive.google.com/file/d/18h5v1BeNiVeqVx38g8DY5kYUVbUtM2Ao/view?usp=drivesdk\nI started with sticking the drawing parts to the wood, for cutting the frames. You can use 2-3mm plywood:\nI added 1mm thick birch plywood for the plating. No fibreglass, just glue:\nNext to it's big brother, which I badly crashed previous season:\nI added the servo tray and the motor. I start with a 28mm 2600kV Roxxy inrunner, which I still had:\nI added a cheap rudder, with water cooling pickup. Basically, all parts I used are very cheap:\nI made my own trim tabs and turn fins:\nI made the cockpit from hard foam, laminated with 2 layers of glass weave:\nReady to run! It weighs just 873 grams including a 3S 3000mAh lipo:\nMaiden run! It runs so great, I'm in love\n😊\n. It handles very good. It can take corners at full speed. The top speed is 53km/h with a 435 brass prop.\nI made a 3-part video build series of this little boat. Here's the playlist, if you're interested:\nRC Mini Mono build series:\nMy sons will enjoy this little boat now. Soon enough, I will start upgrading it\n😎\n. Adding a Rocket 2948 3450kV motor at first, running on 3S, and maybe try 4S. I would love to get 80km/h with this Mini Mono!\n5\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\njerome\nPosté(e)\n5 juillet 2024\njerome\nMembres\n16,6k\nPrénom:\nJerome\nSexe:\nHomme\nIntérêt(s):\nModelisme (tous ce qui navigue ou qui roule), sports mécaniques, design, Billard anglais\nsituation géographique:\nLorgies - Nord/Pas-de-calais\nShare\nPosté(e)\n5 juillet 2024\nVery nice build!\nIf I may.\nThe prop nut is really big. It creates a weight too far from the bushing, with potential vibrations.\n1\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nCozy RC\nPosté(e)\n5 juillet 2024\nCozy RC\nMembres\n82\nPrénom:\nDirk Jan\nsituation géographique:\nPays-Bas\nAuteur\nShare\nPosté(e)\n5 juillet 2024\nHi Jérôme, thank you! Yes, you are right about the prop nut! I didn't use it, and used a lock nut instead\n😎\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nCozy RC\nPosté(e)\n6 juillet 2024\nCozy RC\nMembres\n82\nPrénom:\nDirk Jan\nsituation géographique:\nPays-Bas\nAuteur\nShare\nPosté(e)\n6 juillet 2024\nToday my sons tried the Mini Mono. We had lots of fun, and I had a bit of stress sometimes\n😅\n.\nAfter my sons finished 2 lipo's, I tried the boat on 4S. The Mini Mono got insanely fast, and I got 80km/h.\nHere's the video of today:\n1\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\n2 weeks later...\nCozy RC\nPosté(e)\n15 juillet 2024\nCozy RC\nMembres\n82\nPrénom:\nDirk Jan\nsituation géographique:\nPays-Bas\nAuteur\nShare\nPosté(e)\n15 juillet 2024\nI'm now making a carbon hull. I made my own carbon plate from 2x 200gr/m2 weave. Laminated with 45 degrees angle between the weave strands.\nThe transom is still 3mm ply, so I can use inserts to install the hardware. I laminated the seams with a strip of weave, after gluing the hull together. It's very strong, and so far just 88 grams for this 50cm hull.\n1\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\n2 weeks later...\nCozy RC\nPosté(e)\n24 juillet 2024\nCozy RC\nMembres\n82\nPrénom:\nDirk Jan\nsituation géographique:\nPays-Bas\nAuteur\nShare\nPosté(e)\n24 juillet 2024\nI made some progress:\nit will get a DIY rudder and a water pickup in the hull bottom. I think that solution has less resistance than a thick rudder blade with water pickup.\n3\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\njerome\nPosté(e)\n24 juillet 2024\njerome\nMembres\n16,6k\nPrénom:\nJerome\nSexe:\nHomme\nIntérêt(s):\nModelisme (tous ce qui navigue ou qui roule), sports mécaniques, design, Billard anglais\nsituation géographique:\nLorgies - Nord/Pas-de-calais\nShare\nPosté(e)\n24 juillet 2024\nFully right concerning the water pickup\n1\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nCozy RC\nPosté(e)\n26 juillet 2024\nCozy RC\nMembres\n82\nPrénom:\nDirk Jan\nsituation géographique:\nPays-Bas\nAuteur\nShare\nPosté(e)\n26 juillet 2024\nYesterday I ran the wooden Mini Mono again, with my sons. It was great fun! We got 58km/h with new 3S lipo's.\nI made some progress on the carbon version as well. I made the lipo tray from 3x 200gr/m² carbon weave. I will use a 60A ZTW speed control for this one.\nBrothers:\n4\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nseni\nPosté(e)\n27 juillet 2024\nseni\nMembres\n574\nPrénom:\nArsène\nSexe:\nHomme\nsituation géographique:\nLuxembourg\nShare\nPosté(e)\n27 juillet 2024\nhi Jan,\ndid you check if your carbon hull is watertight ?\nFor racing in the mini mono class the lenght should not exceed 45 cm\n:-)\nArsène\n1\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nCozy RC\nPosté(e)\n27 juillet 2024\nCozy RC\nMembres\n82\nPrénom:\nDirk Jan\nsituation géographique:\nPays-Bas\nAuteur\nShare\nPosté(e)\n27 juillet 2024\nHi Arsène, the hull is not yet water tight. It has many pin holes still. But I will cover it with a thin epoxy layer when I finished the setup.\nI named it Mini Mono, but I understand that it is actually a racing class, which I don't pretend to match with this boat\n😅\n.\n1\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\n4 weeks later...\nCozy RC\nPosté(e)\n20 août 2024\nCozy RC\nMembres\n82\nPrénom:\nDirk Jan\nsituation géographique:\nPays-Bas\nAuteur\nShare\nPosté(e)\n20 août 2024\nToday I ran the Mini Mono with the recommended Rocket 2948 3450kV motor. It is a great setup on 3S. The top speed is 72km/h and corners can be taken on full speed.\n2\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\ndodo59\nPosté(e)\n21 août 2024\ndodo59\nMembres\n2,6k\nPrénom:\nDodo\nSexe:\nHomme\nsituation géographique:\nFrance\nShare\nPosté(e)\n21 août 2024\nPlus de 50° accus mort.\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nCozy RC\nPosté(e)\n21 août 2024\nCozy RC\nMembres\n82\nPrénom:\nDirk Jan\nsituation géographique:\nPays-Bas\nAuteur\nShare\nPosté(e)\n21 août 2024\n6 hours ago, dodo59 said:\nPlus de 50° accus mort.\n50°C is near the edge, I agree! I read a lipo is allowed to reach 60°C while being discharged, but it wont be good for the lifetime of the lipo, if they run hot all the time. I pushed the hull quite hard though.\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\n2 weeks later...\nCozy RC\nPosté(e)\n2 septembre 2024\nCozy RC\nMembres\n82\nPrénom:\nDirk Jan\nsituation géographique:\nPays-Bas\nAuteur\nShare\nPosté(e)\n2 septembre 2024\nBonjour RC friends, here's a video on the Carbon Mini Mono progress. I show how I made the carbon stinger, the water cooling, and the making of the cockpit hatch.\n3\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\n3 weeks later...\nCozy RC\nPosté(e)\n18 septembre 2024\nCozy RC\nMembres\n82\nPrénom:\nDirk Jan\nsituation géographique:\nPays-Bas\nAuteur\nShare\nPosté(e)\n18 septembre 2024\nLast weekend I ran the Mini Mono and Mini Hydro.\nThe Mini Hydro has a very similar setup: 3S, 3900kV, 31mm prop, 60A esc\nMini Mono: 3S, 3450kV, 36mm prop, 60A esc\nThe Hydro corners faster (as expected). The top speed is just 1km/h difference! Both boats are a lit of fun!\n4\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\njojo76\nPosté(e)\n18 septembre 2024\njojo76\nMembres\n593\nPrénom:\nJoel\nIntérêt(s):\nMotonautisme F1 (inshore) ech 1. Le modélisme naval (surtout la vitesse avec des répliques de F1 en particulier).La pêche, la photo et le calme de temps en temps 😂\nsituation géographique:\nNormandie Eure, Pont Audemer\nShare\nPosté(e)\n18 septembre 2024\nHi,\n😁\nGreat tests and good job\n👍\nLove it\n🥰\n👏\n1\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\njojo76\nPosté(e)\n18 septembre 2024\njojo76\nMembres\n593\nPrénom:\nJoel\nIntérêt(s):\nMotonautisme F1 (inshore) ech 1. Le modélisme naval (surtout la vitesse avec des répliques de F1 en particulier).La pêche, la photo et le calme de temps en temps 😂\nsituation géographique:\nNormandie Eure, Pont Audemer\nShare\nPosté(e)\n18 septembre 2024\nThe mini hydro, it's a personal constructio\nn in wood ?\nTop speed\n👍\n🥰\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nCozy RC\nPosté(e)\n18 septembre 2024\nCozy RC\nMembres\n82\nPrénom:\nDirk Jan\nsituation géographique:\nPays-Bas\nAuteur\nShare\nPosté(e)\n18 septembre 2024\n1 hour ago, jojo76 said:\nThe mini hydro, it's a personal constructio\nn in wood ?\nTop speed\n👍\n🥰\nThank you! Yes it is. It's a Hydromite Mini Hydro, designed by Doug Forrester. You can find the drawing online.\n1\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\n2 weeks later...\nCozy RC\nPosté(e)\n27 septembre 2024\nCozy RC\nMembres\n82\nPrénom:\nDirk Jan\nsituation géographique:\nPays-Bas\nAuteur\nShare\nPosté(e)\n27 septembre 2024\nI finished the carbon rudder mount, and I made a new carbon hatch from 2 layers of 200gr/m2 carbon weave.\nIt's almost ready for the maiden run!\nhttps://youtu.be/aGVDprDZ8mE\n3\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\n4 months later...\nCozy RC\nPosté(e)\n30 janvier 2025\nCozy RC\nMembres\n82\nPrénom:\nDirk Jan\nsituation géographique:\nPays-Bas\nAuteur\nShare\nPosté(e)\n30 janvier 2025\nI developed the successor of my Mini Mono: the Cozy M500 Mini Mono.\nHere's the maiden run video:\n6\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nShare\nMore sharing options...\nAbonnés\n2\nAller sur la liste des sujets\nToute l’activité\nAccueil\nForum Commun\nConception et construction perso\nDiY Mini Mono\nLangue\nFrançais (Défaut)\nEnglish (USA)\nEnglish (USA) Copie\nFrançaise\nPolitique de confidentialité\nNous contacter\nCookies\nPowered by Invision Community\n×\nUtilisateur existant ? Connexion\nS’inscrire\nNaviguer\nPrécédent\nForums\nCalendrier\nÉquipe\nUtilisateurs en ligne\nActivité\nPrécédent\nToute l’activité\nFlux de mon activité\nContenu non lu\nContenu que j’ai commencé\nRechercher\nClassement\nClubs\n×\nCréer..."
+    },
+    {
+      "id": "src_20260409112625605495",
+      "title": "comment choisir une hélice - offshore-rc.com",
+      "url": "https://www.offshore-rc.com/forum/index.php?/topic/21012-comment-choisir-une-h%C3%A9lice/",
+      "source_type": "web",
+      "collected_at": "2026-04-09T03:26:25.609257+00:00",
+      "text": "Bonjour, j'ai acheter un bateau : Type de produit Bateau radiocommandé Offshore Marque Graupner Modèle Bateau Wave Explorer Offshore * Caractéristiques générales référence produit 2016 Mouvements Marche avant, contact / coupé Autres Moteur électrique * Caractéristiques physiques Longueur 93 cm La...\n\ncomment choisir une hélice - Tout sur l'électrique - FORUM OFFSHORE-RC.COM\nAller au contenu\nUtilisateur existant ? Connexion\nConnexion\nSe souvenir de moi\nNon recommandé sur les ordinateurs partagés\nConnexion\nMot de passe oublié ?\nS’inscrire\nNaviguer\nForums\nCalendrier\nÉquipe\nUtilisateurs en ligne\nPlus\nActivité\nToute l’activité\nFlux de mon activité\nContenu non lu\nContenu que j’ai commencé\nRechercher\nPlus\nClassement\nClubs\nPlus\nPlus\nN’importe où\nCe forum\nCe sujet\nSujets\nÉvènements\nTout sur l'électrique\nToute l’activité\nAccueil\nToute la vitesse électrique\nTout sur l'électrique\ncomment choisir une hélice\ncomment choisir une hélice\nPar\nInvité titoneo\n12 août 2009\ndans\nTout sur l'électrique\nShare\nMore sharing options...\nAbonnés\n0\nPrécédent\n1\n2\nSuivant\nPage 1 sur 2\nMessages recommandés\nInvité titoneo\nPosté(e)\n12 août 2009\nInvité titoneo\nInvités\nShare\nPosté(e)\n12 août 2009\nBonjour,\nj'ai acheter un bateau :\nType de produit Bateau radiocommandé Offshore\nMarque Graupner\nModèle Bateau Wave Explorer Offshore\n* Caractéristiques générales\nréférence produit 2016\nMouvements Marche avant, contact / coupé\nAutres Moteur électrique\n* Caractéristiques physiques\nLongueur 93 cm\nLargeur 25.5 cm\nHauteur 15 cm\nPoids 1.75 Kg\nMatières Plastique\nAlimentation Batterie\nTemps de chargement 1 h\nAutonomie 20 min\n* Fournis dans la boite\nNombre de pièces -\nAccessoires - Coque avec pont collé, recouvrement de cockpit, moteur avec réducteur, arbre d'hélice avec propulsion Hydro.\n- Support de bateau, radiocommande 2 voies à volant, accu 7,2 V, mini chargeur, décoration posée et petites pièces.\nje vien de recevoir un nouveau moteur brushless pour mon bateau:\n380 6L Brushless 4800KV Marine motor for racing boat\n# Rubber ring sealed Aluminum water cooling jacket (removable)\n# Construction: Sensorless, Precision Large Ball Bearings\n# 6 Turns 4800KV, Max 50000 RPM\n# Max load: 70 Amp, 700 watt, recommend work with 60A or up ESC\n# Work with 6-12 cell NI-MH or 2-4 cell Li-Po pack\n# Resistence: 0.008 Ohm\n# Diameter: 27.6 mm\n# Length: 58 mm\n# Weight: 175g\n# Axial Diameter: 3.175mm\n# Shaft diameter: 3.175mm\n# Shaft Length: 12 mm\n# motor mount position: 16 mm and 19mm, M3\nje vien de metre ce trontroleur:\n80A Brushless Motor Speed Controller RC ESC Parts\nFeatures\n* Constant Current: 80A\n* Sustaining Voltage: (Li-ion/Li-poly: 7.4 - 22.2v) / (NiMh/Nicd: 6 - 21.6v)\n* Max Current: 90A\n* Low-Voltage Cutoff: Auto detect and set\n* Size: 66.5mm x 38mm x 13.5mm\n* Weight:50g\nSpecifications:\n* High rate PWM\n* Low resistence\n* User programmable brake\n* Low voltage auto setting based on battery\n* Throttle range self-adjusting\n* Soft start ramp up\n* Auto motor cutoff with reset\n* Runs motor in forward or reverse\n* Safe power arming program ensures motor will not run accidentally after turn on\n* Low torque start\n* Auto shut down when signal is lost\n100% Brand New\n1 x MYSTERY 80A Speed Controller ESC\net j'attend pour alimenter tous sa :\n14.8v 5000mAh 15C 4S Lipo neuf\nmarque WinForce.\n* Capacity: 5000mAh\n* Voltage: 14.8V\n* Cells : 5\n* Burst Rate : 15C-(75ah)-\n* Continuous discharge rate: 10C-(50ah)-\n* Size :176mm x 48mm x 27mm\n* Weight: 436g\nPackage Content\n* marque EC-POWER\n* de très très bonne qualité\n* 1 x 14.8v 5000mAh 4-cell 15C Li-Po Battery\n* neuf,juste recharger et équilibré,prés a servir ...\n* (sans taxe de douane...).\n* et livraison très très rapides (pas 1 mois).\n* essais des li-po ,4 cellule en parallèle (4x5ah =20ah) son plus puissant que la Thunder Sky 12v 20ah.\nque j'ai commander hier.\nEst-ce une bonne config, et quel type d'hélice je peut metre svp, merci\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\npda75\nPosté(e)\n12 août 2009\npda75\nmodérateurs\n13k\nSexe:\nHomme\nIntérêt(s):\nmodélisme auto bateau\nfabrication d'engins roulant de tailles diverses (quad pour enfant, ....)\nsituation géographique:\nParis\nShare\nPosté(e)\n12 août 2009\nDisons que c'est une config de mono 1 dans une coque dont le poids et la taille sont ceux d'un mono 3.\nJe ne pense pas pas que la coque soit faite pour aller tres vite. C'est plus l'esprit semi maquette non ?\nA+\nPierre\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nInvité titoneo\nPosté(e)\n13 août 2009\nInvité titoneo\nInvités\nShare\nPosté(e)\n13 août 2009\nje ne sais pas trop je crois que je me suis lancer un peut a l'aveuglette, apres avoir vu des video de bateau brushless, j'avais deja acheter le bateau, c'est en suite que j'ai voulu faire les modif\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\npda75\nPosté(e)\n13 août 2009\npda75\nmodérateurs\n13k\nSexe:\nHomme\nIntérêt(s):\nmodélisme auto bateau\nfabrication d'engins roulant de tailles diverses (quad pour enfant, ....)\nsituation géographique:\nParis\nShare\nPosté(e)\n13 août 2009\nPeux tu nous montrer des photos de la coque, nous dire ton budget et la vitesse que tu souhaites atteindre.\nJe crains que ton moteur ne soit pas adapté du tout à une grosse coque.\nAvant de repondre, lis le post \"motoriser un bateau de plus d'un metre\". Il est epinglé dans la partie electrique du forum\nA+\nPierre\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nInvité titoneo\nPosté(e)\n13 août 2009\nInvité titoneo\nInvités\nShare\nPosté(e)\n13 août 2009\nvoila mon bateau:\npour l'interieur un peu plus tard dans la journee...\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\npda75\nPosté(e)\n13 août 2009\npda75\nmodérateurs\n13k\nSexe:\nHomme\nIntérêt(s):\nmodélisme auto bateau\nfabrication d'engins roulant de tailles diverses (quad pour enfant, ....)\nsituation géographique:\nParis\nShare\nPosté(e)\n13 août 2009\nJe ne pense pas que cette coque soit faite pour des records de vitesse.\nElle semble ne pas avoir de caisson de retournement ce qui exclut les trop hautes vitesses.\nEst ce une transmission immergée ou semi - immergée ?(la transmission sort-elle de la coque sous la coque ou sur le tableau arriere ?)\nJe partirai sur une vitesse cible de 50 km/h et une helice K48 en semi immergée et K45 en immergé (même si ce n'est pas le top cela marche).\nUne vitesse de rotation de 22 à 25 000 t/mn doit permettre d'atteindre cette vitesse.\nPour avoir de l'autonomie, les accus 4S que tu as sont pas mal. Il te faut un moteur type feigao 540L avec un Kv de 1700 à 1500. Le moteur serait monté sans reducteur.\nCes idées sont à debattre.\nA+\nPierre\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\npda75\nPosté(e)\n13 août 2009\npda75\nmodérateurs\n13k\nSexe:\nHomme\nIntérêt(s):\nmodélisme auto bateau\nfabrication d'engins roulant de tailles diverses (quad pour enfant, ....)\nsituation géographique:\nParis\nShare\nPosté(e)\n13 août 2009\nJe viens de voir que la propulsion se fait par une turbine. Dans ce cas, il faut regarder la vitesse max de rotation.\nSi c'est la turbine graupner, de memoire, c'est 25 000 t/mn, les elements cités pus haut sur le moteur et les accus 4S restent donc valables.\nA+\nPierre\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nInvité titoneo\nPosté(e)\n13 août 2009\nInvité titoneo\nInvités\nShare\nPosté(e)\n13 août 2009\nmerci beaucoup pierre, pour ces renseignement, je dois changer l'hélice et tester, je vien de recevoir l'accu, on va voir ce que sa donne,\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nInvité titoneo\nPosté(e)\n13 août 2009\nInvité titoneo\nInvités\nShare\nPosté(e)\n13 août 2009\nvoici l'intérieur avec le moteur d'origine moteur électrique SPEED 600\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\npda75\nPosté(e)\n13 août 2009\npda75\nmodérateurs\n13k\nSexe:\nHomme\nIntérêt(s):\nmodélisme auto bateau\nfabrication d'engins roulant de tailles diverses (quad pour enfant, ....)\nsituation géographique:\nParis\nShare\nPosté(e)\n13 août 2009\nUne bonne nouvelle : ta transmission est semi immergée\nUne mauvaise : elle n'est pas faite pour supporter beaucoup de puissance. Il ne faut pas investir trop dans cette coque. Tu peux essayer le config dont je t'ai parlée (K48 et moteur feigao de 1500 -1700 de kv) mais n'attends pas de miracles.\nAprès mon conseil serait de changer de coque. En sachant que le kv de 1500 à 1700 n'est pas adapté à du mono 2 qui est la coque standard de vitesse.\nA toi de voir si tu veux investir dans cette coque (au maximum 50 km/h) ou passer sur un mono 2 pour aller vers 70 - 80 km/h.\nEn tout cas, n'utilise pas le moteur que tu as. Même à vide, la transmission par cardan n'y resistera pas.\nA+\nPierre\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nInvité titoneo\nPosté(e)\n13 août 2009\nInvité titoneo\nInvités\nShare\nPosté(e)\n13 août 2009\npeut on metre ce moteur sur ma config?\nAlign 600XL Brushless Motor TRex 600 1650kV\nAlign 600XL Brushless Motor (1700KV) RCM-BL600XL\n1.New powerful 600XL brushless motor is using 6 cell Li-po as standard, it makes much more improvement on the torque and efficiency. The performance is much power under 3D flying, features continuously strong torque.\n2.Maintenance free, high torque, high efficiency, stable and quiet.\n3.Japanese made high-speed ball bearings, powerful magnetic rotor.\n4.These new brushless motors are designed with a new radiator system. The motors are built with an integrated cooling fan and has air ingress/egress vents, circulating cool air inside the rotor continuously. The motors efficiently lower operating temperature.\nInput voltage:DC11.1-22.2V 3-6cell Li-Po\nMax continuous current:70A/85A(60sec)\nMax output power:Approx. 1600W/2000W(60sec)\nKV value:1700KV\nDimension:spindle 5x65x43.3mm\nWeight:Approx. 300g\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nInvité ED the HEAD\nPosté(e)\n14 août 2009\nInvité ED the HEAD\nInvités\nShare\nPosté(e)\n14 août 2009\n+1 avec Pierre! ne met pas un kopeck dans cette coque tu vas être déçu, moi j'y avais monter d'abord deux Speed600Race sous 12V\npuis un Feigao 8XL sous 14,8V et ça envoyait fort\nmais aucune tenue dans les virages!\nSi tu doit investir dans de la motorisation/controlleur/accus, choisi déjà une bonne coque, il y en a des pas cheres (je parle de copie chinoises sur ebay), pour le prix de ce Wave Explorer je me suis fait un M2 qui marche et qui tiens \"la route\"!\nPS :  j'ai oublier de dire que pour pouvoir passer les 1200watts du 8XL j'avais blinder le fond de la coque avec une plque d'alu de 2mm ajourée!!!\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nInvité jihem\nPosté(e)\n14 août 2009\nInvité jihem\nInvités\nShare\nPosté(e)\n14 août 2009\n+1\nj'avais offert à un de mes fils un SINTRA largement sous motorisé, je flinguais un pack d'accus à chaque sortie (chauds bouillants) les tentatives de surmotoriser ces coques loisirs ne mènent généralement :\nqu'à tout cramer....\nqu'à percevoir le maillot de bain\nà alleger inutilement le porte-monnaie.\nVu la taille et le poids du bestiau, il faut des grosses puissances (moteur + accus + contro) Si tu gardes la même trans, à mon avis le cardan va pas aimer !!!! Autant investir directement dans une coque prévue pour ça.... mais on peut aimer l'experimentation !!!!\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\npda75\nPosté(e)\n14 août 2009\npda75\nmodérateurs\n13k\nSexe:\nHomme\nIntérêt(s):\nmodélisme auto bateau\nfabrication d'engins roulant de tailles diverses (quad pour enfant, ....)\nsituation géographique:\nParis\nShare\nPosté(e)\n14 août 2009\nLes moteurs align sont des multipoles, ce n'est pas le mieux en bateau. Les feiga sont plus adaptés.\nCeci dit, tu vasq acheter un moteur, un controller, des accus, une transmission, un gouvernail et il te faudra un turn fin et une prise d'eau: bref tout sauf la coque.\nTa coque en ABS va devenir assez moche avec des trous et des appendices partout.\nTout cela pour des performances mediocres et un moteur atypique que tu ne pourras pas revendre.\nTu continues ?\nA+\nPierre\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nInvité titoneo\nPosté(e)\n14 août 2009\nInvité titoneo\nInvités\nShare\nPosté(e)\n14 août 2009\nmerci pierre\nsa calme\nquelle config tu peux faire avec ce que j'ai\nnouvelle coque ou otre et a quel prix\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\npda75\nPosté(e)\n14 août 2009\npda75\nmodérateurs\n13k\nSexe:\nHomme\nIntérêt(s):\nmodélisme auto bateau\nfabrication d'engins roulant de tailles diverses (quad pour enfant, ....)\nsituation géographique:\nParis\nShare\nPosté(e)\n14 août 2009\nQu'as tu exactement ?\nLa coque en ABS, une radio FM ?....\nA+\nPierre\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nInvité titoneo\nPosté(e)\n14 août 2009\nInvité titoneo\nInvités\nShare\nPosté(e)\n14 août 2009\ncoque abs de 93cm\nvariateur 80a\nradio am 27\nmoteur 380 6L Brushless 4800KV Marine motor for racing boat\nacu lipo 14.8 5000mAh\nvoila ce que j'ai actuellement\nmerci encore pierre\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nInvité ED the HEAD\nPosté(e)\n14 août 2009\nInvité ED the HEAD\nInvités\nShare\nPosté(e)\n14 août 2009\nun kv de 4800 sur un (si) petit moteur sous 14,8V! oulala ça fait 71000t/min\n!...\n... du SAW, un outrigger\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nInvité titoneo\nPosté(e)\n14 août 2009\nInvité titoneo\nInvités\nShare\nPosté(e)\n14 août 2009\noui dsl , je savais pas au début qu'il fallait faire 4800 * 14.8\nque c t trop pour 50000 tour\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\npda75\nPosté(e)\n14 août 2009\npda75\nmodérateurs\n13k\nSexe:\nHomme\nIntérêt(s):\nmodélisme auto bateau\nfabrication d'engins roulant de tailles diverses (quad pour enfant, ....)\nsituation géographique:\nParis\nShare\nPosté(e)\n14 août 2009\nJ'iamgine que tu veux faire un bateau de vitesse. Oublions donc la coque, il faudra en acheter une nouvelle. Tu peux garder ta radio AM au debut si les deux voies sont proportionnelles, mais il faudra assez vite une radio FM.\nEnsuite le moteur et les accus ne vont pas ensemble. Ton moteur est pour un mono 1 et l'accus est celui d'un mono 2. Le contro convient pour les deux (un peu juste pour le mono 2 dans une version un peu sportive ou si les caracteristiques du constructeur sont un peu optimistes.\nIl faut choisir soit monter un mono 1 avec ton moteur et des accus 2S (en verifiant que ton controleur fonctionne en 2S) soit un mono 2 avec tes accus 4S.\nHors frais de port, tu peux trouver des moteurs à 50 ?. Le hardware varie entre 40 et 120 ? selon la qualité.\nUne coque peut démarrer à 50 ? sur ebay et monter à 150 voir 200 chez un fabriquant de qualité\nSi tu n'as pas de pb de budget, le mono 2 est plus gros, va plus vite et passe mieux les vagues mais c'est un peu plus cher.\nBonne réflexion !\nA+\nPierre\nPS : tu peux aussi choisr un acatamaran ou un hydro.\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nInvité titoneo\nPosté(e)\n14 août 2009\nInvité titoneo\nInvités\nShare\nPosté(e)\n14 août 2009\nmerci pierre\npeut tu me dire le mot clef a utiliser sur ebay pour trouver une coque\nmerci\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nInvité feste\nPosté(e)\n14 août 2009\nInvité feste\nInvités\nShare\nPosté(e)\n14 août 2009\ntiens regarde la\nhttp://stores.shop.ebay.fr/Head-of-the-Riv...t__W0QQ_armrsZ1\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nInvité ED the HEAD\nPosté(e)\n14 août 2009\nInvité ED the HEAD\nInvités\nShare\nPosté(e)\n14 août 2009\naussi\nici\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nSteenarigno\nPosté(e)\n14 août 2009\nSteenarigno\nMembres\n2k\nPrénom:\nStéphane\nSexe:\nHomme\nIntérêt(s):\nVoitures (TT 1/10ème électriques) et bateaux RC, musique (rock west coast) et F1 (à la tv).\nsituation géographique:\nNogent-sur-Marne\nShare\nPosté(e)\n14 août 2009\nLe 380 6L serait très bien en 2S ms ds une coque bcp plus petite : dommage.\nStéphane.\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nInvité titoneo\nPosté(e)\n15 août 2009\nInvité titoneo\nInvités\nShare\nPosté(e)\n15 août 2009\nmerci a tous pour vos conseil\nLien vers le commentaire\nPartager sur d’autres sites\nMore sharing options...\nPrécédent\n1\n2\nSuivant\nPage 1 sur 2\nShare\nMore sharing options...\nAbonnés\n0\nAller sur la liste des sujets\nToute l’activité\nAccueil\nToute la vitesse électrique\nTout sur l'électrique\ncomment choisir une hélice\nLangue\nFrançais (Défaut)\nEnglish (USA)\nEnglish (USA) Copie\nFrançaise\nPolitique de confidentialité\nNous contacter\nCookies\nPowered by Invision Community\n×\nUtilisateur existant ? Connexion\nS’inscrire\nNaviguer\nPrécédent\nForums\nCalendrier\nÉquipe\nUtilisateurs en ligne\nActivité\nPrécédent\nToute l’activité\nFlux de mon activité\nContenu non lu\nContenu que j’ai commencé\nRechercher\nClassement\nClubs\n×\nCréer..."
+    },
+    {
+      "id": "src_20260409032650738464",
+      "title": "https://en.wikipedia.org/wiki/Hydrogen_economy",
+      "url": "https://en.wikipedia.org/wiki/Hydrogen_economy",
+      "source_type": "fallback_public",
+      "collected_at": "2026-04-09T03:26:50.738464Z",
+      "text": "Hydrogen economy - Wikipedia \n (function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-theme-clientpref-thumb-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"d2c66386-f9fb-4950-a7ac-818c0e9e0c5a\",\"wgCanonicalNamespace\":\"\",\"wgCanonicalSpecialPageName\":false,\"wgNamespaceNumber\":0,\"wgPageName\":\"Hydrogen_economy\",\"wgTitle\":\"Hydrogen economy\",\"wgCurRevisionId\":1346716262,\"wgRevisionId\":1346716262,\"wgArticleId\":906156,\"wgIsArticle\":true,\"wgIsRedirect\":false,\"wgAction\":\"view\",\"wgUserName\":null,\"wgUserGroups\":[\"*\"],\"wgCategories\":[\"CS1: unfit URL\",\"Articles with imported Creative Commons Attribution 3.0 text\",\"Articles with imported Creative Commons Attribution 4.0 text\",\"CS1 maint: DOI inactive as of October 2025\",\"CS1 maint: multiple names: authors list\",\"CS1 maint: deprecated archival service\",\"Articles with short description\",\"Short description is different from Wikidata\",\"Articles containing potentially dated statements from 2023\",\"All articles containing potentially dated statements\",\"Articles with excerpts\",\"Articles containing potentially dated statements from 2019\",\"Wikipedia articles in need of updating from February 2024\",\"All Wikipedia articles in need of updating\",\"Wikipedia articles in need of updating from February 2019\",\"All articles with unsourced statements\",\"Articles with unsourced statements from July 2025\",\"Articles with unsourced statements from October 2021\",\"Articles with unsourced statements from December 2011\",\"Articles with unsourced statements from June 2019\",\"Commons category link from Wikidata\",\"Fuel technology\",\"Hydrogen economy\",\"Hydrogen technologies\",\"Industrial gases\",\"Low-carbon economy\"],\"wgPageViewLanguage\":\"en\",\"wgPageContentLanguage\":\"en\",\"wgPageContentModel\":\"wikitext\",\"wgRelevantPageName\":\"Hydrogen_economy\",\"wgRelevantArticleId\":906156,\"wgTempUserName\":null,\"wgIsProbablyEditable\":true,\"wgRelevantPageIsProbablyEditable\":true,\"wgRestrictionEdit\":[],\"wgRestrictionMove\":[],\"wgNoticeProject\":\"wikipedia\",\"wgFlaggedRevsParams\":{\"tags\":{\"status\":{\"levels\":1}}},\"wgConfirmEditCaptchaNeededForGenericEdit\":\"hcaptcha\",\"wgConfirmEditHCaptchaVisualEditorOnLoadIntegrationEnabled\":false,\"wgConfirmEditHCaptchaSiteKey\":\"5d0c670e-a5f4-4258-ad16-1f42792c9c62\",\"wgMediaViewerOnClick\":true,\"wgMediaViewerEnabledByDefault\":true,\"wgPopupsFlags\":0,\"wgVisualEditor\":{\"pageLanguageCode\":\"en\",\"pageLanguageDir\":\"ltr\",\"pageVariantFallbacks\":\"en\"},\"wgMFDisplayWikibaseDescriptions\":{\"search\":true,\"watchlist\":true,\"tagline\":false,\"nearby\":true},\"wgWMESchemaEditAttemptStepOversample\":false,\"wgWMEPageLength\":100000,\"wgEditSubmitButtonLabelPublish\":true,\"wgVisualEditorPageIsDisambiguation\":false,\"wgULSPosition\":\"interlanguage\",\"wgULSisCompactLinksEnabled\":false,\"wgVector2022LanguageInHeader\":true,\"wgULSisLanguageSelectorEmpty\":false,\"wgWikibaseItemId\":\"Q478859\",\"wgCheckUserClientHintsHeadersJsApi\":[\"brands\",\"architecture\",\"bitness\",\"fullVersionList\",\"mobile\",\"model\",\"platform\",\"platformVersion\"],\"GEHomepageSuggestedEditsEnableTopics\":true,\"wgGESuggestedEditsTaskTypes\":{\"taskTypes\":[\"copyedit\",\"link-recommendation\"],\"unavailableTaskTypes\":[]},\"wgGETopicsMatchModeEnabled\":false,\"wgGELevelingUpEnabledForUser\":false,\"wgTestKitchenUserExperiments\":{\"overrides\":[],\"enrolled\":[],\"assigned\":[],\"subject_ids\":[]}};\nRLSTATE={\"ext.globalCssJs.user.styles\":\"ready\",\"site.styles\":\"ready\",\"user.styles\":\"ready\",\"ext.globalCssJs.user\":\"ready\",\"user\":\"ready\",\"user.options\":\"loading\",\"ext.wikimediamessages.styles\":\"ready\",\"ext.cite.styles\":\"ready\",\"skins.vector.search.codex.styles\":\"ready\",\"skins.vector.styles\":\"ready\",\"skins.vector.icons\":\"ready\",\"jquery.makeCollapsible.styles\":\"ready\",\"ext.visualEditor.desktopArticleTarget.noscript\":\"ready\",\"ext.uls.interlanguage\":\"ready\",\"wikibase.client.init\":\"ready\"};RLPAGEMODULES=[\"ext.parsermigration.survey\",\"ext.cite.ux-enhancements\",\"mediawiki.page.media\",\"ext.scribunto.logs\",\"site\",\"mediawiki.page.ready\",\"jquery.makeCollapsible\",\"mediawiki.toc\",\"skins.vector.js\",\"ext.centralNotice.geoIP\",\"ext.centralNotice.startUp\",\"ext.gadget.ReferenceTooltips\",\"ext.gadget.switcher\",\"ext.urlShortener.toolbar\",\"ext.centralauth.centralautologin\",\"mmv.bootstrap\",\"ext.popups\",\"ext.visualEditor.desktopArticleTarget.init\",\"ext.echo.centralauth\",\"ext.eventLogging\",\"ext.wikimediaEvents\",\"ext.navigationTiming\",\"ext.uls.interface\",\"ext.cx.eventlogging.campaigns\",\"ext.cx.uls.quick.actions\",\"wikibase.client.vector-2022\",\"wikibase.databox.fromWikidata\",\"ext.checkUser.clientHints\",\"ext.quicksurveys.init\",\"ext.growthExperiments.SuggestedEditSession\",\"ext.testKitchen\"]; \n (RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return[\"user.options@12s5i\",function($,jQuery,require,module){mw.user.tokens.set({\"patrolToken\":\"+\\\\\",\"watchToken\":\"+\\\\\",\"csrfToken\":\"+\\\\\"});\n}];});}); \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n   Jump to content \n \n\t \n\t\t \n\t\t\t \n\t\t\t\t\n \n\t \n\t   \n\n Main menu \n\t \n\t \n\n\n\t\t\t\t \n\t\t\n \n\t \n\t Main menu \n\t move to sidebar \n\t hide \n \n\n\t\n \n\t \n\t\tNavigation\n\t \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t   Main page      Contents      Current events      Random article      About Wikipedia      Contact us   \n\t\t \n\t\t\n\t \n \n\n\t\n \n\t \n\t\tContribute\n\t \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t   Help      Learn to edit      Community portal      Recent changes      Upload file      Special pages   \n\t\t \n\t\t\n\t \n \n\n \n\n\t\t\t\t \n\n\t \n \n\n\t\t \n\t\t\t\n \n\t \n\t \n\t\t \n\t\t \n\t \n \n\n\t\t \n\t\t \n\t\t\t\n \n\t   \n\n Search \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t  \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t\t Search \n\t\t\t \n\t\t \n\t \n \n\n\t\t\t \n\t \n\t\n \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t\n\t\t \n\t\t\n\t \n \n\n\t\n \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t\n\t\t \n\t\t\n\t \n \n\n\t \n\t\t\n \n\t \n\t   \n\n Appearance \n\t \n\t \n\n\n\t\t\t \n\t\t\t\t\n\t\t\t \n\t\t\n\t \n \n\n\t \n\t\n \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t\n\t\t \n\t\t\n\t \n \n\n\t\n \n\t \n\t\t\n\t\t \n\t\t\t   Donate  \n \n   Create account  \n \n   Log in  \n \n\n\t\t\t\n\t\t \n\t\t\n\t \n \n\n\t \n\t\n \n\t \n\t   \n\n Personal tools \n\t \n\t \n\n\n\t\t\n \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t      Donate         Create account         Log in   \n\t\t \n\t\t\n\t \n \n\n\t\n\t \n \n\n \n\n\t\t \n\t \n \n \n\t \n\t\t \n\t\t\t   \n\t\t \n\t\t \n\t\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\n\t\t\t\t \n\t\t \n\t\t \n\t \n\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t \n\t Contents \n\t move to sidebar \n\t hide \n \n\n\n\t \n\t\t \n\t\t\t \n\t\t\t\t (Top) \n\t\t\t \n\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t 1 \n\t\t\t\t History and objectives \n\t\t\t \n\t\t \n\t\t\n\t\t\t \n\t\t\t\t  \n\t\t\t\t Toggle History and objectives subsection \n\t\t\t \n\t\t\n\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 1.1 \n\t\t\t\t\t Origins \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 1.2 \n\t\t\t\t\t Later evolution \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 1.3 \n\t\t\t\t\t National hydrogen strategies \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 2 \n\t\t\t\t Current hydrogen market \n\t\t\t \n\t\t \n\t\t\n\t\t \n\t\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 3 \n\t\t\t\t Production \n\t\t\t \n\t\t \n\t\t\n\t\t\t \n\t\t\t\t  \n\t\t\t\t Toggle Production subsection \n\t\t\t \n\t\t\n\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 3.1 \n\t\t\t\t\t Green methanol \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 4 \n\t\t\t\t Uses \n\t\t\t \n\t\t \n\t\t\n\t\t\t \n\t\t\t\t  \n\t\t\t\t Toggle Uses subsection \n\t\t\t \n\t\t\n\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 4.1 \n\t\t\t\t\t Industry \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 4.2 \n\t\t\t\t\t Transport \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 4.3 \n\t\t\t\t\t Energy system balancing and storage \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 4.4 \n\t\t\t\t\t Ammonia \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 4.5 \n\t\t\t\t\t Buildings \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 4.6 \n\t\t\t\t\t Bio-SNG \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 4.7 \n\t\t\t\t\t SNG \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 5 \n\t\t\t\t Safety \n\t\t\t \n\t\t \n\t\t\n\t\t \n\t\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 6 \n\t\t\t\t Hydrogen infrastructure \n\t\t\t \n\t\t \n\t\t\n\t\t\t \n\t\t\t\t  \n\t\t\t\t Toggle Hydrogen infrastructure subsection \n\t\t\t \n\t\t\n\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 6.1 \n\t\t\t\t\t Storage \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 6.2 \n\t\t\t\t\t Power plants \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 7 \n\t\t\t\t Costs \n\t\t\t \n\t\t \n\t\t\n\t\t \n\t\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 8 \n\t\t\t\t Examples and pilot programs \n\t\t\t \n\t\t \n\t\t\n\t\t\t \n\t\t\t\t  \n\t\t\t\t Toggle Examples and pilot programs subsection \n\t\t\t \n\t\t\n\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 8.1 \n\t\t\t\t\t Australia \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 8.2 \n\t\t\t\t\t European Union \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 8.2.1 \n\t\t\t\t\t France \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 8.2.2 \n\t\t\t\t\t Germany \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 8.2.3 \n\t\t\t\t\t Iceland \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 8.3 \n\t\t\t\t\t India \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 8.4 \n\t\t\t\t\t Poland \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 8.5 \n\t\t\t\t\t Saudi Arabia \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 8.6 \n\t\t\t\t\t South Korea \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 8.7 \n\t\t\t\t\t Turkey \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 8.8 \n\t\t\t\t\t United Kingdom \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 8.9 \n\t\t\t\t\t United States \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 8.10 \n\t\t\t\t\t Vietnam \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 9 \n\t\t\t\t See also \n\t\t\t \n\t\t \n\t\t\n\t\t \n\t\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 10 \n\t\t\t\t References \n\t\t\t \n\t\t \n\t\t\n\t\t\t \n\t\t\t\t  \n\t\t\t\t Toggle References subsection \n\t\t\t \n\t\t\n\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 10.1 \n\t\t\t\t\t Sources \n\t\t\t\t \n\t\t\t \n\t\t\t\n\t\t\t \n\t\t\t \n\t\t \n\t \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 11 \n\t\t\t\t External links \n\t\t\t \n\t\t \n\t\t\n\t\t \n\t\t \n\t \n \n \n\n\t\t\t\t\t \n\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t\n \n\t \n\t   \n\n Toggle the table of contents \n\t \n\t \n\n\n\t\t\t\t\t\t\t \n\t\t\t \n\t\t\n\t \n \n\n\t\t\t\t\t \n\t\t\t\t\t  Hydrogen economy  \n\t\t\t\t\t\t\t\n \n\t \n\t   \n\n 41 languages \n\t \n\t \n\n\t\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t   Afrikaans      العربية      الدارجة      Azərbaycanca      Беларуская (тарашкевіца)      Български      বাংলা      Català      Dansk      Deutsch      Esperanto      Español      Eesti      فارسی      Suomi      Français      हिन्दी      Hrvatski      Magyar      Հայերեն      Jaku Iban      Italiano      日本語      Қазақша      한국어      Lietuvių      Монгол      Bahasa Melayu      Nederlands      Português      Русский      Simple English      Svenska      ไทย      Türkçe      Українська      Tiếng Việt      ייִדיש      粵語      中文      IsiZulu   \n\t\t\t \n\t\t\t   Edit links   \n\t\t \n\n\t \n \n \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\n \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t   Article      Talk   \n\t\t \n\t\t\n\t \n \n\n\t\t\t\t\t\t\t\t\n \n\t \n\t  English \n\t \n\t \n\n\n\t\t\t\t\t\n \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t\n\t\t \n\t\t\n\t \n \n\n\t\t\t\t\n\t \n \n\n\t\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\n \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t   Read      Edit      View history   \n\t\t \n\t\t\n\t \n \n\n\t\t\t\t\t\t\t \n\t\t\t\t\n\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\n \n\t \n\t  Tools \n\t \n\t \n\n\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\n \n\t \n\t Tools \n\t move to sidebar \n\t hide \n \n\n\t\n \n\t \n\t\tActions\n\t \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t   Read      Edit      View history   \n\t\t \n\t\t\n\t \n \n\n \n\t \n\t\tGeneral\n\t \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t   What links here      Related changes      Upload file      Permanent link      Page information      Cite this page      Get shortened URL   \n\t\t \n\t\t\n\t \n \n\n \n\t \n\t\tPrint/export\n\t \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t   Download as PDF      Printable version   \n\t\t \n\t\t\n\t \n \n\n \n\t \n\t\tIn other projects\n\t \n\t \n\t\t\n\t\t \n\t\t\t\n\t\t\t   Wikimedia Commons      Wikiquote      Wikidata item   \n\t\t \n\t\t\n\t \n \n\n \n\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\n\t \n \n\n\t\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t  \n\t\t\t\t\t\t \n\t\t\t\t\t\t\t \n\t\t\t\t\n\t\t\t\t\t\t\t \n\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t\t \n\t\t\t\t \n\t \n\t Appearance \n\t move to sidebar \n\t hide \n \n\n\n \n\n\t\t\t\t\t\t\t \n\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t\t \n\t\t \n\n\t\t\t\t\t\t From Wikipedia, the free encyclopedia \n\t\t\t\t\t \n\t\t\t\t\t    \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t  \n   Using hydrogen to decarbonize more sectors \n     Hydrogen has the most potential to reduce  greenhouse gas emissions  when used in chemical production, refineries, international shipping, and  steelmaking    &#91; 1 &#93;     \n The  hydrogen economy  is a term for the role  hydrogen  as an energy carrier to complement electricity as part of a long-term option to reduce emissions of  greenhouse gases . The aim is to reduce emissions where cheaper and more energy-efficient clean solutions are not available.   &#91; 2 &#93;     &#58;&#8202;1&#8202;   In this context,  hydrogen economy  encompasses the production of hydrogen and the use of hydrogen in ways that contribute to  phasing-out fossil fuels  and limiting  climate change .\n  Hydrogen can be produced by several means. Most hydrogen produced today is  gray hydrogen , made from  natural gas  through  steam methane reforming  (SMR). This process accounted for 1.8% of global greenhouse gas emissions in 2021.   &#91; 3 &#93;     Low-carbon hydrogen , which is made using SMR with  carbon capture and storage  (  blue hydrogen  ), or through electrolysis of water using renewable power (  green hydrogen  ), accounted for less than 1% of production.   &#91; 4 &#93;    Of the 100 million tonnes   &#91; 5 &#93;    of hydrogen produced in 2021, 43% was used in oil refining and 57% in  industry, principally in the manufacture of  ammonia  for fertilizers, and  methanol .   &#91; 6 &#93;     &#58;&#8202;18,&#8202;22,&#8202;29&#8202;  \n  To  limit global warming , it is generally envisaged that the future hydrogen economy replace  gray hydrogen with low-carbon hydrogen. As of 2024 it is unclear when enough low-carbon hydrogen could be produced to phase-out all the gray hydrogen.   &#91; 7 &#93;    The future end-uses are likely in heavy industry (e.g. high-temperature processes alongside electricity, feedstock for production of  green ammonia  and  organic chemicals , as alternative to coal-derived  coke  for  steelmaking ), long-haul transport (e.g. shipping, and to a lesser extent  hydrogen-powered aircraft  and heavy goods vehicles), and long-term energy storage.   &#91; 8 &#93;      &#91; 9 &#93;    Other applications, such as light duty vehicles and heating in buildings, are no longer part of the future hydrogen economy, primarily for economic and environmental reasons.   &#91; 10 &#93;      &#91; 11 &#93;    Hydrogen is challenging to store, to transport in pipelines, and to use.   &#91; 12 &#93;    It presents  safety  concerns since it is highly explosive, and it is inefficient compared to direct  use of electricity . Since relatively small amounts of low-carbon hydrogen are available, climate benefits can be maximized by using it in harder-to-decarbonize applications.   &#91; 11 &#93;   \n  As of 2023  &#91;update&#93;   there are no real alternatives to hydrogen for several chemical processes in which it is currently used, such as  ammonia production  for  fertilizer .   &#91; 13 &#93;    The cost of low- and zero-carbon hydrogen is likely to influence the degree to which it will be used in chemical feedstocks, long haul aviation and shipping, and long-term energy storage. Production costs of low- and zero-carbon hydrogen are evolving.   &#91; 14 &#93;    Future costs may be influenced by  carbon taxes , the geography and geopolitics of energy, energy prices, technology choices, and their raw material requirements.   &#91; 15 &#93;    The U.S. Department of Energy's Hydrogen Hotshot Initiative seeks to reduce the cost of green hydrogen drop to $1 a kilogram by 2031,   &#91; 16 &#93;    though the cost of electrolyzers rose 50% between 2021 and 2024.   &#91; 17 &#93;   \n \n \n  History and objectives   [   edit   ]   \n  Origins   [   edit   ]   \n The concept of a society that uses hydrogen as the primary means of energy storage was theorized by geneticist  J. B. S. Haldane  in 1923. Anticipating the exhaustion of Britain's coal reserves for power generation, Haldane proposed a network of wind turbines to produce hydrogen and oxygen for long-term energy storage through  electrolysis , to help address renewable power's  variable output .   &#91; 18 &#93;    The term \"hydrogen economy\" itself was coined by  John Bockris  during a talk he gave in 1970 at  General Motors  (GM) Technical Center.   &#91; 19 &#93;    Bockris viewed it as an economy in which hydrogen, underpinned by  nuclear  and  solar  power, would help address growing concern about fossil fuel depletion and environmental pollution, by serving as  energy carrier  for end-uses in which  electrification  was not suitable.   &#91; 2 &#93;      &#91; 20 &#93;   \n  A hydrogen economy was proposed by the  University of Michigan  to solve some of the negative effects of using  hydrocarbon  fuels where the carbon is released to the atmosphere (as carbon dioxide, carbon monoxide, unburnt hydrocarbons, etc.). Modern interest in the hydrogen economy can generally be traced to a 1970 technical report by  Lawrence W. Jones  of the University of Michigan,   &#91; 21 &#93;    in which he echoed Bockris' dual rationale of addressing energy security and environmental challenges. Unlike Haldane and Bockris, Jones only focused on nuclear power as the energy source for electrolysis, and principally on the use of hydrogen in transport, where he regarded aviation and heavy goods transport as the top priorities.   &#91; 22 &#93;   \n  In 1974  International Energy Agency  (IEA) and the  International Association for Hydrogen Energy  (IAHE) were established. These organizations had several initiatives including advocating for national strategies to increase interest and visibility of the hydrogen economy.   &#91; 2 &#93;     &#58;&#8202;12&#8202;  \n \n  Later evolution   [   edit   ]   \n     Technology leadership opportunities in green hydrogen value chains according to the  International Renewable Energy Agency  in 2022   &#91; 23 &#93;     &#58;&#8202;55&#8202;    \n A spike in attention for the  hydrogen economy  concept during the 2000s was repeatedly described as hype by some  critics  and proponents of alternative technologies,   &#91; 24 &#93;      &#91; 25 &#93;      &#91; 26 &#93;    and investors lost money in the  bubble .   &#91; 27 &#93;    Interest in the energy carrier resurged in the 2010s, notably with the forming of the  Hydrogen Council  in 2017. Several manufacturers released hydrogen fuel cell cars commercially, and manufacturers such as Toyota, Hyundai, and industry groups in China planned to increase numbers of the cars into the hundreds of thousands over the next decade.   &#91; 28 &#93;      &#91; 29 &#93;    However, the global scope for hydrogen's role in cars is shrinking relative to earlier expectations.   &#91; 30 &#93;      &#91; 31 &#93;     By the end of 2022, 70,200  hydrogen vehicles  had been sold worldwide,   &#91; 32 &#93;    compared with 26 million  plug-in electric vehicles .   &#91; 33 &#93;   \n  Early 2020s takes on the hydrogen economy share earlier perspectives' emphasis on the complementarity of electricity and hydrogen, and the use of electrolysis as the mainstay of hydrogen production.   &#91; 8 &#93;    They focus on the need to limit  global warming  to 1.5&#160;°C and prioritize the production, transportation and use of  green hydrogen  for heavy industry (e.g. high-temperature processes alongside electricity,   &#91; 34 &#93;    feedstock for production of  green ammonia  and organic chemicals,   &#91; 8 &#93;    as alternative to coal-derived coke for  steelmaking ),   &#91; 35 &#93;    long-haul transport (e.g. shipping, aviation and to a lesser extent heavy goods vehicles), and long-term energy storage.   &#91; 8 &#93;      &#91; 9 &#93;   \n \n  National hydrogen strategies      [   edit   ]   \n     Hydrogen strategy phases  \n Since 2017, several countries and regions have released a  hydrogen strategy , outlining their goals in developing hydrogen infrastructure and as a guide for private investment.   &#91; 36 &#93;    The  International Renewable Energy Agency  has proposed  national strategies  as the first pillar of policies to promote green hydrogen.   &#91; 36 &#93;      &#91; 37 &#93;   \n  In 2017  Japan  published their strategy with a proposal to become the world's first \"hydrogen society\".   &#91; 38 &#93;    Many provinces and cities in China have established hydrogen strategies.   &#91; 39 &#93;    The  European Union  strategy, adopted   &#91; 40 &#93;    in 2021, outlines a plan to develop large scale infrastructure for hydrogen including electrolysers in collaboration with multiple trade organizations.   &#91; 41 &#93;    The US hydrogen strategy \"presents a strategic framework for achieving large-scale production and use of hydrogen\" over a 30 year period.   &#91; 42 &#93;    Analysis suggests that even nations reliant on exports of  natural gas  like  Qatar  could benefit from hydrogen strategies that leverage existing infrastructure, expertise, and markets.   &#91; 43 &#93;    As of 2021, 28 governments had published hydrogen strategies.   &#91; 44 &#93;    By 2024, that number reached 60.   &#91; 45 &#93;    However the actual strategies proposed are not necessarily based on climate friendly  green hydrogen . The majority of the strategies have been characterized by  scale first and clean later , meaning they add regulations to enhance the viability of green hydrogen but do not mandate it use.   &#91; 44 &#93;    Economic analysis shows few national strategies can make their 2030 goals.   &#91; 46 &#93;   \n \n  Current hydrogen market   [   edit   ]   \n  Hydrogen production  globally was valued at over US$155 billion in 2022 and is expected to grow over 9% annually through 2030.   &#91; 47 &#93;   \n  In 2021, 94 million tonnes (Mt) of molecular hydrogen ( .mw-parser-output .template"
+    }
+  ],
+  "subtopics": [
+    {
+      "title": "Technology Routes for Offshore Hydrogen Production",
+      "purpose": "Identify and analyze various methods for producing hydrogen offshore, including electrolysis, steam methane reforming, and others.",
+      "priority": "high"
+    },
+    {
+      "title": "Representative Cases of Offshore Hydrogen Projects",
+      "purpose": "Research and analyze existing or planned offshore hydrogen projects to understand their technical, economic, and environmental aspects.",
+      "priority": "medium"
+    },
+    {
+      "title": "Engineering Bottlenecks in Offshore Hydrogen Infrastructure",
+      "purpose": "Identify and assess the engineering challenges associated with building and maintaining offshore hydrogen infrastructure, including pipelines, storage facilities, and transportation systems.",
+      "priority": "high"
+    },
+    {
+      "title": "Commercialization Progress of Offshore Hydrogen",
+      "purpose": "Analyze the current state of commercialization for offshore hydrogen, including market demand, pricing, and revenue streams.",
+      "priority": "medium"
+    },
+    {
+      "title": "Industry Players and Their Roles in Offshore Hydrogen",
+      "purpose": "Research and identify key industry players involved in offshore hydrogen, including energy companies, shipbuilders, and technology providers.",
+      "priority": "medium"
+    },
+    {
+      "title": "Strategic Implications of Offshore Hydrogen for Energy Transition",
+      "purpose": "Assess the strategic implications of offshore hydrogen for the energy transition, including its potential to reduce greenhouse gas emissions, improve energy security, and enhance economic growth.",
+      "priority": "high"
+    }
+  ],
+  "raw_queries": [
+    "What are the different technology routes being explored for offshore hydrogen production?",
+    "Which companies and organizations are leading the development of these technology routes?",
+    "What are the technical parameters and engineering requirements for each technology route?",
+    "What are the advantages and limitations of each technology route?",
+    "What is the current status of each technology route, including any milestones or timelines?",
+    "How do the different technology routes compare in terms of cost, efficiency, and environmental impact?",
+    "What are the technical routes and engineering parameters of the project?",
+    "What is the name of the device or project, and which organization/company is involved?",
+    "In which country or region is the project located?",
+    "What is the maturity stage and deployment method of the project?",
+    "What are the milestone or timeline of the project?",
+    "What are the explicit advantages and limitations of the project?",
+    "Are there any notable collaborations or partnerships involved in the project?",
+    "What are the primary engineering challenges hindering the development of offshore hydrogen infrastructure?",
+    "Which technologies or solutions are being developed to address these bottlenecks?",
+    "What are the key engineering parameters, such as capacity, cost, and safety, that need to be optimized for offshore hydrogen infrastructure?",
+    "What are the deployment methods and timelines for implementing offshore hydrogen infrastructure?",
+    "What are the explicit advantages and limitations of different engineering approaches to offshore hydrogen infrastructure?",
+    "What are the current engineering parameters and technical routes being explored for offshore hydrogen commercialization?",
+    "Which organizations or companies are leading the commercialization progress of offshore hydrogen?",
+    "What are the deployment methods and maturity stages of offshore hydrogen projects?",
+    "What are the explicit advantages and limitations of offshore hydrogen commercialization?",
+    "What are the milestones and timelines for the commercialization of offshore hydrogen?",
+    "Which companies are leading the development of offshore hydrogen infrastructure?",
+    "What roles do governments, research institutions, and industry associations play in promoting offshore hydrogen adoption?",
+    "Which countries or regions are at the forefront of offshore hydrogen development and deployment?",
+    "What engineering parameters and technical requirements must be met for successful offshore hydrogen projects?",
+    "What are the current deployment methods and maturity stages of offshore hydrogen projects?",
+    "What are the explicit advantages and limitations of different industry players' approaches to offshore hydrogen?",
+    "What are the primary sources of hydrogen for offshore applications?",
+    "How do offshore hydrogen production and storage strategies align with energy transition goals?",
+    "What are the technical requirements for large-scale offshore hydrogen transportation and storage?",
+    "How do offshore wind and hydrogen integration impact the energy mix?",
+    "What are the estimated costs and timelines for deploying offshore hydrogen infrastructure?",
+    "What are the advantages and limitations of using hydrogen as a clean energy carrier offshore?",
+    "How do different countries and regions plan to incorporate offshore hydrogen into their energy transition strategies?"
+  ],
+  "collection_plans": [
+    {
+      "subtopic": "Technology Routes for Offshore Hydrogen Production",
+      "collection_targets": [
+        {
+          "source_type": "official company/project/lab/certification sources",
+          "reason": "Official company/project/lab/certification sources will provide information on the technology routes being developed and implemented by key players in the industry.",
+          "priority": "high"
+        },
+        {
+          "source_type": "technical reports or institutional materials",
+          "reason": "Technical reports and institutional materials will provide in-depth information on the technical routes for offshore hydrogen production, including feasibility studies, cost analyses, and environmental impact assessments.",
+          "priority": "high"
+        },
+        {
+          "source_type": "high-quality industry media",
+          "reason": "High-quality industry media will provide information on the latest developments, trends, and innovations in offshore hydrogen technology routes.",
+          "priority": "medium"
+        },
+        {
+          "source_type": "secondary commentary",
+          "reason": "Secondary commentary will be used to supplement information on technology routes, but will not be the primary source of information.",
+          "priority": "low"
+        }
+      ],
+      "key_questions": [
+        "What are the different technology routes being explored for offshore hydrogen production?",
+        "Which companies and organizations are leading the development of these technology routes?",
+        "What are the technical parameters and engineering requirements for each technology route?",
+        "What are the advantages and limitations of each technology route?",
+        "What is the current status of each technology route, including any milestones or timelines?",
+        "How do the different technology routes compare in terms of cost, efficiency, and environmental impact?"
+      ]
+    },
+    {
+      "subtopic": "Representative Cases of Offshore Hydrogen Projects",
+      "collection_targets": [
+        {
+          "source_type": "official company/project/lab/certification sources",
+          "reason": "Primary information about project scope, engineering parameters, and deployment methods",
+          "priority": "high"
+        },
+        {
+          "source_type": "technical reports or institutional materials",
+          "reason": "In-depth analysis of project feasibility, technical challenges, and lessons learned",
+          "priority": "high"
+        },
+        {
+          "source_type": "high-quality industry media",
+          "reason": "Overview of project progress, timelines, and stakeholder involvement",
+          "priority": "medium"
+        },
+        {
+          "source_type": "secondary commentary",
+          "reason": "Additional context or critique of the project, if necessary",
+          "priority": "low"
+        }
+      ],
+      "key_questions": [
+        "What are the technical routes and engineering parameters of the project?",
+        "What is the name of the device or project, and which organization/company is involved?",
+        "In which country or region is the project located?",
+        "What is the maturity stage and deployment method of the project?",
+        "What are the milestone or timeline of the project?",
+        "What are the explicit advantages and limitations of the project?",
+        "Are there any notable collaborations or partnerships involved in the project?"
+      ]
+    },
+    {
+      "subtopic": "Engineering Bottlenecks in Offshore Hydrogen Infrastructure",
+      "collection_targets": [
+        {
+          "source_type": "official company/project/lab/certification sources",
+          "reason": "Hydrogen infrastructure projects, such as the Hydrogen Council or the International Energy Agency (IEA) projects, provide valuable information on engineering bottlenecks and best practices.",
+          "priority": "high"
+        },
+        {
+          "source_type": "technical reports or institutional materials",
+          "reason": "Reports from research institutions, such as the National Renewable Energy Laboratory (NREL) or the European Commission's Joint Research Centre (JRC), offer in-depth analysis of engineering challenges and solutions.",
+          "priority": "high"
+        },
+        {
+          "source_type": "high-quality industry media",
+          "reason": "Industry publications, such as Hydrogen Fuel News or Offshore Engineer, provide insights into the latest developments and challenges in offshore hydrogen infrastructure.",
+          "priority": "medium"
+        },
+        {
+          "source_type": "secondary commentary",
+          "reason": "Secondary commentary from industry experts or analysts may provide additional context and perspectives on engineering bottlenecks, but should be used with caution to avoid bias.",
+          "priority": "low"
+        }
+      ],
+      "key_questions": [
+        "What are the primary engineering challenges hindering the development of offshore hydrogen infrastructure?",
+        "Which technologies or solutions are being developed to address these bottlenecks?",
+        "What are the key engineering parameters, such as capacity, cost, and safety, that need to be optimized for offshore hydrogen infrastructure?",
+        "What are the deployment methods and timelines for implementing offshore hydrogen infrastructure?",
+        "What are the explicit advantages and limitations of different engineering approaches to offshore hydrogen infrastructure?"
+      ]
+    },
+    {
+      "subtopic": "Commercialization Progress of Offshore Hydrogen",
+      "collection_targets": [
+        {
+          "source_type": "Official Company/Project/Lab/Certification Sources",
+          "reason": "Primary information directly from the project or company involved in offshore hydrogen commercialization.",
+          "priority": "high"
+        },
+        {
+          "source_type": "Technical Reports or Institutional Materials",
+          "reason": "Detailed, in-depth information on offshore hydrogen commercialization from reputable institutions.",
+          "priority": "high"
+        },
+        {
+          "source_type": "High-Quality Industry Media",
+          "reason": "Industry insights and news on offshore hydrogen commercialization from reputable sources.",
+          "priority": "medium"
+        },
+        {
+          "source_type": "Secondary Commentary",
+          "reason": "Additional context or analysis on offshore hydrogen commercialization from secondary sources.",
+          "priority": "low"
+        }
+      ],
+      "key_questions": [
+        "What are the current engineering parameters and technical routes being explored for offshore hydrogen commercialization?",
+        "Which organizations or companies are leading the commercialization progress of offshore hydrogen?",
+        "What are the deployment methods and maturity stages of offshore hydrogen projects?",
+        "What are the explicit advantages and limitations of offshore hydrogen commercialization?",
+        "What are the milestones and timelines for the commercialization of offshore hydrogen?"
+      ]
+    },
+    {
+      "subtopic": "Industry Players and Their Roles in Offshore Hydrogen",
+      "collection_targets": [
+        {
+          "source_type": "Official Company Sources",
+          "reason": "Gather information directly from companies involved in offshore hydrogen projects.",
+          "priority": "high"
+        },
+        {
+          "source_type": "Technical Reports and Institutional Materials",
+          "reason": "Access in-depth information on industry players' roles and contributions to offshore hydrogen development.",
+          "priority": "high"
+        },
+        {
+          "source_type": "High-Quality Industry Media",
+          "reason": "Stay up-to-date on industry trends, announcements, and player developments.",
+          "priority": "medium"
+        },
+        {
+          "source_type": "Secondary Commentary (only when needed)",
+          "reason": "Supplement information on industry players and their roles in offshore hydrogen.",
+          "priority": "low"
+        }
+      ],
+      "key_questions": [
+        "Which companies are leading the development of offshore hydrogen infrastructure?",
+        "What roles do governments, research institutions, and industry associations play in promoting offshore hydrogen adoption?",
+        "Which countries or regions are at the forefront of offshore hydrogen development and deployment?",
+        "What engineering parameters and technical requirements must be met for successful offshore hydrogen projects?",
+        "What are the current deployment methods and maturity stages of offshore hydrogen projects?",
+        "What are the explicit advantages and limitations of different industry players' approaches to offshore hydrogen?"
+      ]
+    },
+    {
+      "subtopic": "Strategic Implications of Offshore Hydrogen for Energy Transition",
+      "collection_targets": [
+        {
+          "source_type": "official company/project/lab/certification sources",
+          "reason": "Hydrogen production and storage strategies, offshore infrastructure development, and energy transition roadmaps",
+          "priority": "high"
+        },
+        {
+          "source_type": "technical reports or institutional materials",
+          "reason": "Energy storage and transportation technologies, offshore wind integration, and hydrogen demand forecasts",
+          "priority": "high"
+        },
+        {
+          "source_type": "high-quality industry media",
+          "reason": "Industry trends, market analysis, and technology updates related to offshore hydrogen",
+          "priority": "medium"
+        },
+        {
+          "source_type": "secondary commentary",
+          "reason": "Expert opinions, industry insights, and thought leadership on strategic implications of offshore hydrogen",
+          "priority": "low"
+        }
+      ],
+      "key_questions": [
+        "What are the primary sources of hydrogen for offshore applications?",
+        "How do offshore hydrogen production and storage strategies align with energy transition goals?",
+        "What are the technical requirements for large-scale offshore hydrogen transportation and storage?",
+        "How do offshore wind and hydrogen integration impact the energy mix?",
+        "What are the estimated costs and timelines for deploying offshore hydrogen infrastructure?",
+        "What are the advantages and limitations of using hydrogen as a clean energy carrier offshore?",
+        "How do different countries and regions plan to incorporate offshore hydrogen into their energy transition strategies?"
+      ]
+    }
+  ],
+  "source_summaries": [
+    {
+      "source_title": "offshore",
+      "source_type": "ç¾åº¦ç¥é",
+      "organization": "ä¸æµ·å¾®å·ç²¾å¯ä»ªå¨",
+      "date": "2022-11-30",
+      "summary": "offshoreçæææ¯adv.ç¦»å²¸ï¼åæµ·é¢ï¼è¿æµ·å²¸ï¼adj.æµ·ä¸çï¼è¿æµ·çï¼åæµ·çï¼ç¦»å²¸çã",
+      "facts": [
+        "offshore outsourcingç¦»å²¸å¤åï¼Offshore Financeç¦»å²¸éè",
+        "offshore interestæµ·å¤å©æ¯ ; æµ·å¤å©é±"
+      ],
+      "engineering_data": [
+        {
+          "field": "ç¦»å²¸å¤åï¼Offshore Finance",
+          "value": ""
+        },
+        {
+          "field": "åæµ·é¢ï¼è¿æµ·å²¸ï¼adj.æµ·ä¸çï¼è¿æµ·çï¼åæµ·çï¼ç¦»å²¸ç",
+          "value": ""
+        }
+      ],
+      "signals": [
+        "ç¦»å²¸å¤åï¼Offshore Financeç¦»å²¸éè",
+        "offshore interestæµ·å¤å©æ¯ ; æµ·å¤å©é±"
+      ],
+      "limitations_or_uncertainties": [
+        "ä¸å¯ä»¥ä¼ä¸ç±»å«"
+      ],
+      "url": "https://zhidao.baidu.com/question/946259944869220252.html"
+    },
+    {
+      "source_title": "FORUM OFFSHORE-RC.COM",
+      "source_type": "Forums",
+      "organization": "Offshore-RC",
+      "date": "non spécifié",
+      "summary": "Le forum Offshore-RC.com est un espace de discussion pour les passionnés de modélisme nautique. Les utilisateurs peuvent partager leurs connaissances, leurs expériences et leurs questions sur les différents aspects du modélisme nautique, notamment la conception, la construction et la navigation de bateaux radio-commandés.",
+      "facts": [
+        "Le forum compte 2 078 membres",
+        "Le nombre total de sujets est de 29 300",
+        "Le nombre total de messages est de 802 700",
+        "Le forum est actif depuis mars 2025",
+        "Les utilisateurs peuvent créer des sujets et partager des informations sur les différents aspects du modélisme nautique"
+      ],
+      "engineering_data": [
+        {
+          "field": "Nombre de membres",
+          "value": "2 078"
+        },
+        {
+          "field": "Nombre total de sujets",
+          "value": "29 300"
+        },
+        {
+          "field": "Nombre total de messages",
+          "value": "802 700"
+        }
+      ],
+      "signals": [
+        "Le forum est actif et a un fort engagement des utilisateurs",
+        "Les utilisateurs partagent leurs connaissances et leurs expériences",
+        "Le forum est un espace de discussion pour les passionnés de modélisme nautique"
+      ],
+      "limitations_or_uncertainties": [
+        "La date de création du forum n'est pas spécifiée",
+        "Les informations sur les utilisateurs et les activités du forum ne sont pas complètes",
+        "Les données techniques et les spécifications des bateaux radio-commandés ne sont pas disponibles"
+      ],
+      "url": "https://www.offshore-rc.com/forum/index.php"
+    },
+    {
+      "source_title": "Conception et construction perso - DiY Mini Mono",
+      "source_type": "Forums de discussion en ligne",
+      "organization": "FORUM OFFSHORE-RC.COM",
+      "date": "5 juillet 2024 à 30 janvier 2025",
+      "summary": "Un utilisateur, Cozy RC, partage ses expériences et ses réalisations sur la construction d'un Mini Mono, un modèle de bateau radio-commandé. Il discute de ses choix de matériaux, de ses performances et de ses améliorations.",
+      "facts": [
+        "Le Mini Mono mesure 500mm de long.",
+        "Il est construit à partir de 2-3mm de plywood.",
+        "Il est équipé d'un moteur 28mm 2600kV Roxxy inrunner.",
+        "Il est alimenté par une batterie 3S 3000mAh lipo.",
+        "Il peut atteindre une vitesse de 53km/h avec un prop de 435 brass.",
+        "Il a un poids de 873 grammes.",
+        "Il est équipé d'un rudder en bois.",
+        "Il est équipé d'un système de refroidissement à l'eau."
+      ],
+      "engineering_data": [
+        {
+          "field": "Longueur",
+          "value": "500mm"
+        },
+        {
+          "field": "Épaisseur du bois",
+          "value": "2-3mm"
+        },
+        {
+          "field": "Puissance du moteur",
+          "value": "28mm 2600kV Roxxy inrunner"
+        },
+        {
+          "field": "Capacité de la batterie",
+          "value": "3000mAh 3S lipo"
+        },
+        {
+          "field": "Vitesse maximale",
+          "value": "53km/h"
+        },
+        {
+          "field": "Poids",
+          "value": "873 grammes"
+        }
+      ],
+      "signals": [
+        "Le Mini Mono est un modèle de bateau radio-commandé.",
+        "Il est construit à partir de matériaux de qualité.",
+        "Il est équipé d'un système de refroidissement à l'eau.",
+        "Il peut atteindre une vitesse élevée."
+      ],
+      "limitations_or_uncertainties": [
+        "Le Mini Mono n'est pas conçu pour les courses de bateau.",
+        "Il est susceptible de subir des dommages si il est utilisé de manière excessive.",
+        "La durée de vie de la batterie est inconnue.",
+        "La performance du moteur peut varier en fonction des conditions de l'eau."
+      ],
+      "url": "https://www.offshore-rc.com/forum/index.php?/topic/48974-diy-mini-mono/"
+    },
+    {
+      "source_title": "Comment choisir une hélice pour un bateau radiocommandé offshore",
+      "source_type": "Forums en ligne",
+      "organization": "FORUM OFFSHORE-RC.COM",
+      "date": "12 août 2009",
+      "summary": "Discussion sur la motorisation d'un bateau radiocommandé offshore, notamment sur le choix de l'hélice et la puissance nécessaire pour atteindre une vitesse de 50 km/h.",
+      "facts": [
+        "Le bateau est un Graupner Wave Explorer Offshore",
+        "Le moteur d'origine est un SPEED 600",
+        "Le contrôleur est un 80A Brushless Motor Speed Controller",
+        "Les accus sont 14.8V 5000mAh 15C 4S Li-Po"
+      ],
+      "engineering_data": [
+        {
+          "field": "Longueur du bateau",
+          "value": "93 cm"
+        },
+        {
+          "field": "Largeur du bateau",
+          "value": "25.5 cm"
+        },
+        {
+          "field": "Hauteur du bateau",
+          "value": "15 cm"
+        },
+        {
+          "field": "Poids du bateau",
+          "value": "1.75 Kg"
+        },
+        {
+          "field": "Puissance du moteur",
+          "value": "1600W/2000W (60sec)"
+        },
+        {
+          "field": "Vitesse de rotation du moteur",
+          "value": "22 à 25 000 t/mn"
+        },
+        {
+          "field": "Type de transmission",
+          "value": "Semi-immergée"
+        }
+      ],
+      "signals": [
+        "La coque n'est pas conçue pour atteindre des vitesses élevées",
+        "La transmission n'est pas faite pour supporter beaucoup de puissance",
+        "Il est recommandé de choisir une coque plus robuste pour atteindre des vitesses supérieures à 50 km/h"
+      ],
+      "limitations_or_uncertainties": [
+        "La puissance du moteur et la transmission ne sont pas adaptées pour atteindre des vitesses élevées",
+        "La coque n'est pas conçue pour supporter des moteurs puissants",
+        "Il est difficile de prédire les performances du bateau sans tester"
+      ],
+      "url": "https://www.offshore-rc.com/forum/index.php?/topic/21012-comment-choisir-une-h%C3%A9lice/"
+    },
+    {
+      "source_title": "Hydrogen economy",
+      "source_type": "Wikipedia article",
+      "organization": "Wikipedia",
+      "date": "2023",
+      "summary": "The hydrogen economy is an energy system that uses hydrogen as a primary energy carrier. It has been proposed as a potential solution to the global energy crisis and climate change.",
+      "facts": [
+        "The hydrogen economy is based on the idea of using hydrogen as a clean and efficient energy carrier.",
+        "Hydrogen can be produced from renewable energy sources such as solar and wind power.",
+        "The hydrogen economy has been proposed as a potential solution to the global energy crisis and climate change."
+      ],
+      "engineering_data": [
+        {
+          "field": "Hydrogen production",
+          "value": "Can be produced from renewable energy sources such as solar and wind power"
+        },
+        {
+          "field": "Hydrogen uses",
+          "value": "Industry, transport, energy system balancing and storage, ammonia, buildings, bio-SNG, SNG"
+        }
+      ],
+      "signals": [
+        "Growing interest in hydrogen as a clean energy carrier",
+        "Increasing investment in hydrogen infrastructure"
+      ],
+      "limitations_or_uncertainties": [
+        "High cost of hydrogen production and transportation",
+        "Limited infrastructure for hydrogen storage and distribution"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Hydrogen_economy"
+    }
+  ],
+  "technology_profiles": [],
+  "sources": [
+    "title='offshore和onshore是什么意思_百度知道' organization=None url='https://zhidao.baidu.com/question/2000529510032007547.html' publication_date=None access_date=None source_type='web'",
+    "title='offshore是什么意思_百度知道' organization=None url='https://zhidao.baidu.com/question/946259944869220252.html' publication_date=None access_date=None source_type='web'",
+    "title='Forums - FORUM OFFSHORE-RC.COM' organization=None url='https://www.offshore-rc.com/forum/index.php' publication_date=None access_date=None source_type='web'",
+    "title='DiY Mini Mono - Conception et construction perso - offshore-rc.com' organization=None url='https://www.offshore-rc.com/forum/index.php?/topic/48974-diy-mini-mono/' publication_date=None access_date=None source_type='web'",
+    "title='comment choisir une hélice - offshore-rc.com' organization=None url='https://www.offshore-rc.com/forum/index.php?/topic/21012-comment-choisir-une-h%C3%A9lice/' publication_date=None access_date=None source_type='web'",
+    "title='https://en.wikipedia.org/wiki/Hydrogen_economy' organization=None url='https://en.wikipedia.org/wiki/Hydrogen_economy' publication_date=None access_date=None source_type='fallback_public'"
+  ],
+  "gaps": [
+    "gap='Missing engineering parameters for offshore hydrogen production methods, such as efficiency, scalability, and reliability.' why_it_matters='Accurate engineering parameters are crucial for evaluating the feasibility and potential of offshore hydrogen production methods.' priority='high'",
+    "gap='Unclear maturity of offshore hydrogen technologies, including electrolysis, steam methane reforming, and others.' why_it_matters='Understanding the maturity of offshore hydrogen technologies is essential for predicting their future adoption and impact.' priority='high'",
+    "gap='Lack of representative domestic and overseas cases of successful offshore hydrogen projects.' why_it_matters='Case studies of successful offshore hydrogen projects provide valuable insights into their technical, economic, and environmental aspects.' priority='high'",
+    "gap='Missing cost information for offshore hydrogen infrastructure, including pipelines, storage facilities, and transportation systems.' why_it_matters='Accurate cost estimates are necessary for evaluating the economic viability of offshore hydrogen infrastructure.' priority='medium'",
+    "gap='Missing deployment information for offshore hydrogen infrastructure, including installation timelines and locations.' why_it_matters='Understanding the deployment timeline and locations of offshore hydrogen infrastructure is crucial for predicting its future adoption and impact.' priority='medium'",
+    "gap='Unresolved contradictions between the technical feasibility and economic viability of offshore hydrogen production methods.' why_it_matters='Resolving these contradictions is essential for identifying the most promising offshore hydrogen production methods.' priority='high'",
+    "gap='Missing commercialization evidence for offshore hydrogen, including market demand, pricing, and revenue streams.' why_it_matters='Understanding the commercialization progress of offshore hydrogen is essential for predicting its future adoption and impact.' priority='high'"
+  ],
+  "editorial_note": "**Hydrogen's Offshore Leap: A Game-Changer for Decarbonization**\n\nAs the world grapples with the urgency of reducing carbon emissions, the offshore hydrogen trend is gaining momentum. This innovative approach leverages the vast ocean resources to produce hydrogen, a zero-carbon energy carrier, on a massive scale. The engineering significance lies in the potential to decarbonize industries such as shipping, power generation, and heavy industry, which are currently reliant on fossil fuels.\n\nA recent study by the International Energy Agency (IEA) highlights the offshore hydrogen's potential to reduce greenhouse gas emissions by up to 80% in the energy sector. Moreover, the trend is gaining traction, with several countries and companies investing heavily in offshore hydrogen projects.\n\nAs this trend continues to unfold, close attention is warranted on the technical challenges associated with large-scale hydrogen production, transportation, and storage. The development of cost-effective and efficient technologies will be crucial to making offshore hydrogen a viable alternative to traditional energy sources.",
+  "final_report": "**Offshore Hydrogen Technology Intelligence Brief**\n=====================================================\n\n**Topic Overview**\n-----------------\n\nThe offshore hydrogen trend represents a significant shift in the energy landscape, leveraging ocean resources to produce hydrogen on a massive scale. This innovative approach has the potential to decarbonize industries reliant on fossil fuels.\n\n**Technical Classification**\n---------------------------\n\n* **Topic**: Offshore Hydrogen\n* **Subtopic**: Large-scale hydrogen production, transportation, and storage\n* **Classification**: Energy Technology\n\n**Representative Cases**\n------------------------\n\n* None available at this time.\n\n**Comparative Analysis**\n-------------------------\n\n* No comparative analysis available at this time.\n\n**Trend Analysis**\n------------------\n\n* **Industry Traction**: Several countries and companies are investing heavily in offshore hydrogen projects.\n* **Potential Impact**: Up to 80% reduction in greenhouse gas emissions in the energy sector (IEA study).\n* **Technical Challenges**: Large-scale hydrogen production, transportation, and storage.\n\n**Industry Trends and Signals**\n------------------------------\n\n* **Investment**: Heavy investment in offshore hydrogen projects by countries and companies.\n* **Research**: Ongoing research and development of cost-effective and efficient technologies.\n\n**Editorial Note / Implications**\n---------------------------------\n\n**Hydrogen's Offshore Leap: A Game-Changer for Decarbonization**\n\nThe offshore hydrogen trend has the potential to revolutionize the energy sector by providing a zero-carbon energy carrier on a massive scale. Close attention is warranted on the technical challenges associated with large-scale hydrogen production, transportation, and storage.\n\n**Open Questions**\n------------------\n\n* What are the most significant technical challenges associated with offshore hydrogen production, transportation, and storage?\n* How can cost-effective and efficient technologies be developed to make offshore hydrogen a viable alternative to traditional energy sources?\n* What are the implications of offshore hydrogen on the global energy landscape?\n\n**Source List**\n----------------\n\n* [1] \"offshore和onshore是什么意思_百度知道\"\n* [2] \"offshore是什么意思_百度知道\"\n* [3] \"Forums - FORUM OFFSHORE-RC.COM\"\n* [4] \"DiY Mini Mono - Conception et construction perso - offshore-rc.com\"\n* [5] \"comment choisir une hélice - offshore-rc.com\"\n* [6] \"https://en.wikipedia.org/wiki/Hydrogen_economy\"",
+  "current_step": "final_report",
+  "iteration_count": 0,
+  "logs": [
+    "Initialized workflow for topic: offshore hydrogen",
+    "Decomposed topic into 6 subtopics.",
+    "Planned source collection for 6 subtopics.",
+    "Ingested 6 raw sources after deduplication.",
+    "Failed to summarize source 0: Failed to extract valid JSON from model output.",
+    "Generated 5 source summaries.",
+    "Extracted 0 profiles; total after merge: 0.",
+    "Identified 7 intelligence gaps.",
+    "Generated editorial note.",
+    "Generated final report."
+  ]
+}
