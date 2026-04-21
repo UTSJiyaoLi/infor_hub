@@ -1,0 +1,45 @@
+{
+  "task_id": "2d09573b8d694827aba23c3695ab056c",
+  "status": "success",
+  "created_at": "2026-04-21T06:52:50.483928+00:00",
+  "updated_at": "2026-04-21T06:52:50.493343+00:00",
+  "message": "Task completed and artifacts saved",
+  "artifact_paths": {
+    "base_dir": "outputs\\2d09573b8d694827aba23c3695ab056c",
+    "result_json": "outputs\\2d09573b8d694827aba23c3695ab056c\\result.json",
+    "final_report_md": "outputs\\2d09573b8d694827aba23c3695ab056c\\final_report.md"
+  },
+  "result": {
+    "raw_sources": [
+      {
+        "title": "demo",
+        "url": "https://example.com",
+        "source_type": "report",
+        "text": "demo"
+      }
+    ],
+    "documents": [
+      {
+        "doc_id": "5b0e5d9bbf9cb639",
+        "title": "demo",
+        "published_at": null,
+        "source": "report",
+        "url": "https://example.com",
+        "body_markdown": "demo",
+        "summary": "demo",
+        "language": "en",
+        "doc_type": "report",
+        "metadata": {
+          "domain": null,
+          "source_type": "report"
+        }
+      }
+    ],
+    "signals": [],
+    "candidates": [],
+    "dossiers": {},
+    "scores": [],
+    "final_report": "# Infor Hub 情报报告：test\n\n## 本期扫描范围\n- 主题：test\n- 目标：test\n- 候选方向数：0\n\n## 本期优先关注方向\n\n## 方向详情\n## 横向比较结论\n- 优先投入证据丰富且具备成熟度/标准化信号的方向。\n- 对信号强但证据薄的方向，建议下一轮重点补证。\n"
+  },
+  "error": null
+}

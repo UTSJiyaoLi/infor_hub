@@ -1,0 +1,212 @@
+{
+  "task_id": "35a8bde44d094b3caa54b4c66f79f68d",
+  "status": "success",
+  "created_at": "2026-04-21T06:10:25.757855+00:00",
+  "updated_at": "2026-04-21T06:10:25.773789+00:00",
+  "message": "Task completed and artifacts saved",
+  "artifact_paths": {
+    "base_dir": "outputs\\35a8bde44d094b3caa54b4c66f79f68d",
+    "result_json": "outputs\\35a8bde44d094b3caa54b4c66f79f68d\\result.json",
+    "final_report_md": "outputs\\35a8bde44d094b3caa54b4c66f79f68d\\final_report.md"
+  },
+  "result": {
+    "raw_sources": [
+      {
+        "title": "Demo",
+        "source_type": "report",
+        "url": "https://example.com",
+        "text": "Floating hydrogen prototype demonstration with DNV certification and funding support."
+      }
+    ],
+    "documents": [
+      {
+        "doc_id": "2eb69833c13fc8bd",
+        "title": "Demo",
+        "published_at": null,
+        "source": "report",
+        "url": "https://example.com",
+        "body_markdown": "Floating hydrogen prototype demonstration with DNV certification and funding support.",
+        "summary": "Floating hydrogen prototype demonstration with DNV certification and funding support.",
+        "language": "en",
+        "doc_type": "report",
+        "metadata": {
+          "domain": null,
+          "source_type": "report"
+        }
+      }
+    ],
+    "signals": [
+      {
+        "signal_type": "maturity",
+        "value": "prototype",
+        "strength": 2,
+        "evidence_doc_id": "2eb69833c13fc8bd",
+        "evidence_snippet": "Floating hydrogen prototype demonstration with DNV certification and funding support."
+      },
+      {
+        "signal_type": "funding_support",
+        "value": "funding",
+        "strength": 2,
+        "evidence_doc_id": "2eb69833c13fc8bd",
+        "evidence_snippet": "Floating hydrogen prototype demonstration with DNV certification and funding support."
+      },
+      {
+        "signal_type": "standard_certification",
+        "value": "dnv",
+        "strength": 1,
+        "evidence_doc_id": "2eb69833c13fc8bd",
+        "evidence_snippet": "Floating hydrogen prototype demonstration with DNV certification and funding support."
+      }
+    ],
+    "candidates": [
+      {
+        "candidate_id": "f630087cf2",
+        "name": "新型海洋能源技术方向",
+        "description": "新型海洋能源技术方向（由近期信号自动聚合）",
+        "entity_tags": [
+          "maturity"
+        ],
+        "representative_evidence": [
+          {
+            "signal_type": "maturity",
+            "value": "prototype",
+            "strength": 2,
+            "evidence_doc_id": "2eb69833c13fc8bd",
+            "evidence_snippet": "Floating hydrogen prototype demonstration with DNV certification and funding support."
+          }
+        ],
+        "related_doc_ids": [
+          "2eb69833c13fc8bd"
+        ]
+      },
+      {
+        "candidate_id": "b37c7625f5",
+        "name": "综合能源协同方向",
+        "description": "综合能源协同方向（由近期信号自动聚合）",
+        "entity_tags": [
+          "funding_support",
+          "standard_certification"
+        ],
+        "representative_evidence": [
+          {
+            "signal_type": "funding_support",
+            "value": "funding",
+            "strength": 2,
+            "evidence_doc_id": "2eb69833c13fc8bd",
+            "evidence_snippet": "Floating hydrogen prototype demonstration with DNV certification and funding support."
+          },
+          {
+            "signal_type": "standard_certification",
+            "value": "dnv",
+            "strength": 1,
+            "evidence_doc_id": "2eb69833c13fc8bd",
+            "evidence_snippet": "Floating hydrogen prototype demonstration with DNV certification and funding support."
+          }
+        ],
+        "related_doc_ids": [
+          "2eb69833c13fc8bd"
+        ]
+      }
+    ],
+    "dossiers": {
+      "f630087cf2": {
+        "candidate": {
+          "candidate_id": "f630087cf2",
+          "name": "新型海洋能源技术方向",
+          "description": "新型海洋能源技术方向（由近期信号自动聚合）",
+          "entity_tags": [
+            "maturity"
+          ],
+          "representative_evidence": [
+            {
+              "signal_type": "maturity",
+              "value": "prototype",
+              "strength": 2,
+              "evidence_doc_id": "2eb69833c13fc8bd",
+              "evidence_snippet": "Floating hydrogen prototype demonstration with DNV certification and funding support."
+            }
+          ],
+          "related_doc_ids": [
+            "2eb69833c13fc8bd"
+          ]
+        },
+        "doc_count": 1,
+        "sources": [
+          "https://example.com"
+        ],
+        "evidence_titles": [
+          "Demo"
+        ]
+      },
+      "b37c7625f5": {
+        "candidate": {
+          "candidate_id": "b37c7625f5",
+          "name": "综合能源协同方向",
+          "description": "综合能源协同方向（由近期信号自动聚合）",
+          "entity_tags": [
+            "funding_support",
+            "standard_certification"
+          ],
+          "representative_evidence": [
+            {
+              "signal_type": "funding_support",
+              "value": "funding",
+              "strength": 2,
+              "evidence_doc_id": "2eb69833c13fc8bd",
+              "evidence_snippet": "Floating hydrogen prototype demonstration with DNV certification and funding support."
+            },
+            {
+              "signal_type": "standard_certification",
+              "value": "dnv",
+              "strength": 1,
+              "evidence_doc_id": "2eb69833c13fc8bd",
+              "evidence_snippet": "Floating hydrogen prototype demonstration with DNV certification and funding support."
+            }
+          ],
+          "related_doc_ids": [
+            "2eb69833c13fc8bd"
+          ]
+        },
+        "doc_count": 1,
+        "sources": [
+          "https://example.com"
+        ],
+        "evidence_titles": [
+          "Demo"
+        ]
+      }
+    },
+    "scores": [
+      {
+        "candidate_id": "b37c7625f5",
+        "growth": 10,
+        "feasibility": 7,
+        "synergy": 9,
+        "moat": 14,
+        "timing": 14,
+        "total": 54,
+        "rationale": [
+          "证据文档数=1",
+          "来源数量=1",
+          "信号标签=funding_support,standard_certification"
+        ]
+      },
+      {
+        "candidate_id": "f630087cf2",
+        "growth": 10,
+        "feasibility": 11,
+        "synergy": 8,
+        "moat": 6,
+        "timing": 8,
+        "total": 43,
+        "rationale": [
+          "证据文档数=1",
+          "来源数量=1",
+          "信号标签=maturity"
+        ]
+      }
+    ],
+    "final_report": "# Infor Hub 情报报告：offshore hydrogen platform\n\n## 本期扫描范围\n- 主题：offshore hydrogen platform\n- 目标：test report\n- 候选方向数：2\n\n## 本期优先关注方向\n1. **综合能源协同方向**（总分 54/100）\n2. **新型海洋能源技术方向**（总分 43/100）\n\n## 方向详情\n### 综合能源协同方向\n- 核心判断：综合能源协同方向（由近期信号自动聚合）\n- 阶段标签：funding_support, standard_certification\n- 评分：Growth 10 / Feasibility 7 / Synergy 9 / Moat 14 / Timing 14\n- 关键证据：Demo\n- 评分依据：证据文档数=1 | 来源数量=1 | 信号标签=funding_support,standard_certification\n\n### 新型海洋能源技术方向\n- 核心判断：新型海洋能源技术方向（由近期信号自动聚合）\n- 阶段标签：maturity\n- 评分：Growth 10 / Feasibility 11 / Synergy 8 / Moat 6 / Timing 8\n- 关键证据：Demo\n- 评分依据：证据文档数=1 | 来源数量=1 | 信号标签=maturity\n\n## 横向比较结论\n- 优先投入证据丰富且具备成熟度/标准化信号的方向。\n- 对信号强但证据薄的方向，建议下一轮重点补证。\n"
+  },
+  "error": null
+}

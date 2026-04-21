@@ -1,0 +1,32 @@
+{
+  "raw_sources": [
+    {
+      "title": "Demo source",
+      "source_type": "report",
+      "url": "https://example.com",
+      "text": "demo text"
+    }
+  ],
+  "documents": [
+    {
+      "doc_id": "ae979b5384afcce9",
+      "title": "Demo source",
+      "published_at": null,
+      "source": "report",
+      "url": "https://example.com",
+      "body_markdown": "demo text",
+      "summary": "demo text",
+      "language": "en",
+      "doc_type": "report",
+      "metadata": {
+        "domain": null,
+        "source_type": "report"
+      }
+    }
+  ],
+  "signals": [],
+  "candidates": [],
+  "dossiers": {},
+  "scores": [],
+  "final_report": "# Infor Hub 情报报告：floating offshore wind\n\n## 本期扫描范围\n- 主题：floating offshore wind\n- 目标：生成工程情报简报，包含案例对比、趋势、风险与跟踪建议\n- 候选方向数：0\n\n## 本期优先关注方向\n\n## 方向详情\n## 横向比较结论\n- 优先投入证据丰富且具备成熟度/标准化信号的方向。\n- 对信号强但证据薄的方向，建议下一轮重点补证。\n"
+}

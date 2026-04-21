@@ -1,0 +1,47 @@
+﻿:root {
+  --bg: #f1f5f9;
+  --panel: #ffffff;
+  --line: #cfd8e3;
+  --text: #0f172a;
+  --muted: #516079;
+  --accent: #0f766e;
+  --accent-2: #115e59;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  background: radial-gradient(circle at 15% 0%, #e0f2fe 0%, #eff6ff 35%, #f8fafc 100%);
+  color: var(--text);
+  font-family: "Segoe UI", "PingFang SC", sans-serif;
+}
+main {
+  max-width: 1100px;
+  margin: 24px auto;
+  padding: 0 14px 28px;
+}
+.card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 14px;
+  box-shadow: 0 10px 25px rgba(15, 23, 42, 0.06);
+}
+.grid { display: grid; gap: 12px; grid-template-columns: 1fr 1fr; }
+@media (max-width: 900px) { .grid { grid-template-columns: 1fr; } }
+label { display: block; margin: 0 0 6px; color: #1f3151; font-weight: 600; }
+input, textarea, button {
+  width: 100%; border: 1px solid var(--line); border-radius: 10px; padding: 10px;
+  font: inherit; color: var(--text); background: #fff;
+}
+textarea { min-height: 110px; resize: vertical; }
+button { cursor: pointer; font-weight: 600; }
+button.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+button.primary:hover { background: var(--accent-2); border-color: var(--accent-2); }
+.muted { color: var(--muted); }
+.mono {
+  margin: 0; white-space: pre-wrap; overflow: auto; max-height: 460px;
+  background: #0b1220; color: #dbeafe; border-radius: 10px; padding: 12px;
+  font: 12px/1.5 Consolas, "Courier New", monospace;
+}
+.row { display: grid; gap: 10px; grid-template-columns: 1fr 1fr; }
+.actions { display: grid; gap: 10px; grid-template-columns: 1fr 1fr 1fr; }

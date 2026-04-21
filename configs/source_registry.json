@@ -1,0 +1,26 @@
+[
+  {
+    "source_id": "dnv_news",
+    "name": "DNV News",
+    "domain": "dnv.com",
+    "source_type": "standard",
+    "entry_urls": ["https://www.dnv.com/news/"],
+    "fetch_method": "static_html",
+    "update_frequency": "weekly",
+    "credibility": "high",
+    "tags": ["standard", "certification", "offshore"],
+    "enabled": true
+  },
+  {
+    "source_id": "iea_wind",
+    "name": "IEA Wind",
+    "domain": "iea.org",
+    "source_type": "database",
+    "entry_urls": ["https://www.iea.org/topics/wind"],
+    "fetch_method": "static_html",
+    "update_frequency": "monthly",
+    "credibility": "high",
+    "tags": ["market", "policy", "wind"],
+    "enabled": true
+  }
+]
