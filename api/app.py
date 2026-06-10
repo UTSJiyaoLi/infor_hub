@@ -16,6 +16,10 @@ from schemas.api import (
     TaskStateResponse,
 )
 from services.pipeline_v2 import run_intelligence_pipeline, stream_report_events
+from services.pipeline_v3 import (
+    run_intelligence_pipeline_v3,
+    stream_report_events_v3,
+)
 from settings import settings
 from storage.task_store import TASK_STORE
 from storage.workspace_store import utc_now
@@ -40,11 +44,20 @@ def _write_task_artifacts(task_id: str, result: Dict[str, Any]) -> None:
 def _run_task(task_id: str, payload: CreateTaskRequest) -> None:
     TASK_STORE.mark_running(task_id)
     try:
-        result = run_intelligence_pipeline(
-            topic=payload.topic,
-            user_goal=payload.user_goal,
-            raw_sources=payload.raw_sources,
-        ).to_dict()
+        use_v3 = payload.pipeline_version == "v3" or not payload.raw_sources
+        if use_v3:
+            result = run_intelligence_pipeline_v3(
+                topic=payload.topic,
+                user_goal=payload.user_goal,
+                raw_sources=payload.raw_sources or None,
+                time_window_days=payload.time_window_days,
+            ).to_dict()
+        else:
+            result = run_intelligence_pipeline(
+                topic=payload.topic,
+                user_goal=payload.user_goal,
+                raw_sources=payload.raw_sources,
+            ).to_dict()
         _write_task_artifacts(task_id, result)
         TASK_STORE.mark_success(task_id, result=result, message="Task completed and artifacts saved")
     except Exception as exc:
@@ -96,9 +109,19 @@ def create_app():
 
     @app.post("/report/stream")
     def report_stream(req: ReportStreamRequest):
+        use_v3 = req.pipeline_version == "v3" or not req.raw_sources
+
         def _event_stream():
             try:
-                gen = stream_report_events(req.topic, req.user_goal, req.raw_sources)
+                if use_v3:
+                    gen = stream_report_events_v3(
+                        topic=req.topic,
+                        user_goal=req.user_goal,
+                        raw_sources=req.raw_sources or None,
+                        time_window_days=req.time_window_days,
+                    )
+                else:
+                    gen = stream_report_events(req.topic, req.user_goal, req.raw_sources)
                 while True:
                     event = next(gen)
                     yield f"event: step\ndata: {json.dumps(event, ensure_ascii=False)}\n\n"
@@ -113,6 +136,14 @@ def create_app():
 
     @app.post("/collect")
     def collect(req: ReportStreamRequest) -> Dict[str, Any]:
+        use_v3 = req.pipeline_version == "v3" or not req.raw_sources
+        if use_v3:
+            return run_intelligence_pipeline_v3(
+                topic=req.topic,
+                user_goal=req.user_goal,
+                raw_sources=req.raw_sources or None,
+                time_window_days=req.time_window_days,
+            ).to_dict()
         return run_intelligence_pipeline(
             topic=req.topic,
             user_goal=req.user_goal,

@@ -3,7 +3,7 @@ from __future__ import annotations
 import os
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Dict
+from typing import Dict, List, Optional
 
 
 def _parse_env_file(path: Path) -> Dict[str, str]:
@@ -28,6 +28,12 @@ def _load_env_chain() -> None:
             os.environ.setdefault(key, val)
 
 
+def _parse_comma_list(raw: Optional[str]) -> List[str]:
+    if not raw:
+        return []
+    return [x.strip() for x in raw.split(",") if x.strip()]
+
+
 @dataclass(frozen=True)
 class Settings:
     app_name: str
@@ -40,6 +46,12 @@ class Settings:
     source_registry_path: Path
     default_time_window_days: int
     max_sources_per_task: int
+    # Search orchestrator settings
+    search_backend: str
+    tavily_api_key: Optional[str]
+    searxng_url: str
+    default_include_domains: List[str]
+    max_search_results: int
 
 
 def load_settings() -> Settings:
@@ -67,8 +79,17 @@ def load_settings() -> Settings:
         source_registry_path=source_registry_path,
         default_time_window_days=int(os.getenv("INFOR_TIME_WINDOW_DAYS", "90")),
         max_sources_per_task=int(os.getenv("INFOR_MAX_SOURCES_PER_TASK", "100")),
+        search_backend=os.getenv("SEARCH_BACKEND", "ddgs"),
+        tavily_api_key=os.getenv("TAVILY_API_KEY") or None,
+        searxng_url=os.getenv("SEARXNG_URL", "http://127.0.0.1:8080"),
+        default_include_domains=_parse_comma_list(
+            os.getenv(
+                "DEFAULT_INCLUDE_DOMAINS",
+                "arxiv.org,iea.org,nrel.gov,irena.org,iea-oes.org,emec.org.uk,energy.gov",
+            )
+        ),
+        max_search_results=int(os.getenv("MAX_SEARCH_RESULTS", "10")),
     )
 
 
 settings = load_settings()
-

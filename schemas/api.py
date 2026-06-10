@@ -19,6 +19,7 @@ class CreateTaskRequest(BaseModel):
     raw_sources: List[Dict[str, Any]] = Field(default_factory=list)
     time_window_days: Optional[int] = None
     source_ids: List[str] = Field(default_factory=list)
+    pipeline_version: str = Field(default="v2")  # "v2" or "v3"
 
 
 class CreateTaskResponse(BaseModel):
@@ -44,4 +45,5 @@ class ReportStreamRequest(BaseModel):
     raw_sources: List[Dict[str, Any]] = Field(default_factory=list)
     time_window_days: Optional[int] = None
     source_ids: List[str] = Field(default_factory=list)
+    pipeline_version: str = Field(default="v2")  # "v2" or "v3"
 

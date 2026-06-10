@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and runtime outputs
+.logs/
+.outputs/
+outputs/
+data/
+.collector_workspace/
+
+# pytest
+.pytest_cache/
+
+# Frontend
+apps/web/node_modules/
+apps/web/.next/
+apps/web/out/
+apps/web/dist/
+
+# Environment (keep examples)
+.env
+.env.*
+!.env.example
+!.env.local
+
+# Sensitive / local
+*.key
+*.pem
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Coverage
+htmlcov/
+.coverage
